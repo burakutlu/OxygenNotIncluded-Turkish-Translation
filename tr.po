@@ -16,7 +16,7 @@ msgstr ""
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
 msgid "Uses: {0}"
-msgstr ""
+msgstr "Kullanım Alanları: {0}"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT_TOOLTIP
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT_TOOLTIP"
@@ -34,6 +34,8 @@ msgid ""
 "Some Duplicants are prohibited from passing through this door by the current "
 "<style=\"KKeyword\">Access Permissions</style>"
 msgstr ""
+"Mevcut <style=\"KKeyword\">erişim izinleri</style> nedeniyle bazı "
+"Duplicant'ların bu kapıdan geçmesi yasaklanmıştır."
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.NAME"
@@ -53,12 +55,12 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME"
 msgid "Damage: Duplicant Tantrum"
-msgstr ""
+msgstr "Hasar: Duplicant Öfke Nöbeti"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION"
 msgid "Building Damage: Duplicant Tantrum"
-msgstr ""
+msgstr "Bina hasarı: Duplicant Öfke Nöbeti"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION_TOOLTIP"
@@ -67,11 +69,14 @@ msgid ""
 "\n"
 "{0}"
 msgstr ""
+"Strese girmiş Duplicant'lar bu binalara hasar veriyor:\n"
+"\n"
+"{0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.TOOLTIP"
 msgid "A stressed Duplicant is damaging this building"
-msgstr ""
+msgstr "Stresli bir Duplicant bu binaya zarar veriyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDPUBLIC.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDPUBLIC.NAME"
@@ -104,6 +109,8 @@ msgid ""
 "Any Duplicant assigned to this <style=\"KKeyword\">Room</style> can use this "
 "amenity"
 msgstr ""
+"Bu <style=\"KKeyword\">odaya</style> atanan herhangi bir Duplicant bu "
+"özelliği kullanabilir"
 
 #. STRINGS.BUILDING.STATUSITEMS.AUTOPILOTACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AUTOPILOTACTIVE.NAME"
@@ -139,7 +146,7 @@ msgstr "Yem bekleniyor"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.TOOLTIP"
 msgid "Awaiting delivery of selected <style=\"KKeyword\">Bait</style>"
-msgstr ""
+msgstr "Seçilen <style=\"KKeyword\">yem türünün</style> teslimi bekleniyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME"
@@ -151,6 +158,8 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
 msgid ""
 "Compost must be flipped periodically to produce <link=\"DIRT\">Dirt</link>"
 msgstr ""
+"<link=\"DIRT\">Toprak</link> üretmek için kompost periyodik olarak "
+"çevrilmelidir"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGEGGDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGEGGDELIVERY.NAME"
@@ -160,7 +169,7 @@ msgstr "Teslimat bekleniyor"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGEGGDELIVERY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGEGGDELIVERY.TOOLTIP"
 msgid "Awaiting delivery of selected <style=\"KKeyword\">Egg</style>"
-msgstr ""
+msgstr "Seçilen <style=\"KKeyword\">yumurtanın</style> teslimi bekleniyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGEMPTYBUILDING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGEMPTYBUILDING.NAME"
@@ -190,7 +199,7 @@ msgstr "Teslimat bekleniyor"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP"
 msgid "Awaiting delivery of selected <style=\"KKeyword\">Seed</style>"
-msgstr ""
+msgstr "Seçilen <style=\"KKeyword\">tohumun</style> teslimi bekleniyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME"
@@ -256,7 +265,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.BROADCASTEROUTOFRANGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROADCASTEROUTOFRANGE.NAME"
 msgid "Broadcaster Out of Range"
-msgstr ""
+msgstr "Yayıncı menzil dışı"
 
 #. STRINGS.BUILDING.STATUSITEMS.BROADCASTEROUTOFRANGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROADCASTEROUTOFRANGE.TOOLTIP"
@@ -277,6 +286,9 @@ msgid ""
 "\n"
 "It will not function until it receives repairs"
 msgstr ""
+"Bu bina <b>{DamageInfo}</b> tarafından hasar aldı\n"
+"\n"
+"Tamir edilene kadar çalışmayacaktır."
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDING_DEPRECATED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDING_DEPRECATED.NAME"
@@ -417,6 +429,8 @@ msgid ""
 "Rebuild this medical equipment in a <style=\"KKeyword\">Hospital</style> to "
 "more effectively quarantine sick Duplicants"
 msgstr ""
+"Hasta Duplicant'ları daha etkili bir şekilde karantinaya almak için bu tıbbi "
+"ekipmanı bir <style=\"KKeyword\">hastanede</style> yeniden inşa edin"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.NAME"
@@ -444,11 +458,13 @@ msgid ""
 "This <style=\"KKeyword\">Telescope</style> has analyzed all the space "
 "visible from its current location"
 msgstr ""
+"Bu <style=\"KKeyword\">teleskop</style>, mevcut konumundan görülebilen tüm "
+"alanı analiz etti"
 
 #. STRINGS.BUILDING.STATUSITEMS.COLLECTINGHEP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLLECTINGHEP.NAME"
 msgid "Collecting Radbolts ({x}/cycle)"
-msgstr ""
+msgstr "Radbolt'lar toplanıyor ({x}/döngü)"
 
 #. STRINGS.BUILDING.STATUSITEMS.COLLECTINGHEP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLLECTINGHEP.TOOLTIP"
@@ -477,7 +493,7 @@ msgstr "Boru bloklanmış"
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP"
 msgid "Output <style=\"KKeyword\">Pipe</style> is blocked"
-msgstr ""
+msgstr "<style=\"KKeyword\">Boru</style> çıkışı engellendi"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKEDMULTIPLES.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKEDMULTIPLES.NAME"
@@ -487,7 +503,7 @@ msgstr "Boru bloklanmış"
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKEDMULTIPLES.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKEDMULTIPLES.TOOLTIP"
 msgid "Output <style=\"KKeyword\">Pipe</style> is blocked"
-msgstr ""
+msgstr "<style=\"KKeyword\">Boru</style> çıkışı engellendi"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONNECTED_ROCKET_NO_PORT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONNECTED_ROCKET_NO_PORT.NAME"
@@ -553,7 +569,7 @@ msgstr "Duplicant'lar bu şantiyeye ulaşamaz"
 #. STRINGS.BUILDING.STATUSITEMS.CONSUMINGFROMSTORAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSUMINGFROMSTORAGE.NAME"
 msgid "Consuming {ElementTypes}: {FlowRate}"
-msgstr ""
+msgstr "{ElementTypes} tüketiliyor: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSUMINGFROMSTORAGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSUMINGFROMSTORAGE.TOOLTIP"
@@ -581,6 +597,8 @@ msgid ""
 "\n"
 "  {0}"
 msgstr ""
+"\n"
+"  {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONVEYOR_CONTENTS.EMPTY
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONVEYOR_CONTENTS.EMPTY"
@@ -590,7 +608,7 @@ msgstr "Boş"
 #. STRINGS.BUILDING.STATUSITEMS.COOLING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.NAME"
 msgid "Cooling"
-msgstr ""
+msgstr "Soğutuluyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP"
@@ -600,7 +618,7 @@ msgstr "Bu bina çevresini soğutuyor"
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.NAME"
 msgid "Gas Too Cold"
-msgstr ""
+msgstr "Gaz çok soğuk"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.TOOLTIP"
@@ -609,6 +627,9 @@ msgid ""
 "\n"
 "Current Pipe Contents: {0}"
 msgstr ""
+"Bu bina, alttaki gelen boru içeriğini <b>{0}</b> soğutamaz\n"
+"\n"
+"Mevcut Boru İçeriği: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDLIQUID.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDLIQUID.NAME"
@@ -622,6 +643,9 @@ msgid ""
 "\n"
 "Current Pipe Contents: {0}"
 msgstr ""
+"Bu bina, alttaki gelen boru içeriğini <b>{0}</b> soğutamaz\n"
+"\n"
+"Mevcut Boru İçeriği: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.NAME"
@@ -737,6 +761,8 @@ msgid ""
 "This building needs to be emptied of <link=\"SALT\">Salt</link> to resume "
 "function"
 msgstr ""
+"İşlevini sürdürebilmesi için bu binadaki <link=\"SALT\">tuzun</link> "
+"boşaltılması gerekiyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.DESTINATIONOUTOFRANGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DESTINATIONOUTOFRANGE.NAME"
@@ -751,6 +777,10 @@ msgid ""
 "Rocket Range: {Range}\n"
 "Destination Distance: {Distance}"
 msgstr ""
+"Bu roket hedefine ulaşmak için menzile sahip değil\n"
+"------------------\n"
+"Roket Menzili: {Range}\n"
+"Hedef Mesafe: {Distance}"
 
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.NAME"
@@ -780,7 +810,7 @@ msgstr "Bu tarayıcı şu anda ilgi çekici herhangi bir şey için alanı tarı
 #. STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESSKILLPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESSKILLPERK.NAME"
 msgid "Skill-Required Dig"
-msgstr ""
+msgstr "Beceri gerektiren kazı"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESSKILLPERK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESSKILLPERK.TOOLTIP"
@@ -789,6 +819,9 @@ msgid ""
 "can mine this material:\n"
 "{Skills}"
 msgstr ""
+"Yalnızca aşağıdaki <style=\"KKeyword\">becerilerden</style> birine sahip "
+"Duplicant'lar bu materyalin madenciliğini yapabilir:\n"
+"{Skills}"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME"
@@ -858,7 +891,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.TOOLTIP"
 msgid "This object is utilizing ambient {ElementTypes} from the environment"
-msgstr ""
+msgstr "Bu nesne, ortamdaki {ElementTypes} maddesini kullanıyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.NAME"
@@ -871,6 +904,8 @@ msgid ""
 "This building is using {ElementTypes} from storage at a rate of <style="
 "\"consumed\">{FlowRate}</style>"
 msgstr ""
+"Bu bina, depodan <style=\"consumed\">{FlowRate}</style> oranında "
+"{ElementTypes} kullanıyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.NAME"
@@ -883,6 +918,8 @@ msgid ""
 "This building is releasing {ElementTypes} at a rate of <style=\"produced"
 "\">{FlowRate}</style>"
 msgstr ""
+"Bu bina, {ElementTypes} maddesini <style=\"produced\">{FlowRate}</style> "
+"oranında serbest bırakıyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.NAME"
@@ -895,6 +932,8 @@ msgid ""
 "This object is releasing {ElementTypes} at a rate of <style=\"produced"
 "\">{FlowRate}</style>"
 msgstr ""
+"Bu nesne, {ElementTypes} maddesini <style=\"produced\">{FlowRate}</style> "
+"oranında serbest bırakıyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDHIGHPRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDHIGHPRESSURE.NAME"
@@ -937,6 +976,7 @@ msgstr "{ElementType} yayılıyor: {FlowRate}"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.TOOLTIP"
 msgid "Producing {ElementType} at <style=\"produced\">{FlowRate}</style>"
 msgstr ""
+"<style=\"produced\">{FlowRate}</style> oranında {ElementType} üretiliyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.NAME"
@@ -946,7 +986,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.TOOLTIP"
 msgid "Producing {Element} at a rate of <style=\"produced\">{FlowRate}</style>"
-msgstr ""
+msgstr "<style=\"produced\">{FlowRate}</style> oranında {Element} üretiliyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME"
@@ -982,7 +1022,7 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.EMPTYPUMPINGSTATION.TOOLTIP"
 msgid ""
 "This pumping station cannot access any <style=\"KKeyword\">Liquid</style>"
 msgstr ""
-"Bu pompa istasyonu herhangi bir <style=\"KKeyword\">Liquid</style>'e erişemez"
+"Bu pompa istasyonu herhangi bir <style=\"KKeyword\">sıvıya</style> erişemez"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENOUGH_COOLANT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENOUGH_COOLANT.NAME"
@@ -1012,7 +1052,7 @@ msgstr "Gömülü"
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_NAME"
 msgid "Building entombment"
-msgstr "Defin inşa ediliyor"
+msgstr "Yapı gömülü halde"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP"
@@ -1095,6 +1135,8 @@ msgid ""
 "This fabricator is allowed to use <style=\"KKeyword\">Mutant Seeds</style> "
 "as recipe ingredients"
 msgstr ""
+"Bu üretici <style=\"KKeyword\">mutant tohumları</style> tarif malzemeleri "
+"olarak kullanabilir"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.NAME"
@@ -1163,7 +1205,7 @@ msgstr "Su basıyor"
 #. STRINGS.BUILDING.STATUSITEMS.FLOODED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLOODED.NOTIFICATION_TOOLTIP"
 msgid "These buildings are flooded:"
-msgstr "Bu binalara su bastı: "
+msgstr "Bu binalara su bastı:"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLOODED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLOODED.TOOLTIP"
@@ -1256,7 +1298,7 @@ msgstr "Boş Boru"
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.TOOLTIP"
 msgid "There is no <style=\"KKeyword\">Gas</style> in this pipe"
-msgstr ""
+msgstr "Bu boruda <style=\"KKeyword\">gaz</style> yok"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPEOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPEOBSTRUCTED.NAME"
@@ -1303,12 +1345,12 @@ msgstr "Jeneratör boşta"
 #. STRINGS.BUILDING.STATUSITEMS.GENERATOROFFLINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GENERATOROFFLINE.TOOLTIP"
 msgid "This <style=\"KKeyword\">Power</style> source is idle"
-msgstr ""
+msgstr "Bu <style=\"KKeyword\">güç</style> kaynağı atıl durumda"
 
 #. STRINGS.BUILDING.STATUSITEMS.GENESHUFFLECOMPLETED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GENESHUFFLECOMPLETED.NAME"
 msgid "Vacillation Complete"
-msgstr ""
+msgstr "Karıştırma tamamlandı"
 
 #. STRINGS.BUILDING.STATUSITEMS.GENESHUFFLECOMPLETED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GENESHUFFLECOMPLETED.TOOLTIP"
@@ -1316,6 +1358,7 @@ msgid ""
 "The Duplicant has completed the neural vacillation process and is ready to "
 "be released"
 msgstr ""
+"Duplicant nöral karıştırma sürecini tamamladı ve serbest bırakılmaya hazır"
 
 #. STRINGS.BUILDING.STATUSITEMS.GETTINGREADY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GETTINGREADY.NAME"
@@ -1494,11 +1537,13 @@ msgctxt ""
 msgid ""
 "Incoming <style=\"KKeyword\">Radbolts</style> will be accepted and redirected"
 msgstr ""
+"Gelen <style=\"KKeyword\">radbolt'lar</style> kabul edilecek ve yeniden "
+"yönlendirilecek"
 
 #. STRINGS.BUILDING.STATUSITEMS.HOTTUBFILLING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HOTTUBFILLING.NAME"
 msgid "Filling Up: ({fullness})"
-msgstr ""
+msgstr "Dolduruluyor: ({fullness})"
 
 #. STRINGS.BUILDING.STATUSITEMS.HOTTUBFILLING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HOTTUBFILLING.TOOLTIP"
@@ -1508,11 +1553,15 @@ msgid ""
 "It will be available to use when the <style=\"KKeyword\">Water</style> level "
 "reaches <b>100%</b>"
 msgstr ""
+"Bu küvet şu anda <style=\"KKeyword\">su</style> ile doluyor\n"
+"\n"
+"<style=\"KKeyword\">Su</style> seviyesi <b>%100</b>'e ulaştığında kullanıma "
+"hazır olacaktır."
 
 #. STRINGS.BUILDING.STATUSITEMS.HOTTUBTOOHOT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HOTTUBTOOHOT.NAME"
 msgid "Building Too Hot"
-msgstr ""
+msgstr "Küvet çok sıcak"
 
 #. STRINGS.BUILDING.STATUSITEMS.HOTTUBTOOHOT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HOTTUBTOOHOT.TOOLTIP"
@@ -1522,11 +1571,15 @@ msgid ""
 "\n"
 "It needs to cool before it can safely be used"
 msgstr ""
+"Bu küvetin <style=\"KKeyword\">sıcaklığı</style>, <b>{temperature}</b> "
+"değerinin üzerinde\n"
+"\n"
+"Güvenli bir şekilde kullanılabilmesi için soğuması gerekir."
 
 #. STRINGS.BUILDING.STATUSITEMS.HOTTUBWATERTOOCOLD.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HOTTUBWATERTOOCOLD.NAME"
 msgid "Water Too Cold"
-msgstr ""
+msgstr "Su çok soğuk"
 
 #. STRINGS.BUILDING.STATUSITEMS.HOTTUBWATERTOOCOLD.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HOTTUBWATERTOOCOLD.TOOLTIP"
@@ -1536,6 +1589,11 @@ msgid ""
 "It is draining so it can be refilled with warmer <style=\"KKeyword\">Water</"
 "style>"
 msgstr ""
+"Bu küvetin <style=\"KKeyword\">su sıcaklık</style> değeri <b>{sıcaklık}</b> "
+"değerinin altında\n"
+"\n"
+"Daha sıcak <style=\"KKeyword\">su</style> ile doldurulabilmesi için "
+"boşaltılıyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.INCOMINGMETEORS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INCOMINGMETEORS.NAME"
@@ -1549,6 +1607,9 @@ msgid ""
 "\n"
 "High velocity objects on approach!"
 msgstr ""
+"Uyarı!\n"
+"\n"
+"Yüksek hızlı nesneler yaklaşıyor!"
 
 #. STRINGS.BUILDING.STATUSITEMS.INCUBATORPROGRESS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INCUBATORPROGRESS.NAME"
@@ -1566,7 +1627,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.INFLIGHT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INFLIGHT.NAME"
 msgid "In Flight To {Destination_Asteroid}: {ETA}"
-msgstr ""
+msgstr "{Destination_Asteroid}'e doğru uçuşta: {ETA}"
 
 #. STRINGS.BUILDING.STATUSITEMS.INFLIGHT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INFLIGHT.TOOLTIP"
@@ -1584,6 +1645,9 @@ msgid ""
 "\n"
 "It will arrive in {ETA}"
 msgstr ""
+"Bu roket şu anda {Destination_Asteroid} hedefine seyahat ediyor\n"
+"\n"
+"{ETA} içinde ulaşacak"
 
 #. STRINGS.BUILDING.STATUSITEMS.INORBIT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INORBIT.NAME"
@@ -1593,7 +1657,7 @@ msgstr "Yörüngede: {Destination}"
 #. STRINGS.BUILDING.STATUSITEMS.INORBIT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INORBIT.TOOLTIP"
 msgid "This rocket is currently in orbit around {Destination}"
-msgstr ""
+msgstr "Bu roket şu anda {Destination} yörüngesinde"
 
 #. STRINGS.BUILDING.STATUSITEMS.INORBITREQUIRED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INORBITREQUIRED.NAME"
@@ -1610,12 +1674,12 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.NAME"
 msgid "Invalid Building Location"
-msgstr ""
+msgstr "Geçersiz Bina Konumu"
 
 #. STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.TOOLTIP"
 msgid "Cannot construct a building in this location"
-msgstr ""
+msgstr "Bu konuma bir bina inşa edilemez"
 
 #. STRINGS.BUILDING.STATUSITEMS.INVALIDMASKSTATIONCONSUMPTIONSTATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INVALIDMASKSTATIONCONSUMPTIONSTATE.NAME"
@@ -1628,6 +1692,8 @@ msgctxt ""
 msgid ""
 "This station must be submerged in <style=\"KKeyword\">Oxygen</style> to work"
 msgstr ""
+"Bu istasyonun çalışması için <style=\"KKeyword\">oksijenin</style> içine "
+"daldırılması gerekir"
 
 #. STRINGS.BUILDING.STATUSITEMS.INVALIDPORTOVERLAP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INVALIDPORTOVERLAP.NAME"
@@ -1655,7 +1721,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.NAME"
 msgid "Power Available: {JoulesAvailable} / {JoulesCapacity}"
-msgstr ""
+msgstr "Mevcut Güç: {JouleAvailable} / {JoulesCapacity}"
 
 #. STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.TOOLTIP"
@@ -1677,7 +1743,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITNOTREACHED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITNOTREACHED.NAME"
 msgid "Amount remaining: {0}"
-msgstr ""
+msgstr "Kalan miktar: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITNOTREACHED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITNOTREACHED.TOOLTIP"
@@ -1688,37 +1754,37 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITREACHED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITREACHED.NAME"
 msgid "Limit Reached"
-msgstr ""
+msgstr "Limite ulaşıldı"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITREACHED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIMITVALVELIMITREACHED.TOOLTIP"
 msgid "No more Mass can be transferred"
-msgstr ""
+msgstr "Daha fazla kütle aktarılamaz"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.NAME"
 msgid "Empty Pipe"
-msgstr ""
+msgstr "Boş boru"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.TOOLTIP"
 msgid "There is no <style=\"KKeyword\">Liquid</style> in this pipe"
-msgstr ""
+msgstr "Bu boruda <style=\"KKeyword\">sıvı</style> yok"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.NAME"
 msgid "Not Pumping"
-msgstr ""
+msgstr "Pompalanmıyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.TOOLTIP"
 msgid "This pump is not active"
-msgstr ""
+msgstr "Bu pompa aktif değil"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.NAME"
 msgid "Liquid Vent Obstructed"
-msgstr ""
+msgstr "Sıvı menfezi engellenmiş"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.TOOLTIP"
@@ -1730,7 +1796,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.NAME"
 msgid "Liquid Vent Overpressure"
-msgstr ""
+msgstr "Sıvı menfezi aşırı basınç altında"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.TOOLTIP"
@@ -1770,7 +1836,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.LOGICOVERLOADED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOGICOVERLOADED.NAME"
 msgid "Damage: Overloading"
-msgstr ""
+msgstr "Hasar: Aşırı yüklenme"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOGICOVERLOADED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOGICOVERLOADED.TOOLTIP"
@@ -1784,7 +1850,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.LOGICSENSORSTATUSACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOGICSENSORSTATUSACTIVE.NAME"
 msgid "Sending a <b><style=\"logic_on\">Green Signal</style></b>"
-msgstr ""
+msgstr "<b><style=\"logic_on\">Yeşil sinyal</style></b> gönderiliyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOGICSENSORSTATUSACTIVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOGICSENSORSTATUSACTIVE.TOOLTIP"
@@ -1792,11 +1858,12 @@ msgid ""
 "This sensor is currently sending a <b><style=\"logic_on\">Green Signal</"
 "style></b>"
 msgstr ""
+"Bu sensör şu anda <b><style=\"logic_on\">yeşil sinyal</style></b> gönderiyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOGICSENSORSTATUSINACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOGICSENSORSTATUSINACTIVE.NAME"
 msgid "Sending a <b><style=\"logic_off\">Red Signal</style></b>"
-msgstr ""
+msgstr "<b><style=\"logic_off\">Kırmızı sinyal</style></b> gönderiliyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOGICSENSORSTATUSINACTIVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOGICSENSORSTATUSINACTIVE.TOOLTIP"
@@ -1804,11 +1871,13 @@ msgid ""
 "This sensor is currently sending <b><style=\"logic_off\">Red Signal</style></"
 "b>"
 msgstr ""
+"Bu sensör şu anda <b><style=\"logic_off\">kırmızı sinyal</style></"
+"b>gönderiyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOGICSWITCHSTATUSACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOGICSWITCHSTATUSACTIVE.NAME"
 msgid "Sending a <b><style=\"logic_on\">Green Signal</style></b>"
-msgstr ""
+msgstr "<b><style=\"logic_on\">Yeşil sinyal</style></b> gönderiliyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOGICSWITCHSTATUSACTIVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOGICSWITCHSTATUSACTIVE.TOOLTIP"
@@ -1820,7 +1889,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.LOGICSWITCHSTATUSINACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOGICSWITCHSTATUSINACTIVE.NAME"
 msgid "Sending a <b><style=\"logic_off\">Red Signal</style></b>"
-msgstr ""
+msgstr "<b><style=\"logic_off\">Kırmızı sinyal</style></b> gönderiliyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOGICSWITCHSTATUSINACTIVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOGICSWITCHSTATUSINACTIVE.TOOLTIP"
@@ -1832,7 +1901,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.NAME"
 msgid "Masterpiece"
-msgstr ""
+msgstr "Başyapıt"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.TOOLTIP"
@@ -1842,7 +1911,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.NAME"
 msgid "Quaint"
-msgstr ""
+msgstr "Antika"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.TOOLTIP"
@@ -1852,7 +1921,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.NAME"
 msgid "Crude"
-msgstr ""
+msgstr "Ham"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.TOOLTIP"
@@ -1862,24 +1931,24 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.NAME"
 msgid "Radbolt Decay"
-msgstr ""
+msgstr "Radbolt Çürümesi"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.TOOLTIP"
 msgid ""
 "This building is unable to maintain the integrity of the radbolts it is "
 "storing"
-msgstr ""
+msgstr "Bu bina, depoladığı radboltların bütünlüğünü koruyamıyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.NAME"
 msgid "Charging Up"
-msgstr ""
+msgstr "Şarj oluyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.TOOLTIP"
 msgid "This power source is being charged"
-msgstr ""
+msgstr "Bu güç kaynağı şarj ediliyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.NAME"
@@ -1901,17 +1970,17 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP"
 msgid "This Duplicant is under my control"
-msgstr ""
+msgstr "Bu Duplicant benim kontrolüm altında"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_MASS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_MASS"
 msgid "• {0}: {1}"
-msgstr ""
+msgstr "• {0}: {1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_UNITS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_UNITS"
 msgid "• {0}"
-msgstr ""
+msgstr "• {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME"
@@ -1919,6 +1988,8 @@ msgid ""
 "Insufficient Resources\n"
 "{ItemsRemaining}"
 msgstr ""
+"Yetersiz Kaynak\n"
+"{ItemsRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_NAME"
@@ -1939,7 +2010,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.LINE_ITEM"
 msgid "• {0}"
-msgstr ""
+msgstr "• {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.NAME"
@@ -1947,11 +2018,13 @@ msgid ""
 "Resources Low\n"
 "{ItemsRemaining}"
 msgstr ""
+"Kaynaklar az\n"
+"{ItemsRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.TOOLTIP"
 msgid "This building will soon require materials that are unavailable"
-msgstr ""
+msgstr "Bu bina yakında mevcut olmayan malzemeler gerektirecek"
 
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NAME"
@@ -1966,12 +2039,12 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_TOOLTIP"
 msgid "These buildings are collapsing:"
-msgstr ""
+msgstr "Bu binalar çöküyor:"
 
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.TOOLTIP"
 msgid "This building is collapsing"
-msgstr ""
+msgstr "Bu bina çöküyor"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME"
@@ -2003,7 +2076,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGREQUIREMENTS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGREQUIREMENTS.NAME"
 msgid "Missing Requirements"
-msgstr ""
+msgstr "Eksik Gereksinimler"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGREQUIREMENTS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGREQUIREMENTS.TOOLTIP"
@@ -2011,6 +2084,7 @@ msgid ""
 "There are some problems that need to be fixed before this building is "
 "operational"
 msgstr ""
+"Bu bina faaliyete geçmeden önce düzeltilmesi gereken bazı sorunlar var."
 
 #. STRINGS.BUILDING.STATUSITEMS.MODULEGENERATORNOTPOWERED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MODULEGENERATORNOTPOWERED.NAME"
@@ -2043,7 +2117,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.MODULESOLARPANELWATTAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MODULESOLARPANELWATTAGE.NAME"
 msgid "Current Wattage: {Wattage}"
-msgstr ""
+msgstr "Mevcut Watt: {Watt}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MODULESOLARPANELWATTAGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MODULESOLARPANELWATTAGE.TOOLTIP"
@@ -2065,7 +2139,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NEEDEGG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDEGG.NAME"
 msgid "No Egg Selected"
-msgstr ""
+msgstr "Yumurta seçilmedi"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDEGG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDEGG.TOOLTIP"
@@ -2077,7 +2151,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.LINE_ITEM"
 msgid "• {0}"
-msgstr ""
+msgstr "• {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME"
@@ -2085,6 +2159,8 @@ msgid ""
 "No Gas Intake\n"
 "{GasRequired}"
 msgstr ""
+"Gaz girişi yok\n"
+"{GasRequired}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP"
@@ -2092,11 +2168,13 @@ msgid ""
 "This building's <style=\"KKeyword\">Gas Intake</style> does not have a <link="
 "\"GASCONDUIT\">Gas Pipe</link> connected"
 msgstr ""
+"Bu binanın <style=\"KKeyword\">gaz girişine</style> bağlı bir <link="
+"\"GASCONDUIT\">gaz borusu</link> yok"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME"
 msgid "No Gas Output"
-msgstr ""
+msgstr "Gaz çıkışı yok"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.TOOLTIP"
@@ -2104,11 +2182,13 @@ msgid ""
 "This building's <style=\"KKeyword\">Gas Output</style> does not have a <link="
 "\"GASCONDUIT\">Gas Pipe</link> connected"
 msgstr ""
+"Bu binanın <style=\"KKeyword\">gaz çıkışına</style> bağlı bir <link="
+"\"GASCONDUIT\">gaz borusu</link> yok"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.LINE_ITEM"
 msgid "• {0}"
-msgstr ""
+msgstr "• {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME"
@@ -2116,6 +2196,8 @@ msgid ""
 "No Liquid Intake\n"
 "{LiquidRequired}"
 msgstr ""
+"Sıvı girişi yok\n"
+"{LiquidRequired}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP"
@@ -2123,11 +2205,13 @@ msgid ""
 "This building's <style=\"KKeyword\">Liquid Intake</style> does not have a "
 "<link=\"LIQUIDCONDUIT\">Liquid Pipe</link> connected"
 msgstr ""
+"Bu binanın <style=\"KKeyword\">sıvı girişine</style>bağlı bir <link="
+"\"LIQUIDCONDUIT\">sıvı borusu</link> yok"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME"
 msgid "No Liquid Output"
-msgstr ""
+msgstr "Sıvı çıkışı yok"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP"
@@ -2135,42 +2219,45 @@ msgid ""
 "This building's <style=\"KKeyword\">Liquid Output</style> does not have a "
 "<link=\"LIQUIDCONDUIT\">Liquid Pipe</link> connected"
 msgstr ""
+"Bu binanın <style=\"KKeyword\">sıvı çıkışına</style>bağlı bir <link="
+"\"LIQUIDCONDUIT\">sıvı borusu</link> yok"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.NAME"
 msgid "No Seeds"
-msgstr ""
+msgstr "Tohum yok"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.TOOLTIP"
 msgid "Uproot wild plants to obtain seeds"
-msgstr ""
+msgstr "Tohum elde etmek için yabani bitkileri kökünden sökün"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.NAME"
 msgid "No Power"
-msgstr ""
+msgstr "Güç yok"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.TOOLTIP"
 msgid ""
 "All connected <style=\"KKeyword\">Power</style> sources have lost charge"
 msgstr ""
+"Bağlı tüm <style=\"KKeyword\">güç</style> kaynaklarının enerjisi yok oldu"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.NAME"
 msgid "Resource Required"
-msgstr ""
+msgstr "Kaynak Gerekli"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.TOOLTIP"
 msgid "This building is missing required materials"
-msgstr ""
+msgstr "Bu binanın gerekli malzemeleri eksik"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCEMASS.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCEMASS.LINE_ITEM"
 msgid "• <b>{0}</b>"
-msgstr ""
+msgstr "• <b>{0}</b>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCEMASS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCEMASS.NAME"
@@ -2178,6 +2265,8 @@ msgid ""
 "Insufficient Resources\n"
 "{ResourcesRequired}"
 msgstr ""
+"Yetersiz Kaynak\n"
+"{ResourcesRequired}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCEMASS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCEMASS.TOOLTIP"
@@ -2190,12 +2279,12 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSEED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSEED.NAME"
 msgid "No Seed Selected"
-msgstr ""
+msgstr "Tohum seçilmedi"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSEED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSEED.TOOLTIP"
 msgid "Uproot wild plants to obtain seeds"
-msgstr ""
+msgstr "Tohum elde etmek için yabani bitkileri kökünden sökün"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.NAME"
@@ -2246,12 +2335,12 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME"
 msgid "Cannot Mine"
-msgstr ""
+msgstr "Kazılamaz"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.TOOLTIP"
 msgid "This resource cannot be mined by Duplicant tools"
-msgstr ""
+msgstr "Bu kaynak, Duplicant araçları tarafından kazılamaz"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME"
