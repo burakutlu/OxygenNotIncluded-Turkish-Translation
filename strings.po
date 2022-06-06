@@ -62434,7 +62434,7 @@ msgstr ""
 "{THERMAL_CONDUCTIVITY} W oranında diğer malzemelere ısı iletebilir\n"
 "\n"
 "İki nesne arasındaki ısı transfer hızı, en düşük Termal İletkenliğe sahip "
-"nesne tarafından belirlenecektir."
+"nesne tarafından belirlenecektir"
 
 #. STRINGS.UI.ELEMENTAL.UNITS.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.UNITS.NAME"
@@ -62612,7 +62612,7 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE"
 msgid "Cycle {0}"
-msgstr "{0} Döngü "
+msgstr "{0} Döngü"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_TODAY
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_TODAY"
@@ -63161,7 +63161,7 @@ msgstr "Asla"
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.DESCRIPTION
 msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.DESCRIPTION"
 msgid "Note: These values are configured per save file"
-msgstr "Not: Bu değerler, kaydetme dosyası başına yapılandırılır."
+msgstr "Not: Bu değerler, kaydetme dosyası başına yapılandırılır"
 
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.TIMELAPSE_DISABLED_DESCRIPTION
 msgctxt ""
@@ -63315,8 +63315,7 @@ msgctxt ""
 "DISABLED.TOOLTIP"
 msgid "These Duplicants were printed without tummies and need no food at all"
 msgstr ""
-"Bu Duplicant'lar, karınları olmadan basıldı ve hiçbir yiyeceğe ihtiyaç "
-"duymaz."
+"Bu Duplicant'lar, karınları olmadan basıldı ve hiçbir yiyeceğe ihtiyaç duymaz"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.EASY.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -63508,7 +63507,7 @@ msgid ""
 "that last forever"
 msgstr ""
 "Duplicant'lar giysi imalatını mükemmelleştirdiler ve sonsuza kadar dayanan "
-"giysiler üretebiliyorlar."
+"giysiler üretebiliyorlar"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.REINFORCED.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -63669,7 +63668,7 @@ msgid ""
 "funny"
 msgstr ""
 "Bir Duplicant çok komik bir şekilde hapşırırsa, tüm koloni veba tarafından "
-"perişan olur."
+"perişan olur"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.DEFAULT.NAME
 msgctxt ""
@@ -63757,7 +63756,7 @@ msgid ""
 "exposure"
 msgstr ""
 "Bu Duplicant'ların mikrop maruziyetinden hastalıklara yakalanma şansı "
-"yüksektir."
+"yüksektir"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.NAME
 msgctxt ""
@@ -63811,7 +63810,7 @@ msgid ""
 "of their morale"
 msgstr ""
 "Bu Duplicant'ların sıfır standartları vardır ve moralleri ne olursa olsun "
-"asla strese girmezler."
+"asla strese girmezler"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.EASY.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -63878,7 +63877,7 @@ msgid ""
 "demands"
 msgstr ""
 "En iyilerin en iyisi, bu Duplicant'ların katı taleplerine zar zor "
-"yetişebiliyor."
+"yetişebiliyor"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.NAME"
@@ -63930,7 +63929,7 @@ msgid ""
 "recover from radiation exposure much faster"
 msgstr ""
 "Duplicant hastalanmadan önce çok daha fazla radyasyona maruz kalabilir ve "
-"radyasyona maruz kalmaktan çok daha hızlı kurtulabilir."
+"radyasyona maruz kalmaktan çok daha hızlı kurtulabilir"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIEST.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -63955,7 +63954,7 @@ msgid ""
 "from radiation exposure very quickly"
 msgstr ""
 "Kopyalar esasen radyasyon hastalığına karşı savunmasızdır ve radyasyona "
-"maruz kaldıktan sonra çok hızlı bir şekilde iyileşirler."
+"maruz kaldıktan sonra çok hızlı bir şekilde iyileşirler"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDER.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -64018,7 +64017,7 @@ msgid ""
 "sick, and how quickly a Duplicant can recover from radiation exposure"
 msgstr ""
 "Bir Duplicant'ın hasta olmadan önce ne kadar radyasyona maruz kalabileceğini "
-"ve radyasyona maruz kaldıktan sonra ne kadar çabuk iyileşebileceğini etkiler."
+"ve radyasyona maruz kaldıktan sonra ne kadar çabuk iyileşebileceğini etkiler"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.LEVELS.DISABLED.NAME
 msgctxt ""
@@ -64167,7 +64166,7 @@ msgid ""
 "by stress as a result"
 msgstr ""
 "Bu Duplicant'lara asla başa çıkma mekanizmaları öğretilmedi... sonuç olarak "
-"stres yüzünden mahvoldular."
+"stres yüzünden mahvoldular"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.INDOMITABLE.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -64192,7 +64191,7 @@ msgid ""
 "stress"
 msgstr ""
 "Güçlü bir duygusal destek sistemi, bu Duplicant'ları tüm streslere karşı "
-"dayanıklı hale getirir."
+"dayanıklı hale getirir"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.OPTIMISTIC.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -64449,12 +64448,12 @@ msgstr "Sizden haber almak isteriz!"
 #. STRINGS.UI.FRONTEND.FEEDBACK_SCREEN.LOGS_DIRECTORY_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.FEEDBACK_SCREEN.LOGS_DIRECTORY_BUTTON"
 msgid "Browse Log Files"
-msgstr ""
+msgstr "Log Dosyalarına Gözat"
 
 #. STRINGS.UI.FRONTEND.FEEDBACK_SCREEN.SAVE_FILES_DIRECTORY_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.FEEDBACK_SCREEN.SAVE_FILES_DIRECTORY_BUTTON"
 msgid "Browse Save Files"
-msgstr ""
+msgstr "Kayıt Dosyalarına Gözat"
 
 #. STRINGS.UI.FRONTEND.FEEDBACK_SCREEN.SUGGESTION_FORUMS_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.FEEDBACK_SCREEN.SUGGESTION_FORUMS_BUTTON"
@@ -64469,12 +64468,12 @@ msgstr "GERİBİLDİRİM"
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.CONTROLS_DESCRIPTION
 msgctxt "STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.CONTROLS_DESCRIPTION"
 msgid "Change key bindings"
-msgstr ""
+msgstr "Tuş atamalarını değiştir"
 
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.DEFAULT_TO_CLOUD_SAVES
 msgctxt "STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.DEFAULT_TO_CLOUD_SAVES"
 msgid "Default to cloud saves"
-msgstr ""
+msgstr "Varsayılan olarak buluta kaydetme"
 
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.DEFAULT_TO_CLOUD_SAVES_TOOLTIP
 msgctxt ""
@@ -64483,6 +64482,8 @@ msgid ""
 "When a new colony is created, this controls whether it will be saved into "
 "the cloud saves folder for syncing or not."
 msgstr ""
+"Yeni bir koloni oluşturulduğunda, bu, senkronizasyon için bulut kaydetme "
+"klasörüne kaydedilip kaydedilmeyeceğini kontrol eder."
 
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.DISABLED_WARNING
 msgctxt "STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.DISABLED_WARNING"
@@ -64492,7 +64493,7 @@ msgstr "Oyunda daha fazla seçenek mevcut"
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_ENABLED
 msgctxt "STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_ENABLED"
 msgid "<i>Spaced Out!</i> Expansion Enabled"
-msgstr ""
+msgstr "<i>Spaced Out!</i> İçeriği Etkin"
 
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_ENABLED_TOOLTIP
 msgctxt ""
@@ -64500,6 +64501,8 @@ msgctxt ""
 msgid ""
 "If checked, content from the <i>Spaced Out!</i> Expansion will be available"
 msgstr ""
+"İşaretlenirse, <i>Spaced Out!</i> genişlet gelen içerik kullanılabilir "
+"olacaktır"
 
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_RESTART_BODY
 msgctxt ""
@@ -64517,7 +64520,7 @@ msgstr "YENİDEN BAŞLAT"
 msgctxt ""
 "STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_RESTART_TITLE"
 msgid "RESTART REQUIRED"
-msgstr ""
+msgstr "YENİDEN BAŞLATMA GEREKİYOR"
 
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.EXPANSION1_CONTENT_TESTING_BODY
 msgctxt ""
@@ -64647,17 +64650,17 @@ msgstr "Tam ekran"
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_DISPLAY
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_DISPLAY"
 msgid "DISPLAY"
-msgstr ""
+msgstr "EKRAN"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_UI
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_UI"
 msgid "INTERFACE"
-msgstr ""
+msgstr "ARAYÜZ"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.LOWRES
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.LOWRES"
 msgid "Low Resolution Textures"
-msgstr ""
+msgstr "Düşük Çözünürlüklü Dokular"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION"
@@ -64704,7 +64707,7 @@ msgstr "Sıfırla"
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.TITLE"
 msgid "CUSTOMIZE KEYS"
-msgstr ""
+msgstr "TUŞLARI ÖZELLEŞTİR"
 
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.UNBOUND_ACTION
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.UNBOUND_ACTION"
@@ -64714,7 +64717,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.WAITING_FOR_INPUT
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.WAITING_FOR_INPUT"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #. STRINGS.UI.FRONTEND.LOADING
 msgctxt "STRINGS.UI.FRONTEND.LOADING"
@@ -64731,47 +64734,47 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADSCREEN.BACKBUTTON
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.BACKBUTTON"
 msgid "< BACK"
-msgstr ""
+msgstr "< GERİ"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.BASE_NAME
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.BASE_NAME"
 msgid "Base Name"
-msgstr ""
+msgstr "Üs İsmi"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CLOUD_SAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CLOUD_SAVE"
 msgid "cloud"
-msgstr ""
+msgstr "bulut"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CLOUD_TUTORIAL_BOUNCER
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CLOUD_TUTORIAL_BOUNCER"
 msgid "Upload Saves to Cloud"
-msgstr ""
+msgstr "Kayıtları Buluta Yükle"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.COLONIES_TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.COLONIES_TITLE"
 msgid "Colony View"
-msgstr ""
+msgstr "Koloni Görünümü"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_FILE_NAME
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_FILE_NAME"
 msgid "File: '{0}'"
-msgstr ""
+msgstr "Dosya: '{0}'"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_FILE_SIZE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_FILE_SIZE"
 msgid "Size: {0}"
-msgstr ""
+msgstr "Boyut: {0}"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_INFO_FMT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_INFO_FMT"
 msgid "{0}: {1}"
-msgstr ""
+msgstr "{0}: {1}"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_TITLE"
 msgid "Viewing colony '{0}'"
-msgstr ""
+msgstr "'{0}' kolonisi görüntüleniyor"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE"
@@ -64779,6 +64782,8 @@ msgid ""
 "Are you sure you want to delete {0}?\n"
 "You cannot undo this action."
 msgstr ""
+"{0} silmek istediğinizden emin misiniz?\n"
+"Bu işlemi geri alamazsınız."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONTENT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONTENT"
@@ -64788,12 +64793,12 @@ msgstr "İçerik"
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_COLONIES
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_COLONIES"
 msgid "CONVERT ALL"
-msgstr ""
+msgstr "HEPSİNİ DÖNÜŞTÜR"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_CLOUD
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_CLOUD"
 msgid "Convert <b>all</b> colonies below to use cloud saves"
-msgstr ""
+msgstr "Aşağıdaki bütün kolonileri bulut kayıtlara dönüştürün"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_CLOUD_SUCCESS
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_CLOUD_SUCCESS"
@@ -64810,7 +64815,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_LOCAL
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_LOCAL"
 msgid "Convert <b>all</b> colonies below to use local saves"
-msgstr ""
+msgstr "Aşağıdaki bütün kolonileri yerel kayıtlara dönüştürün"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_LOCAL_SUCCESS
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_LOCAL_SUCCESS"
@@ -64834,17 +64839,17 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_COLONY
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_COLONY"
 msgid "CONVERT COLONY"
-msgstr ""
+msgstr "KOLONİYİ DÖNÜŞTÜR"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_COLONY_TO_CLOUD
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_COLONY_TO_CLOUD"
 msgid "Convert colony to use cloud saves"
-msgstr ""
+msgstr "Bulut kayıtlarını kullanmak için koloniyi dönüştürün"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_COLONY_TO_LOCAL
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_COLONY_TO_LOCAL"
 msgid "Convert to colony to use local saves"
-msgstr ""
+msgstr "Yerel kayıtları kullanmak için koloniyi dönüştürün"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ERROR
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ERROR"
@@ -64862,12 +64867,12 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ERROR_TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ERROR_TITLE"
 msgid "SAVE CONVERSION UNSUCCESSFUL"
-msgstr ""
+msgstr "KAYIT DÖNÜŞÜ BAŞARISIZ"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_CLOUD
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_CLOUD"
 msgid "CONVERT TO CLOUD SAVES"
-msgstr ""
+msgstr "BULUT KAYITLARA DÖNÜŞTÜR"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_CLOUD_DETAILS
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_CLOUD_DETAILS"
@@ -64882,7 +64887,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_LOCAL
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_LOCAL"
 msgid "CONVERT TO LOCAL SAVES"
-msgstr ""
+msgstr "YEREL KAYITLARA DÖNÜŞTÜR"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_LOCAL_DETAILS
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_LOCAL_DETAILS"
@@ -64900,11 +64905,13 @@ msgid ""
 "<b><color=#ff0000>Could not load file {0}. Its data may be corrupted.</"
 "color></b>"
 msgstr ""
+"<b><color=#ff0000>{0} dosyası yüklenemedi. Verileri bozulmuş olabilir.</"
+"color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CYCLES_SURVIVED
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CYCLES_SURVIVED"
 msgid "Cycles Survived"
-msgstr ""
+msgstr "Hayatta Kalınmış Döngüler"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON"
@@ -64914,12 +64921,12 @@ msgstr "SİL"
 #. STRINGS.UI.FRONTEND.LOADSCREEN.DUPLICANTS_ALIVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.DUPLICANTS_ALIVE"
 msgid "Duplicants Alive"
-msgstr ""
+msgstr "Hayatta olan Duplicant'lar"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.EXPANSION1_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.EXPANSION1_CONTENT"
 msgid "<i>Spaced Out!</i> Expansion FIXME"
-msgstr ""
+msgstr "<i>Spaced Out!</i> İçeriği FIXME"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.EXPANSION1_RESTART
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.EXPANSION1_RESTART"
@@ -64927,11 +64934,13 @@ msgid ""
 "Loading this colony will require restarting the game with <i>Spaced Out!</i> "
 "content enabled"
 msgstr ""
+"Bu koloniyi yüklemek, <i>Spaced Out!</i> içeriği etkinken oyunun yeniden "
+"başlatılmasını gerektirecektir"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.LOCAL_SAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.LOCAL_SAVE"
 msgid "local"
-msgstr ""
+msgstr "yerel"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_COUNT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_COUNT"
@@ -64949,12 +64958,12 @@ msgstr "DEVAM ET"
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_FAILURES_DONE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_FAILURES_DONE"
 msgid "MORE INFO"
-msgstr ""
+msgstr "DAHA FAZLA BİLGİ"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_FAILURES_FORUM_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_FAILURES_FORUM_BUTTON"
 msgid "VISIT FORUMS"
-msgstr ""
+msgstr "FORUMLARI ZİYARET ET"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_INFO
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_INFO"
@@ -65055,7 +65064,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADSCREEN.NO_PREVIEW
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.NO_PREVIEW"
 msgid "NO PREVIEW"
-msgstr ""
+msgstr "ÖNİZLEME YOK"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.OPEN_CLOUDSAVE_FOLDER
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.OPEN_CLOUDSAVE_FOLDER"
@@ -65089,17 +65098,17 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TEXT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TEXT"
 msgid "Access your save files using the options below."
-msgstr ""
+msgstr "Aşağıdaki seçenekleri kullanarak kaydetme dosyalarınıza erişin."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TITLE"
 msgid "SAVE INFORMATION"
-msgstr ""
+msgstr "BİLGİLERİ KAYDET"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TOOLTIP"
 msgid "Access your save file locations from here."
-msgstr ""
+msgstr "Kaydettiğiniz dosya konumlarına buradan erişin."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_MISSING_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_MISSING_CONTENT"
@@ -65144,6 +65153,8 @@ msgid ""
 "<b><color=#ff0000>This save file is from a previous version of the game and "
 "is no longer supported.</color></b>"
 msgstr ""
+"<b><color=#ff0000>Bu kaydetme dosyası oyunun önceki bir sürümündendir ve "
+"artık desteklenmemektedir.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_VANILLA_TEMP
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_VANILLA_TEMP"
@@ -65151,11 +65162,13 @@ msgid ""
 "<b><color=#ff0000>This save file is from the base version of the game and "
 "currently cannot be loaded while <i>Spaced Out!</i> is installed.</color></b>"
 msgstr ""
+"<b><color=#ff0000>Bu kaydetme dosyası oyunun temel sürümündendir ve şu anda "
+"<i>Spaced Out!</i> kuruluyken yüklenemez.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_CONTENT"
 msgid "Vanilla FIXME"
-msgstr ""
+msgstr "Vanilla FIXME"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_RESTART
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_RESTART"
@@ -65163,11 +65176,13 @@ msgid ""
 "Loading this colony will require restarting the game with <i>Spaced Out!</i> "
 "content disabled"
 msgstr ""
+"Bu koloniyi yüklemek, <i>Spaced Out!</i> içeriği devre dışı bırakılmış "
+"olarak oyunun yeniden başlatılmasını gerektirecektir"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.WORLD_NAME
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.WORLD_NAME"
 msgid "Asteroid Type"
-msgstr ""
+msgstr "Asteroit Türü"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DESKTOPQUITCONFIRM
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DESKTOPQUITCONFIRM"
@@ -65175,16 +65190,20 @@ msgid ""
 "Should I really quit?\n"
 "All unsaved progress will be lost."
 msgstr ""
+"Gerçekten çıkmalı mıyım?\n"
+"Kaydedilmemiş tüm ilerlemeler kaybolacak."
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1"
 msgid "ACTIVATE DLC"
-msgstr ""
+msgstr "DLC'Yİ ETKİNLEŞTİR"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1_DESC
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1_DESC"
 msgid "The game will need to restart in order to activate <i>Spaced Out!</i>"
 msgstr ""
+"<i>Spaced Out!</i>'u etkinleştirmek için oyunun yeniden başlatılması "
+"gerekecek"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1_RAIL_DESC
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1_RAIL_DESC"
@@ -65192,11 +65211,13 @@ msgid ""
 "<i>Spaced Out!</i> will be activated the next time you launch the game. The "
 "game will now close."
 msgstr ""
+"<i>Spaced Out!</i>, oyunu bir sonraki başlatışınızda etkinleştirilecektir. "
+"Oyun şimdi kapanacak."
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1"
 msgid "DEACTIVATE DLC"
-msgstr ""
+msgstr "DLC'Yİ DEVRE DIŞI BIRAK"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1_DESC
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1_DESC"
@@ -65211,6 +65232,8 @@ msgid ""
 "<i>Spaced Out!</i> will be deactivated the next time you launch the game. "
 "The game will now close."
 msgstr ""
+"<i>Spaced Out!</i>, oyunu bir sonraki başlatışınızda devre dışı "
+"bırakılacaktır. Oyun şimdi kapanacak."
 
 #. STRINGS.UI.FRONTEND.MAINMENU.LOADGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.LOADGAME"
@@ -65253,7 +65276,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME"
 msgid "{0}: Cycle {1}"
-msgstr ""
+msgstr "{0}: Döngü {1}"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RESUMEGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESUMEGAME"
@@ -65266,6 +65289,8 @@ msgid ""
 "Should I surrender under the soul-crushing weight of this universe's entropy "
 "and retire my colony?"
 msgstr ""
+"Bu evrenin entropisinin ruhu ezen ağırlığına teslim olup kolonimi bırakmalı "
+"mıyım?"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RETIREDCOLONIES
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RETIREDCOLONIES"
@@ -65280,7 +65305,7 @@ msgstr "SENARYOLAR"
 #. STRINGS.UI.FRONTEND.MAINMENU.STARTDEMO
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.STARTDEMO"
 msgid "START DEMO"
-msgstr ""
+msgstr "DEMO'YU BAŞLAT"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.TRANSLATIONS
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.TRANSLATIONS"
@@ -65290,12 +65315,12 @@ msgstr "ÇEVİRİLER"
 #. STRINGS.UI.FRONTEND.METRIC_OPTIONS_SCREEN.HEADER_METRICS
 msgctxt "STRINGS.UI.FRONTEND.METRIC_OPTIONS_SCREEN.HEADER_METRICS"
 msgid "USER DATA"
-msgstr ""
+msgstr "KULLANICI VERİSİ"
 
 #. STRINGS.UI.FRONTEND.METRIC_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.METRIC_OPTIONS_SCREEN.TITLE"
 msgid "DATA COLLECTION"
-msgstr ""
+msgstr "VERİ TOPLAMA"
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DESCRIPTION
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DESCRIPTION"
@@ -65316,17 +65341,17 @@ msgstr "Tamam"
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON"
 msgid "Enable Data Collection"
-msgstr ""
+msgstr "Veri Toplamayı Etkinleştir"
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TITLE"
 msgid "DATA COLLECTION OPTIONS"
-msgstr ""
+msgstr "VERİ TOPLAMA SEÇENEKLERİ"
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TOOLTIP"
 msgid "Uncheck to disable data collection"
-msgstr ""
+msgstr "Veri toplamayı devre dışı bırakmak için işareti kaldırın"
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.BODY"
@@ -65392,7 +65417,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.MOD_DIALOGS.INSTALL_INFO_INACCESSIBLE.TITLE
 msgctxt "STRINGS.UI.FRONTEND.MOD_DIALOGS.INSTALL_INFO_INACCESSIBLE.TITLE"
 msgid "STEAM CONTENT ERROR"
-msgstr ""
+msgstr "STEAM İÇERİK HATASI"
 
 #. STRINGS.UI.FRONTEND.MOD_DIALOGS.LOAD_FAILURE.MESSAGE
 msgctxt "STRINGS.UI.FRONTEND.MOD_DIALOGS.LOAD_FAILURE.MESSAGE"
@@ -65502,7 +65527,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.MOD_DIALOGS.SAVE_GAME_MODS_DIFFER.TITLE
 msgctxt "STRINGS.UI.FRONTEND.MOD_DIALOGS.SAVE_GAME_MODS_DIFFER.TITLE"
 msgid "MOD DIFFERENCES"
-msgstr ""
+msgstr "MOD FARKLARI"
 
 #. STRINGS.UI.FRONTEND.MOD_DIALOGS.STEAM_REFRESH.MESSAGE
 msgctxt "STRINGS.UI.FRONTEND.MOD_DIALOGS.STEAM_REFRESH.MESSAGE"
@@ -65510,11 +65535,13 @@ msgid ""
 "Refreshed Steam mods:\n"
 "{0}"
 msgstr ""
+"Yenilenen Steam modları:\n"
+"{0}"
 
 #. STRINGS.UI.FRONTEND.MOD_DIALOGS.STEAM_REFRESH.TITLE
 msgctxt "STRINGS.UI.FRONTEND.MOD_DIALOGS.STEAM_REFRESH.TITLE"
 msgid "STEAM MODS REFRESHED"
-msgstr ""
+msgstr "STEAM MODLARI YENİLENDİ"
 
 #. STRINGS.UI.FRONTEND.MOD_DIALOGS.STEAM_SUBSCRIBED.MESSAGE
 msgctxt "STRINGS.UI.FRONTEND.MOD_DIALOGS.STEAM_SUBSCRIBED.MESSAGE"
@@ -65584,37 +65611,37 @@ msgstr "YÜKLEME BAŞARISIZ"
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.DEACTIVATED
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.DEACTIVATED"
 msgid "DEACTIVATED"
-msgstr ""
+msgstr "DEAKTİF"
 
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.EXPECTED_DISABLED
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.EXPECTED_DISABLED"
 msgid "NOT DISABLED"
-msgstr ""
+msgstr "DEVRE DIŞI DEĞİL"
 
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.EXPECTED_ENABLED
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.EXPECTED_ENABLED"
 msgid "NOT ENABLED"
-msgstr ""
+msgstr "ETKİN DEĞİL"
 
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.INSTALL_FAILED
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.INSTALL_FAILED"
 msgid "INSTALL FAILED"
-msgstr ""
+msgstr "YÜKLEME BAŞARISIZ"
 
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.INSTALL_INFO_INACCESSIBLE
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.INSTALL_INFO_INACCESSIBLE"
 msgid "INACCESSIBLE"
-msgstr ""
+msgstr "ERİŞİLMEZ"
 
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.INSTALLED
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.INSTALLED"
 msgid "INSTALLED"
-msgstr ""
+msgstr "KURULMUŞ"
 
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.NOT_FOUND
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.NOT_FOUND"
 msgid "NOT FOUND"
-msgstr ""
+msgstr "BULUNAMADI"
 
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.OUT_OF_ORDER
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.OUT_OF_ORDER"
@@ -65701,32 +65728,32 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.UNINSTALLED
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.UNINSTALLED"
 msgid "Uninstalled"
-msgstr ""
+msgstr "Kaldırıldı"
 
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.VERSION_UPDATE
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.VERSION_UPDATE"
 msgid "New version detected"
-msgstr ""
+msgstr "Yeni sürüm algılandı"
 
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.UNINSTALLED
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.UNINSTALLED"
 msgid "UNINSTALLED"
-msgstr ""
+msgstr "KALDIRILDI"
 
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.VERSION_UPDATE
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.VERSION_UPDATE"
 msgid "VERSION UPDATE"
-msgstr ""
+msgstr "VERSİYON GÜNCELLEMESİ"
 
 #. STRINGS.UI.FRONTEND.MODESELECTSCREEN.BLANK_DESC
 msgctxt "STRINGS.UI.FRONTEND.MODESELECTSCREEN.BLANK_DESC"
 msgid "Select a playstyle..."
-msgstr ""
+msgstr "Bir oyun stili seçin..."
 
 #. STRINGS.UI.FRONTEND.MODESELECTSCREEN.HEADER
 msgctxt "STRINGS.UI.FRONTEND.MODESELECTSCREEN.HEADER"
 msgid "GAME MODE"
-msgstr ""
+msgstr "OYUN MODU"
 
 #. STRINGS.UI.FRONTEND.MODESELECTSCREEN.NOSWEAT_DESC
 msgctxt "STRINGS.UI.FRONTEND.MODESELECTSCREEN.NOSWEAT_DESC"
@@ -65746,26 +65773,28 @@ msgid ""
 "Stay on your toes and one step ahead of this unforgiving world. One slip up "
 "could bring your colony crashing down."
 msgstr ""
+"Ayaklarınızın üzerinde durun ve bu affedilmeyen dünyanın bir adım önünde "
+"olun. Tek bir hata, koloninizin çökmesine neden olabilir."
 
 #. STRINGS.UI.FRONTEND.MODESELECTSCREEN.SURVIVAL_TITLE
 msgctxt "STRINGS.UI.FRONTEND.MODESELECTSCREEN.SURVIVAL_TITLE"
 msgid "SURVIVAL"
-msgstr ""
+msgstr "HAYATTA KALMA"
 
 #. STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.DISABLED_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.DISABLED_CONTENT"
 msgid " - <b>Not compatible with <i>{Content}</i></b>"
-msgstr ""
+msgstr " - <b><i>{Content}</i></b> ile uyumlu değil"
 
 #. STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.NO_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.NO_CONTENT"
 msgid " - <b>No compatible mod found</b>"
-msgstr ""
+msgstr " - <b>Uyumlu mod bulunamadı</b>"
 
 #. STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.OLD_API
 msgctxt "STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.OLD_API"
 msgid " - <b>Mod out-of-date</b>"
-msgstr ""
+msgstr " - <b>Mod güncel değil</b>"
 
 #. STRINGS.UI.FRONTEND.MODS.DB_CORRUPT
 msgctxt "STRINGS.UI.FRONTEND.MODS.DB_CORRUPT"
@@ -65778,7 +65807,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.MODS.DISABLE_ALL
 msgctxt "STRINGS.UI.FRONTEND.MODS.DISABLE_ALL"
 msgid "DISABLE ALL"
-msgstr ""
+msgstr "HEPSİNİ DEVRE DIŞI BIRAK"
 
 #. STRINGS.UI.FRONTEND.MODS.DRAG_TO_REORDER
 msgctxt "STRINGS.UI.FRONTEND.MODS.DRAG_TO_REORDER"
@@ -65788,7 +65817,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.MODS.ENABLE_ALL
 msgctxt "STRINGS.UI.FRONTEND.MODS.ENABLE_ALL"
 msgid "ENABLE ALL"
-msgstr ""
+msgstr "HEPSİNİ ETKİNLEŞTİR"
 
 #. STRINGS.UI.FRONTEND.MODS.FAILED_TO_LOAD
 msgctxt "STRINGS.UI.FRONTEND.MODS.FAILED_TO_LOAD"
@@ -65803,12 +65832,12 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.MODS.MANAGE
 msgctxt "STRINGS.UI.FRONTEND.MODS.MANAGE"
 msgid "Subscription"
-msgstr ""
+msgstr "Abonelik"
 
 #. STRINGS.UI.FRONTEND.MODS.MANAGE_LOCAL
 msgctxt "STRINGS.UI.FRONTEND.MODS.MANAGE_LOCAL"
 msgid "Browse"
-msgstr ""
+msgstr "Gözat"
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.CONTENT_FOLDER
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.CONTENT_FOLDER"
