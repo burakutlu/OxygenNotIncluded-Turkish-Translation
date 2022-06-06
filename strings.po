@@ -12537,22 +12537,22 @@ msgstr "Duvar"
 #. STRINGS.BUILDINGS.PREFABS.PROPLADDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPLADDER.DESC"
 msgid "A hard plastic ladder."
-msgstr ""
+msgstr "Sert plastik bir merdiven."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPLADDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPLADDER.NAME"
 msgid "Ladder"
-msgstr ""
+msgstr "Merdiven"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPLIGHT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPLIGHT.DESC"
 msgid "An elegant ceiling lamp, slightly worse for wear."
-msgstr ""
+msgstr "Aşınma için biraz daha kötü olan zarif bir tavan lambası."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPLIGHT.NAME"
 msgid "Light Fixture"
-msgstr ""
+msgstr "Avize"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPRECEPTIONDESK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPRECEPTIONDESK.DESC"
@@ -12575,36 +12575,45 @@ msgid ""
 "\n"
 "It appears to be made of resin."
 msgstr ""
+"Detaylı bir anatomik model.\n"
+"\n"
+"Reçineden yapılmış gibi görünüyor."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPSKELETON.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPSKELETON.NAME"
 msgid "Model Skeleton"
-msgstr ""
+msgstr "Model İskelet"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPSURFACESATELLITE1.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPSURFACESATELLITE1.DESC"
 msgid "All that remains of a once peacefully orbiting satellite."
 msgstr ""
+"Bir zamanlar yörüngede barışçıl şekilde dönen bir uydudan geriye kalan her "
+"şey."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPSURFACESATELLITE1.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPSURFACESATELLITE1.NAME"
 msgid "Crashed Satellite"
-msgstr ""
+msgstr "Kaza yapmış Uydu"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPSURFACESATELLITE2.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPSURFACESATELLITE2.DESC"
 msgid "All that remains of a once peacefully orbiting satellite."
 msgstr ""
+"Bir zamanlar yörüngede barışçıl şekilde dönen bir uydudan geriye kalan her "
+"şey."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPSURFACESATELLITE2.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPSURFACESATELLITE2.NAME"
 msgid "Wrecked Satellite"
-msgstr ""
+msgstr "Harap Uydu"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPSURFACESATELLITE3.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPSURFACESATELLITE3.DESC"
 msgid "All that remains of a once peacefully orbiting satellite."
 msgstr ""
+"Bir zamanlar yörüngede barışçıl şekilde dönen bir uydudan geriye kalan her "
+"şey."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPSURFACESATELLITE3.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPSURFACESATELLITE3.NAME"
@@ -12648,12 +12657,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RADIATIONLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RADIATIONLIGHT.NAME"
 msgid "<link=\"RADIATIONLIGHT\">Radiation Lamp</link>"
-msgstr ""
+msgstr "<link=\"RADIATIONLIGHT\">Radyasyon Lambası</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.RAILGUN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUN.DESC"
 msgid "It's tempting to climb inside but trust me... don't."
-msgstr ""
+msgstr "İçeri tırmanmak cezbedici ama inan bana... yapma."
 
 #. STRINGS.BUILDINGS.PREFABS.RAILGUN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUN.EFFECT"
@@ -12688,12 +12697,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RAILGUN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUN.NAME"
 msgid "<link=\"RAILGUN\">Interplanetary Launcher</link>"
-msgstr ""
+msgstr "<link=\"RAILGUN\">Gezegenler Arası Fırlatıcı</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.RAILGUN.SIDESCREEN_HEP_REQUIRED
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUN.SIDESCREEN_HEP_REQUIRED"
 msgid "Launch cost: {current} / {required} radbolts"
-msgstr ""
+msgstr "Fırlatma maliyeti: {mevcut} / {gerekli} radbolt"
 
 #. STRINGS.BUILDINGS.PREFABS.RAILGUNPAYLOADOPENER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUNPAYLOADOPENER.DESC"
@@ -12701,6 +12710,8 @@ msgid ""
 "Payload openers can be hooked up to conveyors, plumbing and ventilation for "
 "improved sorting."
 msgstr ""
+"Yük açıcılar, daha iyi sınıflandırma için konveyörlere, tesisata ve "
+"havalandırmaya bağlanabilir."
 
 #. STRINGS.BUILDINGS.PREFABS.RAILGUNPAYLOADOPENER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUNPAYLOADOPENER.EFFECT"
@@ -12716,7 +12727,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RAILGUNPAYLOADOPENER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUNPAYLOADOPENER.NAME"
 msgid "<link=\"RAILGUNPAYLOADOPENER\">Payload Opener</link>"
-msgstr ""
+msgstr "<link=\"RAILGUNPAYLOADOPENER\">Yük Açıcı</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.RANCHSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.DESC"
@@ -12724,6 +12735,8 @@ msgid ""
 "Grooming critters make them look nice, smell pretty, feel happy, and produce "
 "more."
 msgstr ""
+"Yaratıklara bakım yapmak onların güzel görünmesini, güzel kokmasını, mutlu "
+"hissetmesini ve daha fazlasını üremesini sağlar."
 
 #. STRINGS.BUILDINGS.PREFABS.RANCHSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.EFFECT"
@@ -12740,7 +12753,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RANCHSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.NAME"
 msgid "<link=\"RANCHSTATION\">Grooming Station</link>"
-msgstr ""
+msgstr "<link=\"RANCHSTATION\">Tımar İstasyonu</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
@@ -12937,11 +12950,15 @@ msgid ""
 "\n"
 "Cargo rockets must possess a Rocket Cockpit in order to function."
 msgstr ""
+"Bir Duplicant'ın bir rokete pilotluk yapmasına izin verir.\n"
+"\n"
+"Kargo roketlerinin çalışabilmesi için bir Roket Kokpitine sahip olması "
+"gerekir."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCOMMANDCONSOLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCOMMANDCONSOLE.NAME"
 msgid "<link=\"ROCKETCOMMANDCONSOLE\">Rocket Cockpit</link>"
-msgstr ""
+msgstr "<link=\"ROCKETCOMMANDCONSOLE\">Roket Kokpiti</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.DESC"
@@ -12949,6 +12966,8 @@ msgid ""
 "Someone needs to be around to jiggle the controls when the screensaver comes "
 "on."
 msgstr ""
+"Ekran koruyucu açıldığında kontrolleri sağlamak için birinin etrafta olması "
+"gerekiyor."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.EFFECT"
@@ -12963,7 +12982,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.LOGIC_PORT"
 msgid "Restrict Building Usage"
-msgstr ""
+msgstr "Bina Kullanımını Kısıtla"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.LOGIC_PORT_ACTIVE"
@@ -12971,6 +12990,8 @@ msgid ""
 "<b><style=\"logic_on\">Green Signal</style></b>: Restrict access to interior "
 "buildings"
 msgstr ""
+"<b><style=\"logic_on\">Yeşil Sinyal</style></b>: İç binalara erişimi "
+"kısıtlayın"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.LOGIC_PORT_INACTIVE"
@@ -12978,46 +12999,48 @@ msgid ""
 "<b><style=\"logic_off\">Red Signal</style></b>: Unrestrict access to "
 "interior buildings"
 msgstr ""
+"<b><style=\"logic_off\">Kırmızı Sinyal</style></b>: İç binalara erişimi "
+"kısıtlamayın"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.NAME"
 msgid "<link=\"ROCKETCONTROLSTATION\">Rocket Control Station</link>"
-msgstr ""
+msgstr "<link=\"ROCKETCONTROLSTATION\">Roket Kontrol İstasyonu</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETENVELOPETILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETENVELOPETILE.DESC"
 msgid "Keeps the space out."
-msgstr ""
+msgstr "Uzayı dışarıda tutar."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETENVELOPETILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETENVELOPETILE.EFFECT"
 msgid "The walls of a rocket."
-msgstr ""
+msgstr "Bir roketin duvarları."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETENVELOPETILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETENVELOPETILE.NAME"
 msgid "<link=\"ROCKETENVELOPETILE\">Rocket</link>"
-msgstr ""
+msgstr "<link=\"ROCKETENVELOPETILE\">Roket</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETENVELOPEWINDOWTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETENVELOPEWINDOWTILE.DESC"
 msgid "I can see my asteroid from here!"
-msgstr ""
+msgstr "Asteroitimi buradan görebiliyorum!"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETENVELOPEWINDOWTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETENVELOPEWINDOWTILE.EFFECT"
 msgid "The window of a rocket."
-msgstr ""
+msgstr "Bir roketin penceresi."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETENVELOPEWINDOWTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETENVELOPEWINDOWTILE.NAME"
 msgid "<link=\"ROCKETENVELOPEWINDOWTILE\">Rocket Window</link>"
-msgstr ""
+msgstr "<link=\"ROCKETENVELOPEWINDOWTILE\">Roket Penceresi</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.DESC"
 msgid "It's basically central-vac."
-msgstr ""
+msgstr "Merkezi bir vakum."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.EFFECT"
@@ -13033,13 +13056,13 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.NAME"
 msgid "<link=\"ROCKETINTERIORGASINPUT\">Gas Intake Fitting</link>"
-msgstr ""
+msgstr "<link=\"ROCKETINTERIORGASINPUT\">Gaz Giriş Bağlantısı</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.DESC"
 msgid ""
 "A direct attachment leading to the output port on the exterior of the rocket."
-msgstr ""
+msgstr "Roketin dış kısmındaki çıkış portuna giden doğrudan bir bağlantı."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.EFFECT"
@@ -13054,11 +13077,13 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.NAME"
 msgid "<link=\"ROCKETINTERIORGASINPUTPORT\">Gas Spacefarer Input Port</link>"
 msgstr ""
+"<link=\"ROCKETINTERIORGASINPUTPORT\">Gaz Uzay Yolcu Giriş Bağlantı Noktası</"
+"link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.DESC"
 msgid "Refreshing breezes, on-demand."
-msgstr ""
+msgstr "Serinletici esintiler, isteğe bağlı."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.EFFECT"
@@ -13074,12 +13099,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.NAME"
 msgid "<link=\"ROCKETINTERIORGASOUTPUT\">Gas Output Fitting</link>"
-msgstr ""
+msgstr "<link=\"ROCKETINTERIORGASOUTPUT\">Gaz Çıkış Bağlantısı</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.DESC"
 msgid "A direct attachment to the input port on the exterior of a rocket."
-msgstr ""
+msgstr "Bir roketin dış kısmındaki giriş portuna doğrudan bağlantı."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.EFFECT"
@@ -13092,11 +13117,13 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.NAME"
 msgid "<link=\"ROCKETINTERIORGASOUTPUTPORT\">Gas Spacefarer Output Port</link>"
 msgstr ""
+"<link=\"ROCKETINTERIORGASOUTPUTPORT\">Gaz Uzay Yolcusu Çıkış Bağlantı "
+"Noktası</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.DESC"
 msgid "Begone, foul waters!"
-msgstr ""
+msgstr "Defol, pis sular!"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.EFFECT"
@@ -13112,12 +13139,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.NAME"
 msgid "<link=\"ROCKETINTERIORLIQUIDINPUT\">Liquid Intake Fitting</link>"
-msgstr ""
+msgstr "<link=\"ROCKETINTERIORLIQUIDINPUT\">Sıvı Giriş Bağlantısı</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.DESC"
 msgid "A direct attachment to the output port on the exterior of a rocket."
-msgstr ""
+msgstr "Bir roketin dış kısmındaki çıkış portuna doğrudan bağlantı."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.EFFECT"
@@ -13137,7 +13164,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.DESC"
 msgid "Now if only we had some water balloons..."
-msgstr ""
+msgstr "Şimdi biraz su balonumuz olsaydı..."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.EFFECT"
@@ -13153,12 +13180,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.NAME"
 msgid "<link=\"ROCKETINTERIORLIQUIDOUTPUT\">Liquid Output Fitting</link>"
-msgstr ""
+msgstr "<link=\"ROCKETINTERIORLIQUIDOUTPUT\">Sıvı Çıkış Bağlantısı</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.DESC"
 msgid "A direct attachment to the input port on the exterior of a rocket."
-msgstr ""
+msgstr "Bir roketin dış kısmındaki giriş portuna doğrudan bağlantı."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.EFFECT"
@@ -13406,7 +13433,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME"
 msgid "Mediocre Sculpture"
-msgstr ""
+msgstr "Ortalama Heykel"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC"
@@ -13414,6 +13441,7 @@ msgid ""
 "Duplicants who have learned art skills can produce more decorative "
 "sculptures."
 msgstr ""
+"Sanat becerilerini öğrenen Duplicant'lar daha dekoratif heykeller üretebilir."
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT"
@@ -13423,16 +13451,20 @@ msgid ""
 "\n"
 "Must be sculpted by a Duplicant."
 msgstr ""
+"<link=\"DECOR\">Dekor</link>'u orta derecede artırarak <link=\"MORALE"
+"\">Morale</link> katkıda bulunur.\n"
+"\n"
+"Bir Duplicant tarafından şekillendirilmelidir."
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.EXCELLENTQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.EXCELLENTQUALITYNAME"
 msgid "Genius Sculpture"
-msgstr ""
+msgstr "Dâhiyane Heykel"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME"
 msgid "<link=\"SCULPTURE\">Large Sculpting Block</link>"
-msgstr ""
+msgstr "<link=\"SCULPTURE\">Büyük Heykel Bloğu</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.POORQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.POORQUALITYNAME"
@@ -13450,7 +13482,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SETLOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SETLOCKER.NAME"
 msgid "Locker"
-msgstr ""
+msgstr "Dolap"
 
 #. STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.DESC"
@@ -13548,7 +13580,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.AVERAGEQUALITYNAME"
 msgid "Mediocre Sculpture"
-msgstr ""
+msgstr "Ortalama Heykel"
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.DESC"
@@ -13556,6 +13588,7 @@ msgid ""
 "Duplicants who have learned art skills can produce more decorative "
 "sculptures."
 msgstr ""
+"Sanat becerilerini öğrenen Duplicant'lar daha dekoratif heykeller üretebilir."
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.EFFECT"
@@ -13565,21 +13598,25 @@ msgid ""
 "\n"
 "Must be sculpted by a Duplicant."
 msgstr ""
+"<link=\"DECOR\">Dekor</link>'u küçük oranda artırarak <link=\"MORALE"
+"\">Morale</link> katkıda bulunur.\n"
+"\n"
+"Bir Duplicant tarafından şekillendirilmelidir."
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.EXCELLENTQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.EXCELLENTQUALITYNAME"
 msgid "Genius Sculpture"
-msgstr ""
+msgstr "Dâhiyane Heykel"
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.NAME"
 msgid "<link=\"SMALLSCULPTURE\">Sculpting Block</link>"
-msgstr ""
+msgstr "<link=\"SMALLSCULPTURE\">Heykel Bloğu</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.POORQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.POORQUALITYNAME"
 msgid "\"Abstract\" Sculpture"
-msgstr ""
+msgstr "\"Soyut\" Heykel"
 
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.ACTIVATE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.ACTIVATE_TOOLTIP"
@@ -13618,22 +13655,22 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.SIDESCREEN_ACTIVATE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.SIDESCREEN_ACTIVATE"
 msgid "Low Threshold:"
-msgstr ""
+msgstr "Düşük Eşik:"
 
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.SIDESCREEN_DEACTIVATE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.SIDESCREEN_DEACTIVATE"
 msgid "High Threshold:"
-msgstr ""
+msgstr "Yüksek Eşik:"
 
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.SIDESCREEN_TITLE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.SIDESCREEN_TITLE"
 msgid "Logic Activation Parameters"
-msgstr ""
+msgstr "Lojik Aktivasyon Parametreleri"
 
 #. STRINGS.BUILDINGS.PREFABS.SODAFOUNTAIN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SODAFOUNTAIN.DESC"
 msgid "Sparkling water puts a twinkle in a Duplicant's eye."
-msgstr ""
+msgstr "Gazlı su, bir Duplicant'ın gözünde bir pırıltı yaratır."
 
 #. STRINGS.BUILDINGS.PREFABS.SODAFOUNTAIN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SODAFOUNTAIN.EFFECT"
@@ -13670,12 +13707,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLARPANEL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLARPANEL.NAME"
 msgid "<link=\"SOLARPANEL\">Solar Panel</link>"
-msgstr ""
+msgstr "<link=\"SOLARPANEL\">Güneş Paneli</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLARPANELMODULE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLARPANELMODULE.DESC"
 msgid "Collect solar energy before takeoff and during flight."
-msgstr ""
+msgstr "Kalkıştan önce ve uçuş sırasında güneş enerjisi toplayın."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLARPANELMODULE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLARPANELMODULE.EFFECT"
@@ -13691,13 +13728,13 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLARPANELMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLARPANELMODULE.NAME"
 msgid "<link=\"SOLARPANELMODULE\">Solar Panel Module</link>"
-msgstr ""
+msgstr "<link=\"SOLARPANELMODULE\">Güneş Paneli Modülü</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.DESC"
 msgid ""
 "Additional thrusters allow rockets to reach far away space destinations."
-msgstr ""
+msgstr "Ek iticiler, roketlerin uzak uzay hedeflerine ulaşmasını sağlar."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.EFFECT"
@@ -13709,7 +13746,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.NAME"
 msgid "<link=\"SOLIDBOOSTER\">Solid Fuel Thruster</link>"
-msgstr ""
+msgstr "<link=\"SOLIDBOOSTER\">Katı Yakıt İtici</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCARGOBAYSMALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCARGOBAYSMALL.DESC"
@@ -13717,6 +13754,8 @@ msgid ""
 "Duplicants will fill cargo bays with any resources they find during space "
 "missions."
 msgstr ""
+"Duplicant'lar, uzay görevleri sırasında buldukları herhangi bir kaynakla "
+"kargo bölmelerini dolduracaklar."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCARGOBAYSMALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCARGOBAYSMALL.EFFECT"
@@ -13732,7 +13771,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCARGOBAYSMALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCARGOBAYSMALL.NAME"
 msgid "<link=\"SOLIDCARGOBAYSMALL\">Cargo Bay</link>"
-msgstr ""
+msgstr "<link=\"SOLIDCARGOBAYSMALL\">Kargo Alanı</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.DESC"
@@ -13740,6 +13779,8 @@ msgid ""
 "Rails move materials where they'll be needed most, saving Duplicants the "
 "walk."
 msgstr ""
+"Raylar, malzemeleri en çok ihtiyaç duyulacak yerlere taşır ve Duplicant "
+"yürüyüşten kurtarır."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.EFFECT"
@@ -13754,7 +13795,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.NAME"
 msgid "<link=\"SOLIDCONDUIT\">Conveyor Rail</link>"
-msgstr ""
+msgstr "<link=\"SOLIDCONDUIT\">Konveyör Ray</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.DESC"
@@ -13762,6 +13803,8 @@ msgid ""
 "Separating rail systems helps ensure materials go to the intended "
 "destinations."
 msgstr ""
+"Raylı sistemlerin ayrılması, malzemelerin amaçlanan varış noktalarına "
+"gitmesini sağlamaya yardımcı olur."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.EFFECT"
@@ -13775,13 +13818,15 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.NAME"
 msgid "<link=\"SOLIDCONDUITBRIDGE\">Conveyor Bridge</link>"
-msgstr ""
+msgstr "<link=\"SOLIDCONDUITBRIDGE\">Konveyör Köprüsü</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.DESC"
 msgid ""
 "Germ sensors can help control automation behavior in the presence of germs."
 msgstr ""
+"Mikrop sensörleri, mikropların varlığında otomasyon davranışını kontrol "
+"etmeye yardımcı olabilir."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.EFFECT"
@@ -13794,7 +13839,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.LOGIC_PORT"
 msgid "Internal <link=\"DISEASE\">Germ</link> Count"
-msgstr ""
+msgstr "Dahili <link=\"DISEASE\">Mikrop</link> Sayısı"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.LOGIC_PORT_ACTIVE"
@@ -13812,7 +13857,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.NAME"
 msgid "<link=\"SOLIDCONDUITDISEASESENSOR\">Conveyor Rail Germ Sensor</link>"
-msgstr ""
+msgstr "<link=\"SOLIDCONDUITDISEASESENSOR\">Konveyör Ray Mikrop Sensörü</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.DESC"
@@ -13820,6 +13865,8 @@ msgid ""
 "Element sensors can be used to detect the presence of a specific item on a "
 "rail."
 msgstr ""
+"Bir ray üzerinde belirli bir öğenin varlığını algılamak için eleman "
+"sensörleri kullanılabilir."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.EFFECT"
@@ -13831,7 +13878,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.LOGIC_PORT"
 msgid "Internal <link=\"ELEMENTSLIQUID\">Item</link> Presence"
-msgstr ""
+msgstr "Dahili <link=\"ELEMENTSLIQUID\">Öğe</link> Varlığı"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.LOGIC_PORT_ACTIVE"
@@ -13909,7 +13956,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITTEMPERATURESENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITTEMPERATURESENSOR.LOGIC_PORT"
 msgid "Internal item <link=\"HEAT\">Temperature</link>"
-msgstr ""
+msgstr "Dahili öğe <link=\"HEAT\">Sıcaklığı</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITTEMPERATURESENSOR.LOGIC_PORT_ACTIVE
 msgctxt ""
@@ -13954,7 +14001,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDFILTER.NAME"
 msgid "<link=\"SOLIDFILTER\">Solid Filter</link>"
-msgstr ""
+msgstr "<link=\"SOLIDFILTER\">Katı Filtre</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDFILTER.STATUS_ITEM
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDFILTER.STATUS_ITEM"
@@ -13978,17 +14025,17 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.LOGIC_PORT_OUTPUT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.LOGIC_PORT_OUTPUT"
 msgid "Limit Reached"
-msgstr ""
+msgstr "Limite ulaşıldı"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.LOGIC_PORT_RESET
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.LOGIC_PORT_RESET"
 msgid "Reset Meter"
-msgstr ""
+msgstr "Sayacı Sıfırla"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.NAME"
 msgid "<link=\"SOLIDLIMITVALVE\">Conveyor Meter</link>"
-msgstr ""
+msgstr "<link=\"SOLIDLIMITVALVE\">Konveyör Sayacı</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_ACTIVE"
@@ -13996,21 +14043,25 @@ msgid ""
 "Sends a <b><style=\"logic_on\">Green Signal</style></b> if limit has been "
 "reached"
 msgstr ""
+"Sınıra ulaşılırsa bir <b><style=\"logic_on\">Yeşil Sinyal</style></b> "
+"gönderir"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_INACTIVE"
 msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
 msgstr ""
+"Aksi takdirde, bir <b><style=\"logic_off\">Kırmızı Sinyal</style></b> "
+"gönderir"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.RESET_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.RESET_PORT_ACTIVE"
 msgid "<b><style=\"logic_on\">Green Signal</style></b>: Reset the amount"
-msgstr ""
+msgstr "<b><style=\"logic_on\">Yeşil Sinyal</style></b>: Miktarı sıfırlayın"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.RESET_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.RESET_PORT_INACTIVE"
 msgid "<b><style=\"logic_off\">Red Signal</style></b>: Nothing"
-msgstr ""
+msgstr "<b><style=\"logic_off\">Kırmızı Sinyal</style></b>: Hiçbir şey"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.DESC"
@@ -14018,6 +14069,8 @@ msgid ""
 "Automated conveyors save power and time by removing the need for Duplicant "
 "input."
 msgstr ""
+"Otomatik konveyörler, Duplicant girişine olan ihtiyacı ortadan kaldırarak "
+"güç ve zamandan tasarruf sağlar."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.EFFECT"
@@ -14036,12 +14089,16 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.LOGIC_PORT_ACTIVE"
 msgid ""
 "<b><style=\"logic_on\">Green Signal</style></b>: Allow material transport"
 msgstr ""
+"<b><style=\"logic_on\">Yeşil Sinyal</style></b>: Malzeme taşınmasına izin "
+"verin"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.LOGIC_PORT_INACTIVE"
 msgid ""
 "<b><style=\"logic_off\">Red Signal</style></b>: Prevent material transport"
 msgstr ""
+"<b><style=\"logic_off\">Kırmızı Sinyal</style></b>: Malzeme taşınmasını "
+"önleyin"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.NAME"
@@ -14069,13 +14126,13 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.NAME"
 msgid "<link=\"SOLIDTRANSFERARM\">Auto-Sweeper</link>"
-msgstr ""
+msgstr "<link=\"SOLIDTRANSFERARM\">Otomatik Süpürücü</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDVENT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDVENT.DESC"
 msgid ""
 "When materials reach the end of a rail they are dropped back into the world."
-msgstr ""
+msgstr "Malzemeler bir rayın sonuna ulaştığında dünyaya geri bırakılır."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDVENT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDVENT.EFFECT"
@@ -14097,12 +14154,12 @@ msgstr "Bir uzay ısıtıcısı, çalıştığı sürece ısı yayacaktır."
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.EFFECT"
 msgid "Radiates a moderate amount of <link=\"HEAT\">Heat</link>."
-msgstr ""
+msgstr "Makul miktarda <link=\"HEAT\">Isı</link> yayar."
 
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.NAME"
 msgid "<link=\"SPACEHEATER\">Space Heater</link>"
-msgstr ""
+msgstr "<link=\"SPACEHEATER\">Uzay Isıtıcısı</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAY.DESC"
@@ -14123,7 +14180,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAY.NAME"
 msgid "<link=\"SPECIALCARGOBAY\">Biological Cargo Bay</link>"
-msgstr ""
+msgstr "<link=\"SPECIALCARGOBAY\">Biyolojik Kargo Alanı</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STATERPILLAREGG.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STATERPILLAREGG.DESC"
@@ -14163,6 +14220,8 @@ msgid ""
 "Rockets can be used to send Duplicants into space and retrieve rare "
 "resources."
 msgstr ""
+"Roketler, Duplicant'ları uzaya göndermek ve nadir kaynakları almak için "
+"kullanılabilir."
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMENGINE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMENGINE.EFFECT"
@@ -14177,7 +14236,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.STEAMENGINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMENGINE.NAME"
 msgid "<link=\"STEAMENGINE\">Steam Engine</link>"
-msgstr ""
+msgstr "<link=\"STEAMENGINE\">Buhar Motoru</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMENGINECLUSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMENGINECLUSTER.DESC"
@@ -14185,6 +14244,8 @@ msgid ""
 "Rockets can be used to send Duplicants into space and retrieve rare "
 "resources."
 msgstr ""
+"Roketler, Duplicant'ları uzaya göndermek ve nadir kaynakları almak için "
+"kullanılabilir."
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMENGINECLUSTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMENGINECLUSTER.EFFECT"
@@ -14200,12 +14261,14 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.STEAMENGINECLUSTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMENGINECLUSTER.NAME"
 msgid "<link=\"STEAMENGINECLUSTER\">Steam Engine</link>"
-msgstr ""
+msgstr "<link=\"STEAMENGINECLUSTER\">Buhar Motoru</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.DESC"
 msgid "Useful for converting the geothermal energy of magma into usable power."
 msgstr ""
+"Magmanın jeotermal enerjisini kullanılabilir güce dönüştürmek için "
+"kullanışlıdır."
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.EFFECT"
@@ -14229,7 +14292,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE2.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMTURBINE2.DESC"
 msgid "Useful for converting the geothermal energy into usable power."
-msgstr ""
+msgstr "Jeotermal enerjiyi kullanılabilir güce dönüştürmek için kullanışlıdır."
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE2.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMTURBINE2.EFFECT"
@@ -14244,12 +14307,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE2.HEAT_SOURCE
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMTURBINE2.HEAT_SOURCE"
 msgid "Power Generation Waste"
-msgstr ""
+msgstr "Enerji Üretim Atıkları"
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE2.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMTURBINE2.NAME"
 msgid "<link=\"STEAMTURBINE2\">Steam Turbine</link>"
-msgstr ""
+msgstr "<link=\"STEAMTURBINE2\">Buhar Türbini</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STICKERBOMB.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STICKERBOMB.DESC"
@@ -14272,18 +14335,20 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.EFFECT"
 msgid ""
 "Stores the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing."
-msgstr ""
+msgstr "Seçtiğiniz <link=\"ELEMENT SOLID\">Katı Malzemeleri</link> saklar."
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.NAME"
 msgid "<link=\"STORAGELOCKER\">Storage Bin</link>"
-msgstr ""
+msgstr "<link=\"STORAGELOCKER\">Depolama Kutusu</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.DESC"
 msgid ""
 "Smart storage bins can automate resource organization based on type and mass."
 msgstr ""
+"Akıllı depolama kutuları, türe ve kütleye göre kaynak organizasyonunu "
+"otomatikleştirebilir."
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.EFFECT"
@@ -14296,22 +14361,25 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT"
 msgid "Full/Not Full"
-msgstr ""
+msgstr "Dolu/Dolu Değil"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when full"
 msgstr ""
+"Dolu olduğunda bir <b><style=\"logic_on\">Yeşil Sinyal</style></b> gönderir"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT_INACTIVE"
 msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
 msgstr ""
+"Aksi takdirde, bir <b><style=\"logic_off\">Kırmızı Sinyal</style></b> "
+"gönderir"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.NAME"
 msgid "<link=\"STORAGELOCKERSMART\">Smart Storage Bin</link>"
-msgstr ""
+msgstr "<link=\"STORAGELOCKERSSMART\">Akıllı Depolama Kutusu</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SUBLIMATIONSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUBLIMATIONSTATION.DESC"
@@ -14355,7 +14423,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SUGARENGINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUGARENGINE.NAME"
 msgid "<link=\"SUGARENGINE\">Sugar Engine</link>"
-msgstr ""
+msgstr "<link=\"SUGARENGINE\">Şeker Motoru</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC"
@@ -14363,6 +14431,8 @@ msgid ""
 "Exosuits can be filled with oxygen to allow Duplicants to safely enter "
 "hazardous areas."
 msgstr ""
+"Exosuitler, Duplicant'ların tehlikeli alanlara güvenli bir şekilde girmesine "
+"izin vermek için oksijenle doldurulabilir."
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT"
@@ -14745,14 +14815,14 @@ msgstr "Yangın!"
 #. STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.SIDESCREEN.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.SIDESCREEN.TOOLTIP"
 msgid "The big red button."
-msgstr ""
+msgstr "Büyük kırmızı düğme."
 
 #. STRINGS.BUILDINGS.PREFABS.THERMALBLOCK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.THERMALBLOCK.DESC"
 msgid ""
 "The thermal properties of construction materials determine their heat "
 "retention."
-msgstr ""
+msgstr "Yapı malzemelerinin termal özellikleri, ısı tutmalarını belirler."
 
 #. STRINGS.BUILDINGS.PREFABS.THERMALBLOCK.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.THERMALBLOCK.EFFECT"
@@ -14780,11 +14850,14 @@ msgid ""
 "\n"
 "Increases Duplicant runspeed."
 msgstr ""
+"Odaların duvarlarını ve zeminlerini inşa etmek için kullanılır.\n"
+"\n"
+"Duplicant çalışma hızını artırır."
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.NAME"
 msgid "<link=\"TILE\">Tile</link>"
-msgstr ""
+msgstr "<link=\"TILE\">Döşeme</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.TILEPOI.DESC
 #, fuzzy
@@ -14805,12 +14878,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.TILEPOI.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILEPOI.EFFECT"
 msgid "Used to build the walls and floor of rooms."
-msgstr ""
+msgstr "Odaların duvarlarını ve zeminini yapmak için kullanılır."
 
 #. STRINGS.BUILDINGS.PREFABS.TILEPOI.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILEPOI.NAME"
 msgid "<link=\"TILEPOI\">Tile</link>"
-msgstr ""
+msgstr "<link=\"TILEPOI\">Döşeme</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.TOURISTMODULE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TOURISTMODULE.DESC"
@@ -14941,7 +15014,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.URANIUMCENTRIFUGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.URANIUMCENTRIFUGE.NAME"
 msgid "<link=\"URANIUMCENTRIFUGE\">Uranium Centrifuge</link>"
-msgstr ""
+msgstr "<link=\"URANIUM SANTRİFÜJ\">Uranyum Santrifüj</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.URANIUMCENTRIFUGE.RECIPE_DESCRIPTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.URANIUMCENTRIFUGE.RECIPE_DESCRIPTION"
@@ -14952,7 +15025,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.VENDINGMACHINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.VENDINGMACHINE.DESC"
 msgid "A pristine <link=\"FIELDRATION\">Field Ration</link> dispenser."
-msgstr ""
+msgstr "El değmemiş bir <link=\"FIELDRATION\">Saha Rasyonu</link> dağıtıcısı."
 
 #. STRINGS.BUILDINGS.PREFABS.VENDINGMACHINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.VENDINGMACHINE.NAME"
@@ -14967,13 +15040,13 @@ msgstr "Duplicant'lar, saçlarında yüksek güçlü rüzgar hissini severler."
 #. STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DISPLACEMENTEFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DISPLACEMENTEFFECT"
 msgid "Gas Displacement: {amount}"
-msgstr ""
+msgstr "Gaz Yer Değiştirme: {amount}"
 
 #. STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DISPLACEMENTEFFECT_TOOLTIP
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DISPLACEMENTEFFECT_TOOLTIP"
 msgid "This building will displace {amount} Gas while in use."
-msgstr ""
+msgstr "Bu bina kullanımdayken {amount} miktar gazın yerini değiştirecek."
 
 #. STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.EFFECT"
@@ -15036,7 +15109,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WARPCONDUITRECEIVER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPCONDUITRECEIVER.NAME"
 msgid "Supply Teleporter Output"
-msgstr ""
+msgstr "Tedarik Işınlayıcı Çıkışı"
 
 #. STRINGS.BUILDINGS.PREFABS.WARPCONDUITSENDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPCONDUITSENDER.DESC"
@@ -15059,7 +15132,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WARPCONDUITSENDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPCONDUITSENDER.NAME"
 msgid "Supply Teleporter Input"
-msgstr ""
+msgstr "Tedarik Işınlayıcı Girişi"
 
 #. STRINGS.BUILDINGS.PREFABS.WARPPORTAL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPPORTAL.DESC"
@@ -15112,12 +15185,14 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WASHBASIN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHBASIN.NAME"
 msgid "<link=\"WASHBASIN\">Wash Basin</link>"
-msgstr ""
+msgstr "<link=\"WASHBASIN\">Lavabo</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WASHSINK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHSINK.DESC"
 msgid "Sinks are plumbed and do not need to be manually emptied or refilled."
 msgstr ""
+"Lavabolar su tesisatlıdır ve manuel olarak boşaltılması veya yeniden "
+"doldurulması gerekmez."
 
 #. STRINGS.BUILDINGS.PREFABS.WASHSINK.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHSINK.EFFECT"
@@ -15130,13 +15205,15 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WASHSINK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHSINK.NAME"
 msgid "<link=\"WASHSINK\">Sink</link>"
-msgstr ""
+msgstr "<link=\"WASHSINK\">Lavabo</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WATERCOOLER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.DESC"
 msgid ""
 "Chatting with friends improves Duplicants' moods and reduces their stress."
 msgstr ""
+"Arkadaşlarla sohbet etmek, Duplicant'ların ruh hallerini iyileştirir ve "
+"streslerini azaltır."
 
 #. STRINGS.BUILDINGS.PREFABS.WATERCOOLER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.EFFECT"
@@ -15149,7 +15226,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WATERCOOLER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.NAME"
 msgid "<link=\"WATERCOOLER\">Water Cooler</link>"
-msgstr ""
+msgstr "<link=\"WATERCOOLER\">Su Soğutucu</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.DESC"
@@ -15170,13 +15247,15 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.NAME"
 msgid "<link=\"WATERPURIFIER\">Water Sieve</link>"
-msgstr ""
+msgstr "<link=\"WATERPURIFIER\">Su Eleği</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WIRE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIRE.DESC"
 msgid ""
 "Electrical wire is used to connect generators, batteries, and buildings."
 msgstr ""
+"Elektrik kablosu, jeneratörleri, pilleri ve binaları bağlamak için "
+"kullanılır."
 
 #. STRINGS.BUILDINGS.PREFABS.WIRE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIRE.EFFECT"
@@ -15189,7 +15268,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIRE.NAME"
 msgid "<link=\"WIRE\">Wire</link>"
-msgstr ""
+msgstr "<link=\"WIRE\">Kablo</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.DESC"
@@ -15197,6 +15276,8 @@ msgid ""
 "Splitting generators onto separate grids can prevent overloads and wasted "
 "electricity."
 msgstr ""
+"Jeneratörleri ayrı şebekelere ayırmak, aşırı yüklenmeleri ve elektrik "
+"israfını önleyebilir."
 
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.EFFECT"
@@ -15209,7 +15290,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.NAME"
 msgid "<link=\"WIREBRIDGE\">Wire Bridge</link>"
-msgstr ""
+msgstr "<link=\"WIREBRIDGE\">Kablo Köprüsü</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGEHIGHWATTAGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGEHIGHWATTAGE.DESC"
@@ -15250,7 +15331,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINED.NAME"
 msgid "<link=\"WIREREFINED\">Conductive Wire</link>"
-msgstr ""
+msgstr "<link=\"WIREREFINED\">İletken Kablo</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.DESC"
@@ -15258,6 +15339,8 @@ msgid ""
 "Splitting generators onto separate systems can prevent overloads and wasted "
 "electricity."
 msgstr ""
+"Jeneratörleri ayrı sistemlere ayırmak, aşırı yüklenmeleri ve elektrik "
+"israfını önleyebilir."
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.EFFECT"
@@ -15364,12 +15447,12 @@ msgstr "Otomatik Onarımı Etkinleştir"
 #. STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.TOOLTIP"
 msgid "Automatically repair this building when damaged"
-msgstr ""
+msgstr "Hasar gördüğünde bu binayı otomatik olarak onarın"
 
 #. STRINGS.CLUSTER_NAMES.DEFAULT.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.DEFAULT.DESCRIPTION"
 msgid "One location with everything you need on it."
-msgstr ""
+msgstr "Üzerinde ihtiyacınız olan her şeyin bulunduğu tek bir konum."
 
 #. STRINGS.CLUSTER_NAMES.DEFAULT.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.DEFAULT.NAME"
@@ -45885,42 +45968,42 @@ msgstr ""
 #. STRINGS.INPUT.BACKSPACE
 msgctxt "STRINGS.INPUT.BACKSPACE"
 msgid "Backspace"
-msgstr ""
+msgstr "Backspace"
 
 #. STRINGS.INPUT.ENTER
 msgctxt "STRINGS.INPUT.ENTER"
 msgid "Enter"
-msgstr ""
+msgstr "Enter"
 
 #. STRINGS.INPUT.ESCAPE
 msgctxt "STRINGS.INPUT.ESCAPE"
 msgid "Escape"
-msgstr ""
+msgstr "Es"
 
 #. STRINGS.INPUT.INSERT
 msgctxt "STRINGS.INPUT.INSERT"
 msgid "Insert"
-msgstr ""
+msgstr "Insert"
 
 #. STRINGS.INPUT.LEFT_ALT
 msgctxt "STRINGS.INPUT.LEFT_ALT"
 msgid "L-Alt"
-msgstr ""
+msgstr "L-Alt"
 
 #. STRINGS.INPUT.LEFT_CTRL
 msgctxt "STRINGS.INPUT.LEFT_CTRL"
 msgid "L-Ctrl"
-msgstr ""
+msgstr "L-Ctrl"
 
 #. STRINGS.INPUT.LEFT_SHIFT
 msgctxt "STRINGS.INPUT.LEFT_SHIFT"
 msgid "L-Shift"
-msgstr ""
+msgstr "L-Shift"
 
 #. STRINGS.INPUT.MOUSE
 msgctxt "STRINGS.INPUT.MOUSE"
 msgid "Mouse"
-msgstr ""
+msgstr "Mouse"
 
 #. STRINGS.INPUT.MOUSE_SCROLL_DOWN
 msgctxt "STRINGS.INPUT.MOUSE_SCROLL_DOWN"
@@ -45985,7 +46068,7 @@ msgstr ""
 #. STRINGS.INPUT_BINDINGS.BUILDING.NAME
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.NAME"
 msgid "Building"
-msgstr ""
+msgstr "Bina"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.TOGGLEENABLED
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.TOGGLEENABLED"
@@ -46000,7 +46083,7 @@ msgstr ""
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMACAMENABLE
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMACAMENABLE"
 msgid "Cinema Cam Enable"
-msgstr ""
+msgstr "Sinema Kamerasını Etkinleştir"
 
 #. STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAPANDOWN
 msgctxt "STRINGS.INPUT_BINDINGS.CINEMATICCAMERA.CINEMAPANDOWN"
