@@ -4078,7 +4078,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.TOOLTIP"
 msgid "These materials will be delivered once a Duplicant is available"
-msgstr "Bu malzemeler, bir Duplicant hazır olduğunda teslim edilecektir."
+msgstr "Bu malzemeler, bir Duplicant hazır olduğunda teslim edilecektir"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORRADIATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORRADIATION.NAME"
@@ -4109,7 +4109,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.TOOLTIP"
 msgid "These materials must be delivered before this building can be repaired"
-msgstr "Bu malzemeler, bu bina onarılmadan önce teslim edilmelidir."
+msgstr "Bu malzemeler, bu bina onarılmadan önce teslim edilmelidir"
 
 #. STRINGS.BUILDING.STATUSITEMS.WARPCONDUITPARTNERDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WARPCONDUITPARTNERDISABLED.NAME"
@@ -12094,11 +12094,14 @@ msgid ""
 "\n"
 "It is no longer ticking."
 msgstr ""
+"Basit bir duvar saati.\n"
+"\n"
+"Artık tıklamıyor."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPCLOCK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPCLOCK.NAME"
 msgid "Clock"
-msgstr ""
+msgstr "Saat"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPDESK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPDESK.DESC"
@@ -12110,7 +12113,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPDESK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPDESK.NAME"
 msgid "Computer Desk"
-msgstr ""
+msgstr "Bilgisayar Masası"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPELEVATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPELEVATOR.DESC"
@@ -12124,7 +12127,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPELEVATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPELEVATOR.NAME"
 msgid "Broken Elevator"
-msgstr ""
+msgstr "Bozuk Asansör"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYCHAIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYCHAIR.DESC"
@@ -12173,7 +12176,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYDESK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYDESK.NAME"
 msgid "Director's Desk"
-msgstr ""
+msgstr "Direktörün Masası"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYDISPLAY1.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYDISPLAY1.DESC"
@@ -12186,7 +12189,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYDISPLAY1.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYDISPLAY1.NAME"
 msgid "Electronic Display"
-msgstr ""
+msgstr "Elektronik Ekran"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYDISPLAY2.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYDISPLAY2.DESC"
@@ -12199,7 +12202,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYDISPLAY2.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYDISPLAY2.NAME"
 msgid "Electronic Display"
-msgstr ""
+msgstr "Elektronik Ekran"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYDISPLAY3.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYDISPLAY3.DESC"
@@ -12212,7 +12215,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYDISPLAY3.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYDISPLAY3.NAME"
 msgid "Electronic Display"
-msgstr ""
+msgstr "Elektronik Ekran"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYGLOBEDROORS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYGLOBEDROORS.DESC"
@@ -12221,11 +12224,14 @@ msgid ""
 "\n"
 "The contents have been shredded."
 msgstr ""
+"Basılı çalışan kayıtlarını saklamak için bir dosya dolabı.\n"
+"\n"
+"İçindekiler parçalandı."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYGLOBEDROORS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYGLOBEDROORS.NAME"
 msgid "Filing Cabinet"
-msgstr ""
+msgstr "Dosya Dolabı"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYLAMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYLAMP.DESC"
@@ -12253,7 +12259,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYPAINTING.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYPAINTING.NAME"
 msgid "Landscape Portrait"
-msgstr ""
+msgstr "Manzara Portresi"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYSTATUE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYSTATUE.DESC"
@@ -12271,22 +12277,22 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYTABLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYTABLE.DESC"
 msgid "A low coffee table that may have once held old science magazines."
-msgstr ""
+msgstr "Bir zamanlar eski bilim dergilerini tutmuş olabilecek alçak bir sehpa."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYTABLE.NAME"
 msgid "Coffee Table"
-msgstr ""
+msgstr "Kahve Masası"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYTALLPLANT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYTALLPLANT.DESC"
 msgid "It's survived the vacuum of space by virtue of being plastic."
-msgstr ""
+msgstr "Plastik olması sayesinde uzay boşluğundan kurtulmuştur."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYTALLPLANT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYTALLPLANT.NAME"
 msgid "Office Plant"
-msgstr ""
+msgstr "Ofis Bitkisi"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYWALLDEGREE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYWALLDEGREE.DESC"
@@ -12294,16 +12300,19 @@ msgid ""
 "Certification in Applied Physics, awarded in recognition of one \"Jacquelyn "
 "A. Stern\"."
 msgstr ""
+"Uygulamalı Fizik Sertifikası, \"Jacquelyn A. Stern\" ödüle layık görüldü."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYWALLDEGREE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYWALLDEGREE.NAME"
 msgid "Doctorate Degree"
-msgstr ""
+msgstr "Doktora Diploması"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASCEILINGROBOT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASCEILINGROBOT.DESC"
 msgid "Non-functioning robotic arms that once assisted lab technicians."
 msgstr ""
+"Bir zamanlar laboratuvar teknisyenlerine yardım eden, çalışmayan robotik "
+"kollar."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASCEILINGROBOT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASCEILINGROBOT.NAME"
@@ -12313,12 +12322,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDECORATIVEWINDOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDECORATIVEWINDOW.DESC"
 msgid "A tall, thin window which once pointed to a courtyard."
-msgstr ""
+msgstr "Bir zamanlar bir avluyu gören uzun, ince bir pencere."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDECORATIVEWINDOW.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDECORATIVEWINDOW.NAME"
 msgid "Window"
-msgstr ""
+msgstr "Pencere"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDISPLAY4.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDISPLAY4.DESC"
@@ -12331,7 +12340,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDISPLAY4.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDISPLAY4.NAME"
 msgid "Electronic Display"
-msgstr ""
+msgstr "Elektronik Ekran"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFLOORROBOT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFLOORROBOT.DESC"
@@ -12341,7 +12350,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFLOORROBOT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFLOORROBOT.NAME"
 msgid "Robotic Arm"
-msgstr ""
+msgstr "Robotik Kol"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASHANDSCANNER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASHANDSCANNER.DESC"
@@ -12363,11 +12372,13 @@ msgid ""
 "An abnormally large brain floating in embalming liquid to prevent "
 "decomposition."
 msgstr ""
+"Bozulmayı önlemek için mumyalama sıvısında yüzen anormal derecede büyük bir "
+"beyin."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASJAR1.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASJAR1.NAME"
 msgid "Big Brain Jar"
-msgstr ""
+msgstr "Büyük Beyin Kavanozu"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASJAR2.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASJAR2.DESC"
@@ -12377,7 +12388,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASJAR2.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASJAR2.NAME"
 msgid "Sample Jar"
-msgstr ""
+msgstr "Örnek Kavanoz"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABTABLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABTABLE.DESC"
@@ -12390,7 +12401,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABTABLE.NAME"
 msgid "Lab Desk"
-msgstr ""
+msgstr "Laboratuvar Masası"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.DESC
 #, fuzzy
@@ -12411,12 +12422,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.EFFECT"
 msgid "A regular wall that once existed in a working lab."
-msgstr ""
+msgstr "Bir zamanlar çalışan bir laboratuvarda var olan normal bir duvar."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.NAME"
 msgid "Lab Wall"
-msgstr ""
+msgstr "Laboratuvar Duvarı"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.DESC
 #, fuzzy
@@ -12437,12 +12448,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.EFFECT"
 msgid "A lab window. Formerly a portal to the outside world."
-msgstr ""
+msgstr "Bir laboratuvar penceresi. Eskiden dış dünyaya açılan bir portaldı."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.NAME"
 msgid "Lab Window"
-msgstr ""
+msgstr "Laboratuvar Penceresi"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.DESC
 #, fuzzy
@@ -12471,7 +12482,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.NAME"
 msgid "Lab Window"
-msgstr ""
+msgstr "Laboratuvar Penceresi"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASROBTICTABLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASROBTICTABLE.DESC"
@@ -12483,17 +12494,17 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASROBTICTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASROBTICTABLE.NAME"
 msgid "Robotics Research Desk"
-msgstr ""
+msgstr "Robotik Araştırma Masası"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASSHELF.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASSHELF.DESC"
 msgid "A shelf holding jars just out of reach for a short person."
-msgstr ""
+msgstr "Kısa boylu birinin ulaşamayacağı kavanozları tutan bir raf."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASSHELF.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASSHELF.NAME"
 msgid "Shelf"
-msgstr ""
+msgstr "Raf"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.DESC
 #, fuzzy
@@ -12519,7 +12530,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.NAME"
 msgid "Wall"
-msgstr ""
+msgstr "Duvar"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPLADDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPLADDER.DESC"
@@ -12553,7 +12564,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPRECEPTIONDESK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPRECEPTIONDESK.NAME"
 msgid "Reception Desk"
-msgstr ""
+msgstr "Resepsiyon Masası"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPSKELETON.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPSKELETON.DESC"
@@ -12596,32 +12607,33 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPSURFACESATELLITE3.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPSURFACESATELLITE3.NAME"
 msgid "Crushed Satellite"
-msgstr ""
+msgstr "Ezilmiş Uydu"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPTABLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPTABLE.DESC"
 msgid "A table and some chairs."
-msgstr ""
+msgstr "Bir masa ve birkaç sandalye."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPTABLE.NAME"
 msgid "Table"
-msgstr ""
+msgstr "Masa"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPTALLPLANT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPTALLPLANT.DESC"
 msgid "Looking closely, it appears to be fake."
-msgstr ""
+msgstr "Yakından bakınca sahte gibi görünüyor."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPTALLPLANT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPTALLPLANT.NAME"
 msgid "Potted Plant"
-msgstr ""
+msgstr "Saksı Bitkisi"
 
 #. STRINGS.BUILDINGS.PREFABS.RADIATIONLIGHT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RADIATIONLIGHT.DESC"
 msgid "Duplicants can become sick if exposed to radiation without protection."
 msgstr ""
+"Duplicant'lar, korumasız şekilde radyasyona maruz kalırsa hastalanabilir."
 
 #. STRINGS.BUILDINGS.PREFABS.RADIATIONLIGHT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RADIATIONLIGHT.EFFECT"
@@ -12734,6 +12746,8 @@ msgid ""
 "Ration boxes keep food safe from hungry critters, but don't slow food "
 "spoilage."
 msgstr ""
+"Tayın kutuları yiyecekleri aç yaratıklardan korur, ancak yiyeceklerin "
+"bozulmasını yavaşlatmaz."
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT"
@@ -12742,11 +12756,14 @@ msgid ""
 "\n"
 "Food must be delivered to boxes by Duplicants."
 msgstr ""
+"Az miktarda <link=\"FOOD\">Yiyecek</link> depolar.\n"
+"\n"
+"Yiyecekler, Duplicant'lar tarafından kutulara teslim edilmelidir."
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME"
 msgid "<link=\"RATIONBOX\">Ration Box</link>"
-msgstr ""
+msgstr "<link=\"RATIONBOX\">Tayın Kutusu</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC"
@@ -12754,6 +12771,8 @@ msgid ""
 "Food spoilage can be slowed by ambient conditions as well as by "
 "refrigerators."
 msgstr ""
+"Gıda bozulması, ortam koşullarının yanı sıra buzdolapları tarafından da "
+"yavaşlatılabilir."
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.EFFECT"
@@ -12761,31 +12780,38 @@ msgid ""
 "Stores <link=\"FOOD\">Food</link> at an ideal <link=\"HEAT\">Temperature</"
 "link> to prevent spoilage."
 msgstr ""
+"Bozulmayı önlemek için <link=\"FOOD\">Yiyeceği</link> ideal <link=\"HEAT"
+"\">Sıcaklıkta</link> saklar."
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT"
 msgid "Full/Not Full"
-msgstr ""
+msgstr "Dolu/Dolu Değil"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when full"
 msgstr ""
+"Dolu olduğunda bir <b><style=\"logic_on\">Yeşil Sinyal</style></b> gönderir"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT_INACTIVE"
 msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
 msgstr ""
+"Aksi takdirde, bir <b><style=\"logic_off\">Kırmızı Sinyal</style></b> "
+"gönderir"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.NAME"
 msgid "<link=\"REFRIGERATOR\">Refrigerator</link>"
-msgstr ""
+msgstr "<link=\"REFRIGERATOR\">Buzdolabı</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC"
 msgid "Research stations are necessary for unlocking all research tiers."
 msgstr ""
+"Tüm araştırma katmanlarının kilidini açmak için araştırma istasyonları "
+"gereklidir."
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT"
@@ -12799,7 +12825,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME"
 msgid "<link=\"RESEARCHCENTER\">Research Station</link>"
-msgstr ""
+msgstr "<link=\"RESEARCHCENTER\">Araştırma İstasyonu</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHMODULE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHMODULE.DESC"
@@ -12807,6 +12833,8 @@ msgid ""
 "Data banks can be used at virtual planetariums to produce additional "
 "research."
 msgstr ""
+"Veri bankaları, ek araştırmalar üretmek için sanal planetaryumlarda "
+"kullanılabilir."
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHMODULE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHMODULE.EFFECT"
@@ -12822,7 +12850,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHMODULE.NAME"
 msgid "<link=\"RESEARCHMODULE\">Research Module</link>"
-msgstr ""
+msgstr "<link=\"RESEARCHMODULE\">Araştırma Modülü</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.RESETSKILLSSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESETSKILLSSTATION.DESC"
@@ -12830,6 +12858,8 @@ msgid ""
 "Erase skills from a Duplicant's mind, returning them to their default "
 "abilities."
 msgstr ""
+"Bir Duplicant'ın zihnindeki becerileri silerek varsayılan yeteneklerine geri "
+"döndürür."
 
 #. STRINGS.BUILDINGS.PREFABS.RESETSKILLSSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESETSKILLSSTATION.EFFECT"
@@ -12838,11 +12868,14 @@ msgid ""
 "\n"
 "Duplicants will lose all assigned skills in the process."
 msgstr ""
+"Bir Duplicant'ın Beceri Puanlarını yeniden atama için iade eder.\n"
+"\n"
+"Duplicant, süreçte atanan tüm becerileri kaybeder."
 
 #. STRINGS.BUILDINGS.PREFABS.RESETSKILLSSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESETSKILLSSTATION.NAME"
 msgid "<link=\"RESETSKILLSSTATION\">Skill Scrubber</link>"
-msgstr ""
+msgstr "<link=\"RESETSKILLSSTATION\">Beceri Temizleyici</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.DESC"
@@ -12850,6 +12883,8 @@ msgid ""
 "Rock Crushers loosen nuggets from raw ore and can process many different "
 "resources."
 msgstr ""
+"Kaya Kırıcılar, ham cevherden külçeleri gevşetir ve birçok farklı kaynağı "
+"işleyebilir."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.EFFECT"
@@ -12858,6 +12893,9 @@ msgid ""
 "\n"
 "Duplicants will not fabricate items unless recipes are queued."
 msgstr ""
+"Ham kaynaklardan verimsiz bir şekilde rafine edilmiş malzemeler üretir.\n"
+"\n"
+"Tarifler kuyruğa alınmadıkça Duplicant'lar ürün üretmeyecektir."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.LIME_FROM_LIMESTONE_RECIPE_DESCRIPTION
 msgctxt ""
@@ -12878,17 +12916,17 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.NAME"
 msgid "<link=\"ROCKCRUSHER\">Rock Crusher</link>"
-msgstr ""
+msgstr "<link=\"ROCKCRUSHER\">Kaya Kırıcı</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.RECIPE_DESCRIPTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.RECIPE_DESCRIPTION"
 msgid "Crushes {0} into {1}."
-msgstr ""
+msgstr "{0}'i {1} içine ezer."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCOMMANDCONSOLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCOMMANDCONSOLE.DESC"
 msgid "Looks kinda fun."
-msgstr ""
+msgstr "Biraz eğlenceli görünüyor."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCOMMANDCONSOLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCOMMANDCONSOLE.EFFECT"
@@ -13159,7 +13197,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDINPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDINPUT.DESC"
 msgid "Why organize your shelves when you can just shove everything in here?"
-msgstr ""
+msgstr "Her şeyi buraya tıkabilecekken neden raflarını düzenleyesin ki?"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDINPUT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDINPUT.EFFECT"
@@ -13180,7 +13218,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.DESC"
 msgid "For accessing your stored luggage mid-flight."
-msgstr ""
+msgstr "Uçuş sırasında bagajınıza erişmek için."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.EFFECT"
@@ -13255,7 +13293,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.DESC"
 msgid "Rust and salt goes in, oxygen comes out."
-msgstr ""
+msgstr "Pas ve tuz girer, oksijen çıkar."
 
 #. STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.EFFECT"
@@ -13269,12 +13307,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.NAME"
 msgid "<link=\"RUSTDEOXIDIZER\">Rust Deoxidizer</link>"
-msgstr ""
+msgstr "<link=\"RUSTDEOXIDIZER\">Pas Oksit Giderici</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SAUNA.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SAUNA.DESC"
 msgid "A steamy sauna soothes away all the aches and pains."
-msgstr ""
+msgstr "Buharlı sauna tüm ağrıları ve sızıları yatıştırır."
 
 #. STRINGS.BUILDINGS.PREFABS.SAUNA.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SAUNA.EFFECT"
@@ -13287,12 +13325,14 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SAUNA.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SAUNA.NAME"
 msgid "<link=\"SAUNA\">Sauna</link>"
-msgstr ""
+msgstr "<link=\"SAUNA\">Sauna</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SCANNERMODULE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCANNERMODULE.DESC"
 msgid "Allows Duplicants to boldly go where other Duplicants haven't been yet."
 msgstr ""
+"Duplicant'ların, diğer Duplicant'ların henüz gitmediği yerlere cesaretle "
+"gitmesini sağlar."
 
 #. STRINGS.BUILDINGS.PREFABS.SCANNERMODULE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCANNERMODULE.EFFECT"
@@ -13345,7 +13385,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SCOUTROCKETPOD.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCOUTROCKETPOD.DESC"
 msgid "Good luck out there, boy!"
-msgstr ""
+msgstr "İyi şanslar evlat!"
 
 #. STRINGS.BUILDINGS.PREFABS.SCOUTROCKETPOD.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCOUTROCKETPOD.EFFECT"
@@ -13395,7 +13435,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.POORQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.POORQUALITYNAME"
 msgid "\"Abstract\" Sculpture"
-msgstr ""
+msgstr "\"Soyut\" Heykel"
 
 #. STRINGS.BUILDINGS.PREFABS.SETLOCKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SETLOCKER.DESC"
@@ -13434,6 +13474,8 @@ msgid ""
 "Regularly showering will prevent Duplicants spreading germs to the things "
 "they touch."
 msgstr ""
+"Düzenli olarak duş almak, Duplicant'ların dokundukları şeylere mikrop "
+"bulaştırmasını önleyecektir."
 
 #. STRINGS.BUILDINGS.PREFABS.SHOWER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHOWER.EFFECT"
@@ -13441,16 +13483,18 @@ msgid ""
 "Improves Duplicant <link=\"MORALE\">Morale</link> and removes surface <link="
 "\"DISEASE\">Germs</link>."
 msgstr ""
+"Duplicant <link=\"MORALE\">Moralini</link> iyileştirir ve yüzeydeki <link="
+"\"DISEASE\">Mikropları</link> ortadan kaldırır."
 
 #. STRINGS.BUILDINGS.PREFABS.SHOWER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHOWER.NAME"
 msgid "<link=\"SHOWER\">Shower</link>"
-msgstr ""
+msgstr "<link=\"SHOWER\">Duş</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SLUDGEPRESS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SLUDGEPRESS.DESC"
 msgid "What Duplicant doesn't love playing with mud?"
-msgstr ""
+msgstr "Hangi Duplicant çamurla oynamayı sevmez ki?"
 
 #. STRINGS.BUILDINGS.PREFABS.SLUDGEPRESS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SLUDGEPRESS.EFFECT"
@@ -13477,6 +13521,8 @@ msgid ""
 "Solid oxidizers allows rocket fuel to be efficiently burned in the vacuum of "
 "space."
 msgstr ""
+"Katı oksitleyiciler, roket yakıtının uzay boşluğunda verimli bir şekilde "
+"yakılmasını sağlar."
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLOXIDIZERTANK.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLOXIDIZERTANK.EFFECT"
@@ -13607,6 +13653,8 @@ msgid ""
 "Solar panels convert high intensity sunlight into power and produce zero "
 "waste."
 msgstr ""
+"Güneş panelleri, yüksek yoğunluklu güneş ışığını güce dönüştürür ve sıfır "
+"atık üretir."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLARPANEL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLARPANEL.EFFECT"
@@ -13909,7 +13957,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDFILTER.STATUS_ITEM
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDFILTER.STATUS_ITEM"
 msgid "Filters: {0}"
-msgstr ""
+msgstr "Filtreler: {0}"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.DESC"
@@ -13979,7 +14027,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.LOGIC_PORT"
 msgid "Open/Close"
-msgstr ""
+msgstr "Aç/Kapat"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.LOGIC_PORT_ACTIVE"
@@ -14042,7 +14090,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.DESC"
 msgid "A space heater will radiate heat for as long as it's powered."
-msgstr ""
+msgstr "Bir uzay ısıtıcısı, çalıştığı sürece ısı yayacaktır."
 
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.EFFECT"
@@ -14095,12 +14143,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.STATERPILLARGENERATOR.MODIFIERS.HUNGRY
 msgctxt "STRINGS.BUILDINGS.PREFABS.STATERPILLARGENERATOR.MODIFIERS.HUNGRY"
 msgid "Hungry!"
-msgstr ""
+msgstr "Aç!"
 
 #. STRINGS.BUILDINGS.PREFABS.STATERPILLARGENERATOR.MODIFIERS.WILD
 msgctxt "STRINGS.BUILDINGS.PREFABS.STATERPILLARGENERATOR.MODIFIERS.WILD"
 msgid "Wild!"
-msgstr ""
+msgstr "Vahşi!"
 
 #. STRINGS.BUILDINGS.PREFABS.STATERPILLARGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STATERPILLARGENERATOR.NAME"
@@ -14520,27 +14568,27 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.TURN_OFF
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.TURN_OFF"
 msgid "Turn Off"
-msgstr ""
+msgstr "Kapat"
 
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.TURN_OFF_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.TURN_OFF_TOOLTIP"
 msgid "Turn Off {Hotkey}"
-msgstr ""
+msgstr "{Hotkey} Kapat"
 
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.TURN_ON
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.TURN_ON"
 msgid "Turn On"
-msgstr ""
+msgstr "Aç"
 
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.TURN_ON_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.TURN_ON_TOOLTIP"
 msgid "Turn On {Hotkey}"
-msgstr ""
+msgstr "{Hotkey} Aç"
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.DESC"
 msgid "You never know who you'll meet on the other line."
-msgstr ""
+msgstr "Diğer hatta kiminle karşılaşacağını asla bilemezsin."
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT"
@@ -14606,17 +14654,17 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.LOGIC_PORT"
 msgid "Portal Code Input"
-msgstr ""
+msgstr "Portal Kodu Girişi"
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.LOGIC_PORT_ACTIVE"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.LOGIC_PORT_INACTIVE"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.NAME"
@@ -14690,7 +14738,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.SIDESCREEN.TEXT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.SIDESCREEN.TEXT"
 msgid "Fire!"
-msgstr ""
+msgstr "Yangın!"
 
 #. STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.SIDESCREEN.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.SIDESCREEN.TOOLTIP"
@@ -14786,6 +14834,8 @@ msgid ""
 "Duplicants will only exit a transit tube when a safe landing area is "
 "available beneath it."
 msgstr ""
+"Duplicant'lar, yalnızca altında güvenli bir iniş alanı mevcut olduğunda bir "
+"transit tüpten çıkacaktır."
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBE.EFFECT"
@@ -14795,16 +14845,22 @@ msgid ""
 "\n"
 "Only transports Duplicants."
 msgstr ""
+"Duplicant'ları bir <link=\"TRAVELTUBEENTRANCE\">Transit Tüp Erişiminden</"
+"link> tüpün ucuna hızla taşır.\n"
+"\n"
+"Yalnızca Duplicant'ları taşır."
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBE.NAME"
 msgid "<link=\"TRAVELTUBE\">Transit Tube</link>"
-msgstr ""
+msgstr "<link=\"TRAVELTUBE\">Transit Tüp</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.DESC"
 msgid "Duplicants require access points to enter tubes, but not to exit them."
 msgstr ""
+"Duplicant'lar, tüplere girmek için erişim noktalarına ihtiyaç duyar, ancak "
+"tüplerden çıkmak için değil."
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.EFFECT"
@@ -14818,7 +14874,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.NAME"
 msgid "<link=\"TRAVELTUBEENTRANCE\">Transit Tube Access</link>"
-msgstr ""
+msgstr "<link=\"TRAVELTUBEENTRANCE\">Transit Tüp Erişimi</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.DESC"
@@ -14826,6 +14882,8 @@ msgid ""
 "Tube crossings can run transit tubes through walls without leaking gas or "
 "liquid."
 msgstr ""
+"Tüp geçişleri, gaz veya sıvı sızıntısı olmadan geçiş tüplerini duvarlardan "
+"geçirebilir."
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.EFFECT"
@@ -14835,26 +14893,30 @@ msgid ""
 "\n"
 "Functions as regular tile."
 msgstr ""
+"<link=\"TRAVELTUBE\">Transit Tüplerin</link> duvar ve yer karosu içinden "
+"geçmesine izin verir.\n"
+"\n"
+"Normal karo olarak işlev görür."
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.NAME"
 msgid "<link=\"TRAVELTUBEWALLBRIDGE\">Transit Tube Crossing</link>"
-msgstr ""
+msgstr "<link=\"TRAVELTUBEWALLBRIDGE\">Transit Tüp Geçişi</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.UNCONSTRUCTEDROCKETMODULE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.UNCONSTRUCTEDROCKETMODULE.DESC"
 msgid "Something useful could be put here someday"
-msgstr ""
+msgstr "Bir gün buraya işe yarar bir şey konabilir"
 
 #. STRINGS.BUILDINGS.PREFABS.UNCONSTRUCTEDROCKETMODULE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.UNCONSTRUCTEDROCKETMODULE.EFFECT"
 msgid "Can be changed into a different rocket module"
-msgstr ""
+msgstr "Farklı bir roket modülüne dönüştürülebilir"
 
 #. STRINGS.BUILDINGS.PREFABS.UNCONSTRUCTEDROCKETMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.UNCONSTRUCTEDROCKETMODULE.NAME"
 msgid "Empty Rocket Module"
-msgstr ""
+msgstr "Boş Roket Modülü"
 
 #. STRINGS.BUILDINGS.PREFABS.URANIUMCENTRIFUGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.URANIUMCENTRIFUGE.DESC"
@@ -14862,6 +14924,8 @@ msgid ""
 "Enriched uranium is a specialized substance that can be used to fuel "
 "powerful research reactors."
 msgstr ""
+"Zenginleştirilmiş uranyum, güçlü araştırma reaktörlerini beslemek için "
+"kullanılabilecek özel bir maddedir."
 
 #. STRINGS.BUILDINGS.PREFABS.URANIUMCENTRIFUGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.URANIUMCENTRIFUGE.EFFECT"
@@ -14881,6 +14945,7 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.URANIUMCENTRIFUGE.RECIPE_DESCRIPTION"
 msgid "Convert Uranium ore to Molten Uranium and Enriched Uranium"
 msgstr ""
+"Uranyum cevherini Erimiş Uranyum ve Zenginleştirilmiş Uranyum'a dönüştürün"
 
 #. STRINGS.BUILDINGS.PREFABS.VENDINGMACHINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.VENDINGMACHINE.DESC"
@@ -14890,12 +14955,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.VENDINGMACHINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.VENDINGMACHINE.NAME"
 msgid "Vending Machine"
-msgstr ""
+msgstr "Otomat"
 
 #. STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DESC"
 msgid "Duplicants love the feeling of high-powered wind through their hair."
-msgstr ""
+msgstr "Duplicant'lar, saçlarında yüksek güçlü rüzgar hissini severler."
 
 #. STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DISPLACEMENTEFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DISPLACEMENTEFFECT"
@@ -14920,13 +14985,15 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.NAME"
 msgid "<link=\"VERTICALWINDTUNNEL\">Vertical Wind Tunnel</link>"
-msgstr ""
+msgstr "<link=\"VERTICALWINDTUNNEL\">Dikey Rüzgar Tüneli</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLTOILET.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLTOILET.DESC"
 msgid ""
 "Wall Toilets transmit fewer germs to Duplicants and require no emptying."
 msgstr ""
+"Duvar Tuvaletleri, Duplicant'lara daha az mikrop iletir ve boşaltma "
+"gerektirmez."
 
 #. STRINGS.BUILDINGS.PREFABS.WALLTOILET.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLTOILET.EFFECT"
@@ -14936,11 +15003,15 @@ msgid ""
 "\n"
 "Spreads very few <link=\"DISEASE\">Germs</link>."
 msgstr ""
+"Duplicant'ların kendilerini rahatlatacak bir yer verir. Doğrudan duvarın "
+"diğer tarafına boşalır.\n"
+"\n"
+"Çok az <link=\"DISEASE\">Mikrop</link> yayar."
 
 #. STRINGS.BUILDINGS.PREFABS.WALLTOILET.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLTOILET.NAME"
 msgid "<link=\"WALLTOILET\">Wall Toilet</link>"
-msgstr ""
+msgstr "<link=\"WALLTOILET\">Duvar Tuvaleti</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WARPCONDUITRECEIVER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPCONDUITRECEIVER.DESC"
@@ -14995,11 +15066,14 @@ msgid ""
 "\n"
 "This is the outgoing side, and has one pre-programmed destination."
 msgstr ""
+"Karmaşık bir ışınlanma sisteminin işlevsel kalıntıları.\n"
+"\n"
+"Bu giden taraftır ve önceden programlanmış bir hedefi vardır."
 
 #. STRINGS.BUILDINGS.PREFABS.WARPPORTAL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPPORTAL.NAME"
 msgid "Teleporter Transmitter"
-msgstr ""
+msgstr "Işınlayıcı Vericisi"
 
 #. STRINGS.BUILDINGS.PREFABS.WARPRECEIVER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPRECEIVER.DESC"
@@ -15008,11 +15082,14 @@ msgid ""
 "\n"
 "This is the incoming side."
 msgstr ""
+"Karmaşık bir ışınlanma sisteminin işlevsel kalıntıları.\n"
+"\n"
+"Bu gelen taraf."
 
 #. STRINGS.BUILDINGS.PREFABS.WARPRECEIVER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPRECEIVER.NAME"
 msgid "Teleporter Receiver"
-msgstr ""
+msgstr "Işınlayıcı Alıcısı"
 
 #. STRINGS.BUILDINGS.PREFABS.WASHBASIN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHBASIN.DESC"
@@ -15227,6 +15304,8 @@ msgid ""
 "Higher wattage wire is used to avoid power overloads, particularly for "
 "strong generators."
 msgstr ""
+"Özellikle güçlü jeneratörler için aşırı güç yüklenmesini önlemek için daha "
+"yüksek voltajlı kablo kullanılır."
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDHIGHWATTAGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDHIGHWATTAGE.EFFECT"
@@ -15248,6 +15327,7 @@ msgid ""
 "Wood burners are small and easy to maintain, but produce a fair amount of "
 "heat."
 msgstr ""
+"Odun yakıcıları küçüktür ve bakımı kolaydır, ancak makul miktarda ısı üretir."
 
 #. STRINGS.BUILDINGS.PREFABS.WOODGASGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WOODGASGENERATOR.EFFECT"
@@ -15262,22 +15342,22 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WOODGASGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WOODGASGENERATOR.NAME"
 msgid "<link=\"WOODGASGENERATOR\">Wood Burner</link>"
-msgstr ""
+msgstr "<link=\"WOODGASGENERATOR\">Odun Yakıcı</link>"
 
 #. STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.NAME
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.NAME"
 msgid "Disable Autorepair"
-msgstr ""
+msgstr "Otomatik Onarımı Devre Dışı Bırak"
 
 #. STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.TOOLTIP"
 msgid "Only repair this building when ordered"
-msgstr ""
+msgstr "Bu binayı yalnızca emir verildiğinde onarın"
 
 #. STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.NAME
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.NAME"
 msgid "Enable Autorepair"
-msgstr ""
+msgstr "Otomatik Onarımı Etkinleştir"
 
 #. STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.TOOLTIP"
@@ -15538,7 +15618,7 @@ msgstr ""
 #. STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.SUBTITLE
 msgctxt "STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: YOK"
 
 #. STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.TITLE
 msgctxt "STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.TITLE"
@@ -15579,7 +15659,7 @@ msgstr ""
 #. STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.SUBTITLE
 msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.SUBTITLE"
 msgid "PUBLIC RELEASE"
-msgstr ""
+msgstr "KAMU AÇIKLAMASI"
 
 #. STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.TITLE
 msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY1.TITLE"
@@ -15607,7 +15687,7 @@ msgstr ""
 #. STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.SUBTITLE
 msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.SUBTITLE"
 msgid "PUBLIC RELEASE"
-msgstr ""
+msgstr "KAMU AÇIKLAMASI"
 
 #. STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.TITLE
 msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY2.TITLE"
@@ -15643,7 +15723,7 @@ msgstr ""
 #. STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.SUBTITLE
 msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.SUBTITLE"
 msgid "PUBLIC RELEASE"
-msgstr ""
+msgstr "KAMU AÇIKLAMASI"
 
 #. STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.TITLE
 msgctxt "STRINGS.CODEX.A0_PROPFACILITYDISPLAY3.TITLE"
@@ -15739,12 +15819,12 @@ msgstr ""
 #. STRINGS.CODEX.A1_CLONEDRABBITS.SUBTITLE
 msgctxt "STRINGS.CODEX.A1_CLONEDRABBITS.SUBTITLE"
 msgid "ENCRYPTION LEVEL: TWO"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: İKİ"
 
 #. STRINGS.CODEX.A1_CLONEDRABBITS.TITLE
 msgctxt "STRINGS.CODEX.A1_CLONEDRABBITS.TITLE"
 msgid "Initial Success"
-msgstr ""
+msgstr "İlk Başarı"
 
 #. STRINGS.CODEX.A1_CLONEDRACCOONS.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A1_CLONEDRACCOONS.BODY.CONTAINER1"
@@ -15778,12 +15858,12 @@ msgstr ""
 #. STRINGS.CODEX.A1_CLONEDRACCOONS.SUBTITLE
 msgctxt "STRINGS.CODEX.A1_CLONEDRACCOONS.SUBTITLE"
 msgid "ENCRYPTION LEVEL: TWO"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: İKİ"
 
 #. STRINGS.CODEX.A1_CLONEDRACCOONS.TITLE
 msgctxt "STRINGS.CODEX.A1_CLONEDRACCOONS.TITLE"
 msgid "Initial Success"
-msgstr ""
+msgstr "İlk Başarı"
 
 #. STRINGS.CODEX.A1_CLONEDRATS.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A1_CLONEDRATS.BODY.CONTAINER1"
@@ -15817,12 +15897,12 @@ msgstr ""
 #. STRINGS.CODEX.A1_CLONEDRATS.SUBTITLE
 msgctxt "STRINGS.CODEX.A1_CLONEDRATS.SUBTITLE"
 msgid "ENCRYPTION LEVEL: TWO"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: İKİ"
 
 #. STRINGS.CODEX.A1_CLONEDRATS.TITLE
 msgctxt "STRINGS.CODEX.A1_CLONEDRATS.TITLE"
 msgid "Initial Success"
-msgstr ""
+msgstr "İlk Başarı"
 
 #. STRINGS.CODEX.A1_MAILROOMETIQUETTE.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A1_MAILROOMETIQUETTE.BODY.CONTAINER1"
@@ -15847,7 +15927,7 @@ msgstr ""
 #. STRINGS.CODEX.A1_MAILROOMETIQUETTE.SUBTITLE
 msgctxt "STRINGS.CODEX.A1_MAILROOMETIQUETTE.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: YOK"
 
 #. STRINGS.CODEX.A1_MAILROOMETIQUETTE.TITLE
 msgctxt "STRINGS.CODEX.A1_MAILROOMETIQUETTE.TITLE"
@@ -15916,7 +15996,7 @@ msgstr ""
 #. STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.SUBTITLE
 msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.SUBTITLE"
 msgid "ENCRYPTION LEVEL: ONE"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: BİR"
 
 #. STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.TITLE
 msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.TITLE"
@@ -15988,7 +16068,7 @@ msgstr ""
 #. STRINGS.CODEX.A1A_B111.SUBTITLE
 msgctxt "STRINGS.CODEX.A1A_B111.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: ÜÇ"
 
 #. STRINGS.CODEX.A1A_B111.TITLE
 msgctxt "STRINGS.CODEX.A1A_B111.TITLE"
@@ -16125,12 +16205,12 @@ msgstr ""
 #. STRINGS.CODEX.A2_AGRICULTURALNOTES.SUBTITLE
 msgctxt "STRINGS.CODEX.A2_AGRICULTURALNOTES.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: ÜÇ"
 
 #. STRINGS.CODEX.A2_AGRICULTURALNOTES.TITLE
 msgctxt "STRINGS.CODEX.A2_AGRICULTURALNOTES.TITLE"
 msgid "Agricultural Notes"
-msgstr ""
+msgstr "Tarım Notları"
 
 #. STRINGS.CODEX.A2_B327.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A2_B327.BODY.CONTAINER1"
@@ -16205,7 +16285,7 @@ msgstr ""
 #. STRINGS.CODEX.A2_B327.SUBTITLE
 msgctxt "STRINGS.CODEX.A2_B327.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: YOK"
 
 #. STRINGS.CODEX.A2_B327.TITLE
 msgctxt "STRINGS.CODEX.A2_B327.TITLE"
@@ -16235,7 +16315,7 @@ msgstr ""
 #. STRINGS.CODEX.A2_BACTERIALCULTURES.SUBTITLE
 msgctxt "STRINGS.CODEX.A2_BACTERIALCULTURES.SUBTITLE"
 msgid "ENCRYPTION LEVEL: TWO"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: İKİ"
 
 #. STRINGS.CODEX.A2_BACTERIALCULTURES.TITLE
 msgctxt "STRINGS.CODEX.A2_BACTERIALCULTURES.TITLE"
@@ -16318,7 +16398,7 @@ msgstr ""
 #. STRINGS.CODEX.A2_THERMODYNAMICLAWS.SUBTITLE
 msgctxt "STRINGS.CODEX.A2_THERMODYNAMICLAWS.SUBTITLE"
 msgid "UNENCRYPTED"
-msgstr ""
+msgstr "ŞİFRELENMEMİŞ"
 
 #. STRINGS.CODEX.A2_THERMODYNAMICLAWS.TITLE
 msgctxt "STRINGS.CODEX.A2_THERMODYNAMICLAWS.TITLE"
@@ -16389,7 +16469,7 @@ msgstr ""
 #. STRINGS.CODEX.A3_B556.SUBTITLE
 msgctxt "STRINGS.CODEX.A3_B556.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: YOK"
 
 #. STRINGS.CODEX.A3_B556.TITLE
 msgctxt "STRINGS.CODEX.A3_B556.TITLE"
@@ -16467,7 +16547,7 @@ msgstr ""
 #. STRINGS.CODEX.A3_DEVONSBLOG.SUBTITLE
 msgctxt "STRINGS.CODEX.A3_DEVONSBLOG.SUBTITLE"
 msgid "UNENCRYPTED"
-msgstr ""
+msgstr "ŞİFRELENMEMİŞ"
 
 #. STRINGS.CODEX.A3_DEVONSBLOG.TITLE
 msgctxt "STRINGS.CODEX.A3_DEVONSBLOG.TITLE"
@@ -16598,7 +16678,7 @@ msgstr ""
 #. STRINGS.CODEX.A3_HUSBANDRYNOTES.SUBTITLE
 msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.SUBTITLE"
 msgid "ENCRYPTION LEVEL: THREE"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: ÜÇ"
 
 #. STRINGS.CODEX.A3_HUSBANDRYNOTES.TITLE
 msgctxt "STRINGS.CODEX.A3_HUSBANDRYNOTES.TITLE"
@@ -16636,12 +16716,12 @@ msgstr ""
 #. STRINGS.CODEX.A3_NEWSECURITY.SUBTITLE
 msgctxt "STRINGS.CODEX.A3_NEWSECURITY.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: YOK"
 
 #. STRINGS.CODEX.A3_NEWSECURITY.TITLE
 msgctxt "STRINGS.CODEX.A3_NEWSECURITY.TITLE"
 msgid "NEW SECURITY PROTOCOL"
-msgstr ""
+msgstr "YENİ GÜVENLİK PROTOKOLÜ"
 
 #. STRINGS.CODEX.A4_ATOMICONRECRUITMENT.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.A4_ATOMICONRECRUITMENT.BODY.CONTAINER2"
@@ -16679,12 +16759,12 @@ msgstr ""
 #. STRINGS.CODEX.A4_ATOMICONRECRUITMENT.SUBTITLE
 msgctxt "STRINGS.CODEX.A4_ATOMICONRECRUITMENT.SUBTITLE"
 msgid "UNENCRYPTED"
-msgstr ""
+msgstr "ŞİFRELENMEMİŞ"
 
 #. STRINGS.CODEX.A4_ATOMICONRECRUITMENT.TITLE
 msgctxt "STRINGS.CODEX.A4_ATOMICONRECRUITMENT.TITLE"
 msgid "Results from Atomicon"
-msgstr ""
+msgstr "Atomicon'dan sonuçlar"
 
 #. STRINGS.CODEX.A4_B835.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A4_B835.BODY.CONTAINER1"
@@ -16749,7 +16829,7 @@ msgstr ""
 #. STRINGS.CODEX.A4_B835.SUBTITLE
 msgctxt "STRINGS.CODEX.A4_B835.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: YOK"
 
 #. STRINGS.CODEX.A4_B835.TITLE
 msgctxt "STRINGS.CODEX.A4_B835.TITLE"
@@ -16784,7 +16864,7 @@ msgstr ""
 #. STRINGS.CODEX.A4_CASUALFRIDAY.SUBTITLE
 msgctxt "STRINGS.CODEX.A4_CASUALFRIDAY.SUBTITLE"
 msgid "ENCRYPTION LEVEL: NONE"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: YOK"
 
 #. STRINGS.CODEX.A4_CASUALFRIDAY.TITLE
 msgctxt "STRINGS.CODEX.A4_CASUALFRIDAY.TITLE"
@@ -16837,12 +16917,12 @@ msgstr ""
 #. STRINGS.CODEX.A4_HIBISCUS3.SUBTITLE
 msgctxt "STRINGS.CODEX.A4_HIBISCUS3.SUBTITLE"
 msgid "ENCRYPTION LEVEL: TWO"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: İKİ"
 
 #. STRINGS.CODEX.A4_HIBISCUS3.TITLE
 msgctxt "STRINGS.CODEX.A4_HIBISCUS3.TITLE"
 msgid "Experiment 7D"
-msgstr ""
+msgstr "Deney 7D"
 
 #. STRINGS.CODEX.A5_GENETICOOZE.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A5_GENETICOOZE.BODY.CONTAINER1"
@@ -16867,12 +16947,12 @@ msgstr ""
 #. STRINGS.CODEX.A5_GENETICOOZE.SUBTITLE
 msgctxt "STRINGS.CODEX.A5_GENETICOOZE.SUBTITLE"
 msgid "ENCRYPTION LEVEL: TWO"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: İKİ"
 
 #. STRINGS.CODEX.A5_GENETICOOZE.TITLE
 msgctxt "STRINGS.CODEX.A5_GENETICOOZE.TITLE"
 msgid "Biofluid"
-msgstr ""
+msgstr "Biyosıvı"
 
 #. STRINGS.CODEX.A5_SHRIMP.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A5_SHRIMP.BODY.CONTAINER1"
@@ -16901,12 +16981,12 @@ msgstr ""
 #. STRINGS.CODEX.A5_SHRIMP.SUBTITLE
 msgctxt "STRINGS.CODEX.A5_SHRIMP.SUBTITLE"
 msgid "ENCRYPTION LEVEL: ZERO"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: SIFIR"
 
 #. STRINGS.CODEX.A5_SHRIMP.TITLE
 msgctxt "STRINGS.CODEX.A5_SHRIMP.TITLE"
 msgid "Shrimp"
-msgstr ""
+msgstr "Karides"
 
 #. STRINGS.CODEX.A5_STRAWBERRIES.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A5_STRAWBERRIES.BODY.CONTAINER1"
@@ -16934,12 +17014,12 @@ msgstr ""
 #. STRINGS.CODEX.A5_STRAWBERRIES.SUBTITLE
 msgctxt "STRINGS.CODEX.A5_STRAWBERRIES.SUBTITLE"
 msgid "ENCRYPTION LEVEL: ZERO"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: SIFIR"
 
 #. STRINGS.CODEX.A5_STRAWBERRIES.TITLE
 msgctxt "STRINGS.CODEX.A5_STRAWBERRIES.TITLE"
 msgid "Strawberries"
-msgstr ""
+msgstr "Çilekler"
 
 #. STRINGS.CODEX.A5_SUNFLOWERSEEDS.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A5_SUNFLOWERSEEDS.BODY.CONTAINER1"
@@ -16967,12 +17047,12 @@ msgstr ""
 #. STRINGS.CODEX.A5_SUNFLOWERSEEDS.SUBTITLE
 msgctxt "STRINGS.CODEX.A5_SUNFLOWERSEEDS.SUBTITLE"
 msgid "ENCRYPTION LEVEL: ZERO"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: SIFIR"
 
 #. STRINGS.CODEX.A5_SUNFLOWERSEEDS.TITLE
 msgctxt "STRINGS.CODEX.A5_SUNFLOWERSEEDS.TITLE"
 msgid "Sunflower Seeds"
-msgstr ""
+msgstr "Ay çekirdeği"
 
 #. STRINGS.CODEX.A5_THEJANITOR.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.A5_THEJANITOR.BODY.CONTAINER2"
@@ -17040,7 +17120,7 @@ msgstr ""
 #. STRINGS.CODEX.A5_THEJANITOR.SUBTITLE
 msgctxt "STRINGS.CODEX.A5_THEJANITOR.SUBTITLE"
 msgid "UNENCRYPTED"
-msgstr ""
+msgstr "ŞİFRELENMEMİŞ"
 
 #. STRINGS.CODEX.A5_THEJANITOR.TITLE
 msgctxt "STRINGS.CODEX.A5_THEJANITOR.TITLE"
@@ -17082,7 +17162,7 @@ msgstr ""
 #. STRINGS.CODEX.A6_DISHBOT.SUBTITLE
 msgctxt "STRINGS.CODEX.A6_DISHBOT.SUBTITLE"
 msgid "ENCRYPTION LEVEL: TWO"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: İKİ"
 
 #. STRINGS.CODEX.A6_DISHBOT.TITLE
 msgctxt "STRINGS.CODEX.A6_DISHBOT.TITLE"
@@ -17134,7 +17214,7 @@ msgstr ""
 #. STRINGS.CODEX.A6_MEMORYIMPLANTATION.SUBTITLE
 msgctxt "STRINGS.CODEX.A6_MEMORYIMPLANTATION.SUBTITLE"
 msgid "ENCRYPTION LEVEL: TWO"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: İKİ"
 
 #. STRINGS.CODEX.A6_MEMORYIMPLANTATION.TITLE
 msgctxt "STRINGS.CODEX.A6_MEMORYIMPLANTATION.TITLE"
@@ -17174,7 +17254,7 @@ msgstr ""
 #. STRINGS.CODEX.A6_NEWSECURITY2.SUBTITLE
 msgctxt "STRINGS.CODEX.A6_NEWSECURITY2.SUBTITLE"
 msgid "ENCRYPTION LEVEL: ONE"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: BİR"
 
 #. STRINGS.CODEX.A6_NEWSECURITY2.TITLE
 msgctxt "STRINGS.CODEX.A6_NEWSECURITY2.TITLE"
@@ -17233,7 +17313,7 @@ msgstr ""
 #. STRINGS.CODEX.A7_EMPLOYEEPROCESSING.SUBTITLE
 msgctxt "STRINGS.CODEX.A7_EMPLOYEEPROCESSING.SUBTITLE"
 msgid "ENCRYPTION LEVEL: ONE"
-msgstr ""
+msgstr "ŞİFRELEME SEVİYESİ: BİR"
 
 #. STRINGS.CODEX.A7_EMPLOYEEPROCESSING.TITLE
 msgctxt "STRINGS.CODEX.A7_EMPLOYEEPROCESSING.TITLE"
@@ -17489,32 +17569,32 @@ msgstr ""
 #. STRINGS.CODEX.ARBORTREE.SUBTITLE
 msgctxt "STRINGS.CODEX.ARBORTREE.SUBTITLE"
 msgid "Lumber Tree"
-msgstr ""
+msgstr "Kereste Ağacı"
 
 #. STRINGS.CODEX.ARBORTREE.TITLE
 msgctxt "STRINGS.CODEX.ARBORTREE.TITLE"
 msgid "Arbor Tree"
-msgstr ""
+msgstr "Çardak Ağacı"
 
 #. STRINGS.CODEX.AUTOMATION.HEADER_1
 msgctxt "STRINGS.CODEX.AUTOMATION.HEADER_1"
 msgid "Automation"
-msgstr ""
+msgstr "Otomasyon"
 
 #. STRINGS.CODEX.AUTOMATION.HEADER_2
 msgctxt "STRINGS.CODEX.AUTOMATION.HEADER_2"
 msgid "Automation Wires"
-msgstr ""
+msgstr "Otomasyon Kabloları"
 
 #. STRINGS.CODEX.AUTOMATION.HEADER_3
 msgctxt "STRINGS.CODEX.AUTOMATION.HEADER_3"
 msgid "Signals"
-msgstr ""
+msgstr "Sinyaller"
 
 #. STRINGS.CODEX.AUTOMATION.HEADER_4
 msgctxt "STRINGS.CODEX.AUTOMATION.HEADER_4"
 msgid "Gates"
-msgstr ""
+msgstr "Kapılar"
 
 #. STRINGS.CODEX.AUTOMATION.PARAGRAPH_1
 msgctxt "STRINGS.CODEX.AUTOMATION.PARAGRAPH_1"
@@ -17576,7 +17656,7 @@ msgstr ""
 #. STRINGS.CODEX.AUTOMATION.TITLE
 msgctxt "STRINGS.CODEX.AUTOMATION.TITLE"
 msgid "<link=\"LOGIC\">Automation</link>"
-msgstr ""
+msgstr "<link=\"LOGIC\">Otomasyon</link>"
 
 #. STRINGS.CODEX.B1_HOLLANDSDOG.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.B1_HOLLANDSDOG.BODY.CONTAINER1"
@@ -17653,17 +17733,17 @@ msgstr ""
 #. STRINGS.CODEX.B1_HOLLANDSDOG.SUBTITLE
 msgctxt "STRINGS.CODEX.B1_HOLLANDSDOG.SUBTITLE"
 msgid "UNENCRYPTED"
-msgstr ""
+msgstr "ŞİFRELENMEMİŞ"
 
 #. STRINGS.CODEX.B1_HOLLANDSDOG.TITLE
 msgctxt "STRINGS.CODEX.B1_HOLLANDSDOG.TITLE"
 msgid "Re: dr. holland's dog"
-msgstr ""
+msgstr "Ynt: Dr. Holland'ın köpeği"
 
 #. STRINGS.CODEX.B1_HOLLANDSDOG.TITLE2
 msgctxt "STRINGS.CODEX.B1_HOLLANDSDOG.TITLE2"
 msgid "dr. holland's dog"
-msgstr ""
+msgstr "dr. holland'ın köpeği"
 
 #. STRINGS.CODEX.B1_SPACEFACILITYDISPLAY1.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.B1_SPACEFACILITYDISPLAY1.BODY.CONTAINER1"
@@ -17752,7 +17832,7 @@ msgstr ""
 #. STRINGS.CODEX.B10_AI.TITLE
 msgctxt "STRINGS.CODEX.B10_AI.TITLE"
 msgid "A Paradox"
-msgstr ""
+msgstr "Bir Paradoks"
 
 #. STRINGS.CODEX.B2_ELLIESBIRTHDAY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.B2_ELLIESBIRTHDAY.BODY.CONTAINER1"
@@ -84057,7 +84137,7 @@ msgstr ""
 #. STRINGS.WORLDS.VANILLAVOLCANIC.NAME
 msgctxt "STRINGS.WORLDS.VANILLAVOLCANIC.NAME"
 msgid "Volcanea Asteroid"
-msgstr ""
+msgstr "Volkan Asteroidi"
 
 #. STRINGS.WORLDS.VOLCANIC.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VOLCANIC.DESCRIPTION"
@@ -84073,7 +84153,7 @@ msgstr ""
 #. STRINGS.WORLDS.VOLCANIC.NAME
 msgctxt "STRINGS.WORLDS.VOLCANIC.NAME"
 msgid "Volcanea"
-msgstr ""
+msgstr "Volkan"
 
 #. STRINGS.WORLDS.WARPOILYSWAMP.DESCRIPTION
 msgctxt "STRINGS.WORLDS.WARPOILYSWAMP.DESCRIPTION"
@@ -84083,11 +84163,15 @@ msgid ""
 "<smallcaps>While Oily Swamp Asteroids are largely swampy, they also contain "
 "a great deal of rust.</smallcaps>"
 msgstr ""
+"Yağlı bir çekirdeğe sahip kısmen donmuş bir dünya.\n"
+"\n"
+"<smallcaps>Yağlı Bataklık Asteroitleri büyük ölçüde bataklık olsa da, aynı "
+"zamanda çok miktarda pas içerirler.</smallcaps>"
 
 #. STRINGS.WORLDS.WARPOILYSWAMP.NAME
 msgctxt "STRINGS.WORLDS.WARPOILYSWAMP.NAME"
 msgid "Oily Swamp Asteroid"
-msgstr ""
+msgstr "Yağlı Bataklık Asteroidi"
 
 #. STRINGS.WORLDS.WATERMOONLET.DESCRIPTION
 msgctxt "STRINGS.WORLDS.WATERMOONLET.DESCRIPTION"
@@ -84098,8 +84182,13 @@ msgid ""
 "natural source of Graphite, but Duplicants should come prepared for a swim.</"
 "smallcaps>"
 msgstr ""
+"Küçük, sular altında kalmış bir dünya.\n"
+"\n"
+"<smallcaps>Su Asteroitleri çeşitli sıvı kaynaklara sahiptir ve doğal bir "
+"Grafit kaynağıdır, ancak Duplicant'lar yüzmeye hazırlıklı gelmelidir.</"
+"smallcaps>"
 
 #. STRINGS.WORLDS.WATERMOONLET.NAME
 msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
 msgid "Water Asteroid"
-msgstr ""
+msgstr "Su Asteroidi"
