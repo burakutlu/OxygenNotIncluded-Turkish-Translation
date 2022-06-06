@@ -313,6 +313,8 @@ msgid ""
 "Press <style=\"KKeyword\">Enable Building</style> {Hotkey/ToggleEnabled} to "
 "resume use"
 msgstr ""
+"Kullanıma devam etmek için <style=\"KKeyword\">Yapıyı Etkinleştir</style> "
+"{Hotkey/ToggleEnabled}'a basın"
 
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.NAME"
@@ -62218,122 +62220,122 @@ msgstr ""
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.STATUS
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.STATUS"
 msgid "Status"
-msgstr ""
+msgstr "Durum"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.TITLE
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.TITLE"
 msgid "Diagnostics"
-msgstr ""
+msgstr "Teşhis"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.TOTAL
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.TOTAL"
 msgid "Total"
-msgstr ""
+msgstr "Toplam"
 
 #. STRINGS.UI.DLC1.NAME
 msgctxt "STRINGS.UI.DLC1.NAME"
 msgid "Spaced Out!"
-msgstr ""
+msgstr "Aralıklı!"
 
 #. STRINGS.UI.DLC1.NAME_ITAL
 msgctxt "STRINGS.UI.DLC1.NAME_ITAL"
 msgid "<i>Spaced Out!</i>"
-msgstr ""
+msgstr "<i>Aralıklı!</i>"
 
 #. STRINGS.UI.DROPDOWN.NONE
 msgctxt "STRINGS.UI.DROPDOWN.NONE"
 msgid "Unassigned"
-msgstr ""
+msgstr "Atanmamış"
 
 #. STRINGS.UI.DUPLICANTPRINTING
 msgctxt "STRINGS.UI.DUPLICANTPRINTING"
 msgid "Duplicant Printing"
-msgstr ""
+msgstr "Duplicant Basılıyor"
 
 #. STRINGS.UI.ELEMENTAL.AGE.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.AGE.NAME"
 msgid "Age: {0}"
-msgstr ""
+msgstr "Yaş: {0}"
 
 #. STRINGS.UI.ELEMENTAL.AGE.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.AGE.TOOLTIP"
 msgid "The selected object is {0} cycles old"
-msgstr ""
+msgstr "Seçilen nesne {0} devir eski"
 
 #. STRINGS.UI.ELEMENTAL.AGE.UNKNOWN
 msgctxt "STRINGS.UI.ELEMENTAL.AGE.UNKNOWN"
 msgid "Unknown"
-msgstr ""
+msgstr "Bilinmeyen"
 
 #. STRINGS.UI.ELEMENTAL.AGE.UNKNOWN_TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.AGE.UNKNOWN_TOOLTIP"
 msgid "The age of the selected object is unknown"
-msgstr ""
+msgstr "Seçilen nesnenin yaşı bilinmiyor"
 
 #. STRINGS.UI.ELEMENTAL.CONDUCTIVITYBARRIER.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.CONDUCTIVITYBARRIER.NAME"
 msgid "Insulation Thickness: {0}"
-msgstr ""
+msgstr "Yalıtım Kalınlığı: {0}"
 
 #. STRINGS.UI.ELEMENTAL.CONDUCTIVITYBARRIER.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.CONDUCTIVITYBARRIER.TOOLTIP"
 msgid "Thick insulation reduces an object's Thermal Conductivity"
-msgstr ""
+msgstr "Kalın yalıtım, bir nesnenin Termal İletkenliğini azaltır"
 
 #. STRINGS.UI.ELEMENTAL.DEWPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.DEWPOINT.NAME"
 msgid "Condensation Point: {0}"
-msgstr ""
+msgstr "Yoğunlaşma Noktası: {0}"
 
 #. STRINGS.UI.ELEMENTAL.DEWPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.DEWPOINT.TOOLTIP"
 msgid "The selected object will condense into a liquid at {0}"
-msgstr ""
+msgstr "Seçilen nesne, {0} konumunda bir sıvıya yoğunlaşacak"
 
 #. STRINGS.UI.ELEMENTAL.DISEASE.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.DISEASE.NAME"
 msgid "Disease: {0}"
-msgstr ""
+msgstr "Hastalık: {0}"
 
 #. STRINGS.UI.ELEMENTAL.DISEASE.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.DISEASE.TOOLTIP"
 msgid "There are {0} on the selected object"
-msgstr ""
+msgstr "Seçilen nesnede {0} var"
 
 #. STRINGS.UI.ELEMENTAL.FREEZEPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.FREEZEPOINT.NAME"
 msgid "Freeze Point: {0}"
-msgstr ""
+msgstr "Donma Noktası: {0}"
 
 #. STRINGS.UI.ELEMENTAL.FREEZEPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.FREEZEPOINT.TOOLTIP"
 msgid "The selected object will cool into a solid at {0}"
-msgstr ""
+msgstr "Seçilen nesne, {0} konumunda soğuyarak katı hale gelecek"
 
 #. STRINGS.UI.ELEMENTAL.MASS.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.MASS.NAME"
 msgid "Mass: {0}"
-msgstr ""
+msgstr "Kütle: {0}"
 
 #. STRINGS.UI.ELEMENTAL.MASS.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MASS.TOOLTIP"
 msgid "The selected object has a mass of {0}"
-msgstr ""
+msgstr "Seçilen nesnenin kütlesi {0}"
 
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.NAME"
 msgid "Melting Point: {0}"
-msgstr ""
+msgstr "Erime Noktası: {0}"
 
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP"
 msgid "The selected object will melt into a liquid at {0}"
-msgstr ""
+msgstr "Seçilen nesne, {0} konumunda eriyerek bir sıvıya dönüşecek"
 
 #. STRINGS.UI.ELEMENTAL.OVERHEATPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.OVERHEATPOINT.NAME"
 msgid "Overheat Modifier: {0}"
-msgstr ""
+msgstr "Aşırı Isınma Değiştirici: {0}"
 
 #. STRINGS.UI.ELEMENTAL.OVERHEATPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.OVERHEATPOINT.TOOLTIP"
@@ -62342,21 +62344,24 @@ msgid ""
 "\n"
 "Building with better building materials can increase overheat temperature"
 msgstr ""
+"Bu bina, sıcaklığı {0} değerine ulaşırsa aşırı ısınacak ve hasar alacaktır.\n"
+"\n"
+"Daha iyi yapı malzemeleriyle bina yapmak aşırı ısınma sıcaklığını artırabilir"
 
 #. STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.NAME"
 msgid "Primary Element: {0}"
-msgstr ""
+msgstr "Birincil Öğe: {0}"
 
 #. STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.TOOLTIP"
 msgid "The selected object is primarily composed of {0}"
-msgstr ""
+msgstr "Seçilen nesne öncelikle {0} nesnesinden oluşur"
 
 #. STRINGS.UI.ELEMENTAL.SHC.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.SHC.NAME"
 msgid "Specific Heat Capacity: {0}"
-msgstr ""
+msgstr "Özgül Isı Kapasitesi: {0}"
 
 #. STRINGS.UI.ELEMENTAL.SHC.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.SHC.TOOLTIP"
@@ -62364,55 +62369,57 @@ msgid ""
 "{SPECIFIC_HEAT_CAPACITY} is required to heat 1 g of the selected object by 1 "
 "{TEMPERATURE_UNIT}"
 msgstr ""
+"Seçilen nesnenin 1 gramını 1 {TEMPERATURE_UNIT} kadar ısıtmak için "
+"{SPECIFIC_HEAT_CAPACITY} gereklidir"
 
 #. STRINGS.UI.ELEMENTAL.TEMPERATURE.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.TEMPERATURE.NAME"
 msgid "Temperature: {0}"
-msgstr ""
+msgstr "Sıcaklık: {0}"
 
 #. STRINGS.UI.ELEMENTAL.TEMPERATURE.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.TEMPERATURE.TOOLTIP"
 msgid "The selected object's current temperature is {0}"
-msgstr ""
+msgstr "Seçilen nesnenin mevcut sıcaklığı {0}"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.HIGH_CONDUCTIVITY
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.HIGH_CONDUCTIVITY"
 msgid "Highly Conductive"
-msgstr ""
+msgstr "Yüksek İletken"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.LOW_CONDUCTIVITY
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.LOW_CONDUCTIVITY"
 msgid "Insulating"
-msgstr ""
+msgstr "Yalıtıcı"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.MEDIUM_CONDUCTIVITY
 msgctxt ""
 "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.MEDIUM_CONDUCTIVITY"
 msgid "Conductive"
-msgstr ""
+msgstr "İletken"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.VALUE_WITH_ADJECTIVE
 msgctxt ""
 "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.VALUE_WITH_ADJECTIVE"
 msgid "{0} ({1})"
-msgstr ""
+msgstr "{0} ({1})"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.VERY_HIGH_CONDUCTIVITY
 msgctxt ""
 "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.VERY_HIGH_CONDUCTIVITY"
 msgid "Extremely Conductive"
-msgstr ""
+msgstr "Son Derece İletken"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.VERY_LOW_CONDUCTIVITY
 msgctxt ""
 "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.VERY_LOW_CONDUCTIVITY"
 msgid "Highly Insulating"
-msgstr ""
+msgstr "Yüksek Yalıtıcı"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.NAME"
 msgid "Thermal Conductivity: {0}"
-msgstr ""
+msgstr "Termal İletkenlik: {0}"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.TOOLTIP"
@@ -62423,26 +62430,31 @@ msgid ""
 "Between two objects, the rate of heat transfer will be determined by the "
 "object with the lowest Thermal Conductivity"
 msgstr ""
+"Bu nesne, her bir {TEMPERATURE_UNIT} derecelik fark için "
+"{THERMAL_CONDUCTIVITY} W oranında diğer malzemelere ısı iletebilir\n"
+"\n"
+"İki nesne arasındaki ısı transfer hızı, en düşük Termal İletkenliğe sahip "
+"nesne tarafından belirlenecektir."
 
 #. STRINGS.UI.ELEMENTAL.UNITS.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.UNITS.NAME"
 msgid "Stack Units: {0}"
-msgstr ""
+msgstr "Yığın Birimleri: {0}"
 
 #. STRINGS.UI.ELEMENTAL.UNITS.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.UNITS.TOOLTIP"
 msgid "This stack contains {0} units of {1}"
-msgstr ""
+msgstr "Bu yığın, {0} birim {1} içerir"
 
 #. STRINGS.UI.ELEMENTAL.UPTIME.LAST_CYCLE
 msgctxt "STRINGS.UI.ELEMENTAL.UPTIME.LAST_CYCLE"
 msgid "Last Cycle"
-msgstr ""
+msgstr "Son Döngü"
 
 #. STRINGS.UI.ELEMENTAL.UPTIME.LAST_X_CYCLES
 msgctxt "STRINGS.UI.ELEMENTAL.UPTIME.LAST_X_CYCLES"
 msgid "Last {0} Cycles"
-msgstr ""
+msgstr "Son {0} Döngü"
 
 #. STRINGS.UI.ELEMENTAL.UPTIME.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.UPTIME.NAME"
@@ -62452,41 +62464,45 @@ msgid ""
 "{0}{3}: {4}\n"
 "{0}{5}: {6}"
 msgstr ""
+"Çalışma Süresi:\n"
+"{0}{1}: {2}\n"
+"{0}{3}: {4}\n"
+"{0}{5}: {6}"
 
 #. STRINGS.UI.ELEMENTAL.UPTIME.THIS_CYCLE
 msgctxt "STRINGS.UI.ELEMENTAL.UPTIME.THIS_CYCLE"
 msgid "This Cycle"
-msgstr ""
+msgstr "Bu Döngü"
 
 #. STRINGS.UI.ELEMENTAL.VAPOURIZATIONPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.VAPOURIZATIONPOINT.NAME"
 msgid "Vaporization Point: {0}"
-msgstr ""
+msgstr "Buharlaşma Noktası: {0}"
 
 #. STRINGS.UI.ELEMENTAL.VAPOURIZATIONPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.VAPOURIZATIONPOINT.TOOLTIP"
 msgid "The selected object will evaporate into a gas at {0}"
-msgstr ""
+msgstr "Seçilen nesne, {0} konumunda buharlaşarak gaza dönüşecektir."
 
 #. STRINGS.UI.ENDOFDAYREPORT.ADDED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ADDED"
 msgid "Added"
-msgstr ""
+msgstr "Eklendi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.AVERAGE_TIME_DETAILS_HEADER
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.AVERAGE_TIME_DETAILS_HEADER"
 msgid "Average Time Details:"
-msgstr ""
+msgstr "Ortalama Süre Ayrıntıları:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.BASE_DETAILS_HEADER
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.BASE_DETAILS_HEADER"
 msgid "Base Details:"
-msgstr ""
+msgstr "Üs Ayrıntıları:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME"
 msgid "Calorie Generation:"
-msgstr ""
+msgstr "Kalori Üretimi:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP"
@@ -62494,6 +62510,8 @@ msgid ""
 "{0} of <link=\"FOOD\">Food</link> was consumed by {1} over the course of the "
 "day"
 msgstr ""
+"Gün boyunca {1} tarafından <link=\"FOOD\">Yiyeceğin</link> {0} kadarı "
+"tüketildi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP"
@@ -62501,26 +62519,27 @@ msgid ""
 "{0} of <link=\"FOOD\">Food</link> was produced by {1} over the course of the "
 "day"
 msgstr ""
+"Gün boyunca {1} tarafından {0} <link=\"FOOD\">Yiyecek</link> {0} üretildi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CHORE_STATUS.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CHORE_STATUS.NAME"
 msgid "Errands:"
-msgstr ""
+msgstr "Ayak İşleri:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CHORE_STATUS.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CHORE_STATUS.NEGATIVE_TOOLTIP"
 msgid "{0} errands were completed over the course of the day by {1}"
-msgstr ""
+msgstr "{1} tarafından gün boyunca {0} iş tamamlandı"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CHORE_STATUS.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CHORE_STATUS.POSITIVE_TOOLTIP"
 msgid "{0} errands are queued for {1}"
-msgstr ""
+msgstr "{0} iş, {1} için sıraya alındı"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.NAME"
 msgid "<link=\"CONTAMINATEDOXYGEN\">Flatulence</link> Generation:"
-msgstr ""
+msgstr "<link=\"CONTAMINATEDOXYGEN\">Şişkinlik</link> Nesil:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.NEGATIVE_TOOLTIP
 msgctxt ""
@@ -62529,6 +62548,8 @@ msgid ""
 "{0} of <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> was consumed by "
 "{1} over the course of the day"
 msgstr ""
+"Gün boyunca {1} tarafından <link=\"CONTAMINATEDOXYGEN\">Kirli Oksijen</"
+"link>'in {0} miktarı tüketildi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.POSITIVE_TOOLTIP
 msgctxt ""
@@ -62537,11 +62558,13 @@ msgid ""
 "{0} of <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> was generated by "
 "{1} over the course of the day"
 msgstr ""
+"Gün boyunca {1} tarafından <link=\"CONTAMINATEDOXYGEN\">Kirli Oksijen</"
+"link>'in {0} tanesi üretildi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_SUBLIMATION.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_SUBLIMATION.NAME"
 msgid "<link=\"CONTAMINATEDOXYGEN\">Sublimation</link>:"
-msgstr ""
+msgstr "<link=\"CONTAMINATEDOXYGEN\">Süblimasyon</link>:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_SUBLIMATION.NEGATIVE_TOOLTIP
 msgctxt ""
@@ -62550,6 +62573,8 @@ msgid ""
 "{0} of <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> was consumed by "
 "{1} over the course of the day"
 msgstr ""
+"Gün boyunca {1} tarafından <link=\"CONTAMINATEDOXYGEN\">Kirli Oksijen</"
+"link>'in {0} miktarı tüketildi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_SUBLIMATION.POSITIVE_TOOLTIP
 msgctxt ""
@@ -62558,11 +62583,13 @@ msgid ""
 "{0} of <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> was generated by "
 "{1} over the course of the day"
 msgstr ""
+"Gün boyunca {1} tarafından <link=\"CONTAMINATEDOXYGEN\">Kirli Oksijen</"
+"link>'in {0} tanesi üretildi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_TOILET.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_TOILET.NAME"
 msgid "<link=\"CONTAMINATEDOXYGEN\">Toilet Emissions: </link>"
-msgstr ""
+msgstr "<link=\"CONTAMINATEDOXYGEN\">Tuvalet Emisyonları: </link>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_TOILET.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_TOILET.NEGATIVE_TOOLTIP"
@@ -62570,6 +62597,8 @@ msgid ""
 "{0} of <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> was consumed by "
 "{1} over the course of the day"
 msgstr ""
+"Gün boyunca {1} tarafından <link=\"CONTAMINATEDOXYGEN\">Kirli Oksijen</"
+"link>'in {0} miktarı tüketildi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_TOILET.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_TOILET.POSITIVE_TOOLTIP"
@@ -62577,56 +62606,58 @@ msgid ""
 "{0} of <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> was generated by "
 "{1} over the course of the day"
 msgstr ""
+"Gün boyunca {1} tarafından <link=\"CONTAMINATEDOXYGEN\">Kirli Oksijen</"
+"link>'in {0} tanesi üretildi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE"
 msgid "Cycle {0}"
-msgstr ""
+msgstr "{0} Döngü "
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_TODAY
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_TODAY"
 msgid "Cycle {0} - Today"
-msgstr ""
+msgstr "{0} Döngü - Bugün"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_YESTERDAY
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_YESTERDAY"
 msgid "Cycle {0} - Yesterday"
-msgstr ""
+msgstr "{0} Döngü - Dün"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME"
 msgid "<link=\"DISEASE\">Diseases</link> Contracted:"
-msgstr ""
+msgstr "<link=\"DISEASE\">Hastalıklar</link> Bulaştı:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP"
 msgid "{0} <link=\"DISEASE\">Disease</link> were cured by {1}"
-msgstr ""
+msgstr "{0} <link=\"DISEASE\">Hastalık</link>, {1} tarafından tedavi edildi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.POSITIVE_TOOLTIP"
 msgid "{0} <link=\"DISEASE\">Disease</link> were contracted by {1}"
-msgstr ""
+msgstr "{0} <link=\"DISEASE\">Hastalık</link>, {1} tarafından bulaştı"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.NAME"
 msgid "Disease Status:"
-msgstr ""
+msgstr "Hastalık Durumu:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.TOOLTIP"
 msgid "There are {0} covering {1}"
-msgstr ""
+msgstr "{1} kapsayan {0} var"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DUPLICANT_DETAILS_HEADER
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DUPLICANT_DETAILS_HEADER"
 msgid "Duplicant Details:"
-msgstr ""
+msgstr "Duplicant Detayları:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NAME"
 msgid "<link=\"POWER\">Power</link> Usage:"
-msgstr ""
+msgstr "<link=\"POWER\">Güç</link> Kullanımı:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP"
@@ -62634,18 +62665,20 @@ msgid ""
 "{0} of <link=\"POWER\">Power</link> was consumed by {1} over the course of "
 "the day"
 msgstr ""
+"Gün boyunca {1} tarafından <link=\"POWER\">Güç</link> miktarından {0} "
+"tüketildi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP"
 msgid ""
 "{0} of <link=\"POWER\">Power</link> was created by {1} over the course of "
 "the day"
-msgstr ""
+msgstr "Gün boyunca {1} tarafından {0} <link=\"POWER\">Güç</link> oluşturuldu"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME"
 msgid "<link=\"POWER\">Power</link> Wasted:"
-msgstr ""
+msgstr "<link=\"POWER\">Güç</link> İsrafı:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NEGATIVE_TOOLTIP"
@@ -62657,77 +62690,77 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME"
 msgid "Idle Time:"
-msgstr ""
+msgstr "Boşta Kalma Süresi:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP"
 msgid "On average, {0} of {1}'s time was spent idling"
-msgstr ""
+msgstr "Ortalama olarak, {1}'nin zamanının {0}'i boşa harcandı"
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME"
 msgid "Skill Increases:"
-msgstr ""
+msgstr "Beceri Artışları:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP"
 msgid "Today {1} gained a total of {0} skill levels"
-msgstr ""
+msgstr "Bugün {1} toplam {0} beceri seviyesi kazandı"
 
 #. STRINGS.UI.ENDOFDAYREPORT.MY_COLONY
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.MY_COLONY"
 msgid "my colony"
-msgstr ""
+msgstr "benim kolonim"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NET
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NET"
 msgid "Net"
-msgstr ""
+msgstr "Net"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NEXT"
 msgid "Next"
-msgstr ""
+msgstr "Sıradaki"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NONE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NONE"
 msgid "None"
-msgstr ""
+msgstr "Hiçbiri"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.BUTCHERED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.BUTCHERED"
 msgid "Butchered for {0}"
-msgstr ""
+msgstr "{0} için doğrandı"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.BUTCHERED_CONTEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.BUTCHERED_CONTEXT"
 msgid "Butchered"
-msgstr ""
+msgstr "Doğrandı"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.CRAFTED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.CRAFTED"
 msgid "Crafted a {0}"
-msgstr ""
+msgstr "Bir {0} oluşturdu"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.CRAFTED_CONTEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.CRAFTED_CONTEXT"
 msgid "Crafted"
-msgstr ""
+msgstr "Oluşturdu"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.CRAFTED_USED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.CRAFTED_USED"
 msgid "{0} used as ingredient"
-msgstr ""
+msgstr "{0} içerik olarak kullanıldı"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.EATEN
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.EATEN"
 msgid "{0} eaten"
-msgstr ""
+msgstr "{0} yendi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.FOODFIGHT_CONTEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.FOODFIGHT_CONTEXT"
 msgid "{0} ingested in food fight"
-msgstr ""
+msgstr "{0} yemek savaşında yutuldu"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.GERMS
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.GERMS"
@@ -62737,12 +62770,12 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.HARVESTED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.HARVESTED"
 msgid "Harvested {0}"
-msgstr ""
+msgstr "{0} hasat edildi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.HARVESTED_CONTEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.HARVESTED_CONTEXT"
 msgid "Harvested"
-msgstr ""
+msgstr "Hasat Edildi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.NOTE_ENTRY_LINE_ITEM
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.NOTE_ENTRY_LINE_ITEM"
@@ -62750,78 +62783,80 @@ msgid ""
 "{0}\n"
 "{1}: {2}"
 msgstr ""
+"{0}\n"
+"{1}: {2}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.PERSONAL_TIME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.PERSONAL_TIME"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED"
 msgid "Rotten {0}"
-msgstr ""
+msgstr "{0} çürüdü"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED_CONTEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED_CONTEXT"
 msgid "Rotted"
-msgstr ""
+msgstr "Çürüdü"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.TIME_SPENT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.TIME_SPENT"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.WORK_TIME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.WORK_TIME"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TITLE"
 msgid "Cycle {0} report ready"
-msgstr ""
+msgstr "{0} döngüsü raporu hazır"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TOOLTIP"
 msgid "The daily report for Cycle {0} is ready to view"
-msgstr ""
+msgstr "{0} Döngüsü için günlük rapor görüntülenmeye hazır"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_DOMESTICATED_CRITTERS.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_DOMESTICATED_CRITTERS.NAME"
 msgid "Domesticated Critters:"
-msgstr ""
+msgstr "Evcilleştirilmiş Yaratıklar:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_DOMESTICATED_CRITTERS.NEGATIVE_TOOLTIP
 msgctxt ""
 "STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_DOMESTICATED_CRITTERS.NEGATIVE_TOOLTIP"
 msgid "{0} domestic critters live in {1}"
-msgstr ""
+msgstr "{1}'de {0} evcil yaratık yaşıyor"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_DOMESTICATED_CRITTERS.POSITIVE_TOOLTIP
 msgctxt ""
 "STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_DOMESTICATED_CRITTERS.POSITIVE_TOOLTIP"
 msgid "{0} domestic critters live in {1}"
-msgstr ""
+msgstr "{1}'de {0} evcil yaratık yaşıyor"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_WILD_CRITTERS.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_WILD_CRITTERS.NAME"
 msgid "Wild Critters:"
-msgstr ""
+msgstr "Vahşi Yaratıklar:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_WILD_CRITTERS.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_WILD_CRITTERS.NEGATIVE_TOOLTIP"
 msgid "{0} wild critters live in {1}"
-msgstr ""
+msgstr "{1}'de {0} vahşi yaratık yaşıyor"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_WILD_CRITTERS.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_WILD_CRITTERS.POSITIVE_TOOLTIP"
 msgid "{0} wild critters live in {1}"
-msgstr ""
+msgstr "{1}'de {0} vahşi yaratık yaşıyor"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME"
 msgid "<link=\"OXYGEN\">Oxygen</link> Generation:"
-msgstr ""
+msgstr "<link=\"OXYGEN\">Oksijen</link> Üretimi:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP"
@@ -62829,6 +62864,8 @@ msgid ""
 "{0} of <link=\"OXYGEN\">Oxygen</link> was consumed by {1} over the course of "
 "the day"
 msgstr ""
+"Gün boyunca {1} tarafından <link=\"OXYGEN\">Oksijen</link>'in {0} miktarı "
+"tüketildi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP"
@@ -62836,86 +62873,91 @@ msgid ""
 "{0} of <link=\"OXYGEN\">Oxygen</link> was produced by {1} over the course of "
 "the day"
 msgstr ""
+"Gün boyunca {1} tarafından <link=\"OXYGEN\">Oksijen</link>'den {0} üretildi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.PERSONAL_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.PERSONAL_TIME.NAME"
 msgid "Personal Time:"
-msgstr ""
+msgstr "Kişisel Zaman:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.PERSONAL_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.PERSONAL_TIME.POSITIVE_TOOLTIP"
 msgid "On average, {0} of {1}'s time was spent tending to personal needs"
 msgstr ""
+"Ortalama olarak, {1}'nin zamanının {0}'i kişisel ihtiyaçlarla ilgilenerek "
+"harcandı"
 
 #. STRINGS.UI.ENDOFDAYREPORT.PREV
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.PREV"
 msgid "Prev"
-msgstr ""
+msgstr "Önceki"
 
 #. STRINGS.UI.ENDOFDAYREPORT.REMOVED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REMOVED"
 msgid "Removed"
-msgstr ""
+msgstr "Kaldırıldı"
 
 #. STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE"
 msgid "DAILY REPORTS"
-msgstr ""
+msgstr "GÜNLÜK RAPORLAR"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ROCKETS_IN_FLIGHT.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ROCKETS_IN_FLIGHT.NAME"
 msgid "Rocket Missions Underway:"
-msgstr ""
+msgstr "Devam Eden Roket Görevleri:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ROCKETS_IN_FLIGHT.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ROCKETS_IN_FLIGHT.NEGATIVE_TOOLTIP"
 msgid "{0} rockets are currently flying missions for {1}"
-msgstr ""
+msgstr "{0} roket şu anda {1} için uçuyor"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ROCKETS_IN_FLIGHT.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ROCKETS_IN_FLIGHT.POSITIVE_TOOLTIP"
 msgid "{0} rockets are currently flying missions for {1}"
-msgstr ""
+msgstr "{0} roket şu anda {1} için uçuyor"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME"
 msgid "<link=\"STRESS\">Stress</link> Change:"
-msgstr ""
+msgstr "<link=\"STRESS\">Stres</link> Değişikliği:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP"
 msgid "<link=\"STRESS\">Stress</link> decreased by a total of {0} for {1}"
-msgstr ""
+msgstr "<link=\"STRESS\">Stres</link>, {1} için toplam {0} azaldı"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP"
 msgid "<link=\"STRESS\">Stress</link> increased by a total of {0} for {1}"
-msgstr ""
+msgstr "<link=\"STRESS\">Stres</link>, {1} için toplam {0} arttı"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TIME_DETAILS_HEADER
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TIME_DETAILS_HEADER"
 msgid "Total Time Details:"
-msgstr ""
+msgstr "Toplam Süre Ayrıntıları:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME"
 msgid "Restroom Accidents:"
-msgstr ""
+msgstr "Tuvalet Kazaları:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.TOOLTIP"
 msgid "{0} Duplicants couldn't quite reach the toilet in time today"
-msgstr ""
+msgstr "{0} Duplicant bugün tuvalete tam zamanında yetişemedi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.NAME"
 msgid "Travel Time:"
-msgstr ""
+msgstr "Seyahat Süresi:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP"
 msgid "On average, {1} spent {0} of their time traveling between tasks"
 msgstr ""
+"Ortalama olarak, {1} zamanının {0}'ini görevler arasında seyahat ederek "
+"geçirdi"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVELTIMEWARNING.WARNING_MESSAGE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVELTIMEWARNING.WARNING_MESSAGE"
@@ -62923,86 +62965,88 @@ msgid ""
 "My Duplicants are spending a significant amount of time traveling between "
 "their errands (> {0})"
 msgstr ""
+"Duplicant'larım, işleri arasında seyahat etmek için önemli miktarda zaman "
+"harcıyorlar (> {0})"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVELTIMEWARNING.WARNING_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVELTIMEWARNING.WARNING_TITLE"
 msgid "Long Commutes"
-msgstr ""
+msgstr "Uzun Yolculuklar"
 
 #. STRINGS.UI.ENDOFDAYREPORT.WORK_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.WORK_TIME.NAME"
 msgid "Work Time:"
-msgstr ""
+msgstr "Çalışma Zamanı:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.WORK_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.WORK_TIME.POSITIVE_TOOLTIP"
 msgid "On average, {0} of {1}'s time was spent working"
-msgstr ""
+msgstr "Ortalama olarak, {1}'nin zamanının {0}'i çalışmaya harcandı"
 
 #. STRINGS.UI.EQUIPMENTTAB_HELD
 msgctxt "STRINGS.UI.EQUIPMENTTAB_HELD"
 msgid "Held Items"
-msgstr ""
+msgstr "Tutulan Öğeler"
 
 #. STRINGS.UI.EQUIPMENTTAB_OWNED
 msgctxt "STRINGS.UI.EQUIPMENTTAB_OWNED"
 msgid "Owned Items"
-msgstr ""
+msgstr "Sahip Olunan Öğeler"
 
 #. STRINGS.UI.EQUIPMENTTAB_ROOM
 msgctxt "STRINGS.UI.EQUIPMENTTAB_ROOM"
 msgid "Assigned Rooms"
-msgstr ""
+msgstr "Atanan Odalar"
 
 #. STRINGS.UI.FILE_NAME_DIALOG.ENTER_TEXT
 msgctxt "STRINGS.UI.FILE_NAME_DIALOG.ENTER_TEXT"
 msgid "Enter Text..."
-msgstr ""
+msgstr "Metin Girin..."
 
 #. STRINGS.UI.FILTER
 msgctxt "STRINGS.UI.FILTER"
 msgid "Filter"
-msgstr ""
+msgstr "Filtre"
 
 #. STRINGS.UI.FORMATDAY
 msgctxt "STRINGS.UI.FORMATDAY"
 msgid "{0} cycles"
-msgstr ""
+msgstr "{0} döngü"
 
 #. STRINGS.UI.FORMATSECONDS
 msgctxt "STRINGS.UI.FORMATSECONDS"
 msgid "{0}s"
-msgstr ""
+msgstr "{0}s"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_AMBIENCE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_AMBIENCE"
 msgid "Ambience"
-msgstr ""
+msgstr "Ortam"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MASTER
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MASTER"
 msgid "Master"
-msgstr ""
+msgstr "Ana"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MUSIC
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MUSIC"
 msgid "Music"
-msgstr ""
+msgstr "Müzik"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_SFX
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_SFX"
 msgid "SFX"
-msgstr ""
+msgstr "SFX"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_UI
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_UI"
 msgid "UI"
-msgstr ""
+msgstr "Arayüz"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUTOMATION_SOUNDS_ALWAYS
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUTOMATION_SOUNDS_ALWAYS"
 msgid "Always play automation sounds"
-msgstr ""
+msgstr "Her zaman otomasyon seslerini çal"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUTOMATION_SOUNDS_ALWAYS_TOOLTIP
 msgctxt ""
@@ -63011,26 +63055,28 @@ msgid ""
 "If enabled, automation sound effects will play even when outside of the "
 "<b>Automation Overlay</b>"
 msgstr ""
+"Etkinleştirilirse, otomasyon ses efektleri <b>Otomasyon Yerleşimi</b> "
+"dışındayken bile oynatılır"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr ""
+msgstr "Tamam"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.HEADER_SETTINGS
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.HEADER_SETTINGS"
 msgid "SETTINGS"
-msgstr ""
+msgstr "AYARLAR"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.HEADER_VOLUME
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.HEADER_VOLUME"
 msgid "VOLUME"
-msgstr ""
+msgstr "SES"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE"
 msgid "Play background music each morning"
-msgstr ""
+msgstr "Her sabah fon müziği çalın"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE_TOOLTIP"
@@ -63038,11 +63084,13 @@ msgid ""
 "If enabled, background music will play every cycle instead of every few "
 "cycles"
 msgstr ""
+"Etkinleştirilirse, arka plan müziği birkaç döngü yerine her döngüde "
+"çalacaktır"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUTE_ON_FOCUS_LOST
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUTE_ON_FOCUS_LOST"
 msgid "Mute when unfocused"
-msgstr ""
+msgstr "Pencereyi odak dışında sessize al"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUTE_ON_FOCUS_LOST_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUTE_ON_FOCUS_LOST_TOOLTIP"
@@ -63050,21 +63098,23 @@ msgid ""
 "If enabled, the game will be muted while minimized or if the application "
 "loses focus"
 msgstr ""
+"Etkinleştirilirse, simge durumuna küçültülürken veya uygulama odağı "
+"kaybederse oyunun sesi kapatılır"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE"
 msgid "AUDIO OPTIONS"
-msgstr ""
+msgstr "SES SEÇENEKLERİ"
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.BLANK_DESC
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.BLANK_DESC"
 msgid "Select an asteroid style..."
-msgstr ""
+msgstr "Bir asteroit stili seçin..."
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.HEADER
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.HEADER"
 msgid "ASTEROID STYLE"
-msgstr ""
+msgstr "ASTEROİD STİLİ"
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_DESC
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_DESC"
@@ -63077,7 +63127,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_TITLE
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_TITLE"
 msgid "Spaced Out!"
-msgstr ""
+msgstr "Aralıklı!"
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.VANILLA_DESC
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.VANILLA_DESC"
@@ -63090,34 +63140,34 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.VANILLA_TITLE
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.VANILLA_TITLE"
 msgid "Classic"
-msgstr ""
+msgstr "Klasik"
 
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_FREQUENCY
 msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_FREQUENCY"
 msgid "Autosave frequency:"
-msgstr ""
+msgstr "Otomatik kaydetme sıklığı:"
 
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_FREQUENCY_DESCRIPTION
 msgctxt ""
 "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_FREQUENCY_DESCRIPTION"
 msgid "Every: {0} cycle(s)"
-msgstr ""
+msgstr "Her: {0} döngüde"
 
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_NEVER
 msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_NEVER"
 msgid "Never"
-msgstr ""
+msgstr "Asla"
 
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.DESCRIPTION
 msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.DESCRIPTION"
 msgid "Note: These values are configured per save file"
-msgstr ""
+msgstr "Not: Bu değerler, kaydetme dosyası başına yapılandırılır."
 
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.TIMELAPSE_DISABLED_DESCRIPTION
 msgctxt ""
 "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.TIMELAPSE_DISABLED_DESCRIPTION"
 msgid "Disabled"
-msgstr ""
+msgstr "Devre dışı"
 
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.TIMELAPSE_RESOLUTION
 msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.TIMELAPSE_RESOLUTION"
@@ -63129,47 +63179,47 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN."
 "TIMELAPSE_RESOLUTION_DESCRIPTION"
 msgid "{0}x{1}"
-msgstr ""
+msgstr "{0}x{1}"
 
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.TITLE"
 msgid "COLONY SAVE OPTIONS"
-msgstr ""
+msgstr "KOLONİ KAYIT SEÇENEKLERİ"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.CANCEL
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.CANCEL"
 msgid "Back"
-msgstr ""
+msgstr "Geri"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.COORDINATE
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.COORDINATE"
 msgid "Coordinates:"
-msgstr ""
+msgstr "Koordinatlar:"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.CUSTOMIZE
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.CUSTOMIZE"
 msgid "Game Settings"
-msgstr ""
+msgstr "Oyun Ayarları"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.DETAILS
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.DETAILS"
 msgid "Destination Details"
-msgstr ""
+msgstr "Hedef Ayrıntıları"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.GENTLE_ZONE
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.GENTLE_ZONE"
 msgid "Habitable Zone"
-msgstr ""
+msgstr "Yaşanabilir Bölge"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.HEADER_ASTEROID_DISTANT
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.HEADER_ASTEROID_DISTANT"
 msgid "Distant Asteroids"
-msgstr ""
+msgstr "Uzak Asteroitler"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.HEADER_ASTEROID_NEARBY
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.HEADER_ASTEROID_NEARBY"
 msgid "Nearby Asteroids"
-msgstr ""
+msgstr "Yakındaki Asteroitler"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.HEADER_ASTEROID_STARTING
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.HEADER_ASTEROID_STARTING"
@@ -63179,18 +63229,18 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.NO_TRAITS
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.NO_TRAITS"
 msgid "No Traits"
-msgstr ""
+msgstr "Özellikler Yok"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SELECTED_CLUSTER_TRAITS_HEADER
 msgctxt ""
 "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SELECTED_CLUSTER_TRAITS_HEADER"
 msgid "Target Details"
-msgstr ""
+msgstr "Hedef Ayrıntıları"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLE
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLE"
 msgid "Shuffle"
-msgstr ""
+msgstr "Karıştır"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLETOOLTIP"
@@ -63204,60 +63254,60 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SINGLE_TRAIT
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SINGLE_TRAIT"
 msgid "1 Trait"
-msgstr ""
+msgstr "1 Özellik"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.START_GAME
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.START_GAME"
 msgid "Start Game"
-msgstr ""
+msgstr "Oyunu Başlat"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.START_SITE
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.START_SITE"
 msgid "Immediate Surroundings"
-msgstr ""
+msgstr "Yakın Çevre"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.TITLE"
 msgid "CHOOSE A DESTINATION"
-msgstr ""
+msgstr "BİR HEDEF SEÇİN"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.TRAIT_COUNT
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.TRAIT_COUNT"
 msgid "{0} Traits"
-msgstr ""
+msgstr "{0} Özellik"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.TRAITS_HEADER
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.TRAITS_HEADER"
 msgid "World Traits"
-msgstr ""
+msgstr "Dünya Özellikleri"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DEFAULT.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS."
 "DEFAULT.NAME"
 msgid "Default"
-msgstr ""
+msgstr "Varsayılan"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DEFAULT.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS."
 "DEFAULT.TOOLTIP"
 msgid "Default calorie burn rate"
-msgstr ""
+msgstr "Varsayılan kalori yakma oranı"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DISABLED.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS."
 "DISABLED.ATTRIBUTE_MODIFIER_NAME"
 msgid "Tummyless (No Hunger)"
-msgstr ""
+msgstr "Karınsız (Açlık Yok)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DISABLED.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS."
 "DISABLED.NAME"
 msgid "Tummyless"
-msgstr ""
+msgstr "Karınsız"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DISABLED.TOOLTIP
 msgctxt ""
@@ -63265,41 +63315,43 @@ msgctxt ""
 "DISABLED.TOOLTIP"
 msgid "These Duplicants were printed without tummies and need no food at all"
 msgstr ""
+"Bu Duplicant'lar, karınları olmadan basıldı ve hiçbir yiyeceğe ihtiyaç "
+"duymaz."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.EASY.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS."
 "EASY.ATTRIBUTE_MODIFIER_NAME"
 msgid "Fasting (Difficulty Down)"
-msgstr ""
+msgstr "Oruç (Zorluk Azalışı)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.EASY.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS."
 "EASY.NAME"
 msgid "Fasting"
-msgstr ""
+msgstr "Oruç"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.EASY.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS."
 "EASY.TOOLTIP"
 msgid "Duplicants burn calories slowly and get by with fewer meals"
-msgstr ""
+msgstr "Duplicant'lar kalorileri yavaş yakar ve daha az öğünle geçinir"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.HARD.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS."
 "HARD.ATTRIBUTE_MODIFIER_NAME"
 msgid "Rumbly Tummies (Difficulty Up)"
-msgstr ""
+msgstr "Guruldayan Karınlar (Zorluk Artışı)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.HARD.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS."
 "HARD.NAME"
 msgid "Rumbly Tummies"
-msgstr ""
+msgstr "Guruldayan Karınlar"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.HARD.TOOLTIP
 msgctxt ""
@@ -63307,20 +63359,22 @@ msgctxt ""
 "HARD.TOOLTIP"
 msgid "Duplicants burn calories quickly and require more feeding than usual"
 msgstr ""
+"Duplicant'lar, kalorileri hızlı bir şekilde yakar ve normalden daha fazla "
+"beslenme gerektirir"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.VERYHARD.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS."
 "VERYHARD.ATTRIBUTE_MODIFIER_NAME"
 msgid "Ravenous (Highest Difficulty)"
-msgstr ""
+msgstr "Açgözlü (En Yüksek Zorluk)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.VERYHARD.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS."
 "VERYHARD.NAME"
 msgid "Ravenous"
-msgstr ""
+msgstr "Açgözlü"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.VERYHARD.TOOLTIP
 msgctxt ""
@@ -63328,25 +63382,26 @@ msgctxt ""
 "VERYHARD.TOOLTIP"
 msgid "Your Duplicants are on a see-food diet... They see food and they eat it"
 msgstr ""
+"Duplicant'larınız yemek görme diyetinde... Yemek görüyorlar ve yiyorlar"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.NAME"
 msgid "Hunger"
-msgstr ""
+msgstr "Açlık"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.TOOLTIP"
 msgid "Affects how quickly Duplicants burn calories and become hungry"
-msgstr ""
+msgstr "Duplicant'ların ne kadar hızlı kalori yaktığını ve acıktığını etkiler"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.LEVELS.DUPLICANTS_ONLY.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.LEVELS."
 "DUPLICANTS_ONLY.NAME"
 msgid "Duplicants Only"
-msgstr ""
+msgstr "Yalnızca Duplicant'lar"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.LEVELS.DUPLICANTS_ONLY.TOOLTIP
 msgctxt ""
@@ -63360,7 +63415,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.LEVELS."
 "NORMAL.NAME"
 msgid "All"
-msgstr ""
+msgstr "Tümü"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.LEVELS.NORMAL.TOOLTIP
 msgctxt ""
@@ -63375,7 +63430,7 @@ msgstr ""
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.NAME"
 msgid "Care Packages"
-msgstr ""
+msgstr "Bakım Paketleri"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.TOOLTIP
 msgctxt ""
@@ -63387,62 +63442,62 @@ msgstr ""
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CLUSTER_CHOICE.NAME"
 msgid "Asteroid Belt"
-msgstr ""
+msgstr "Asteroit Kuşağı"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CLUSTER_CHOICE.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CLUSTER_CHOICE.TOOLTIP"
 msgid "New asteroid belts added by mods can be selected here"
-msgstr ""
+msgstr "Modlar tarafından eklenen yeni asteroit kuşakları buradan seçilebilir"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.DEFAULT.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "DEFAULT.NAME"
 msgid "Default"
-msgstr ""
+msgstr "Varsayılan"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.DEFAULT.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "DEFAULT.TOOLTIP"
 msgid "Default suit durability"
-msgstr ""
+msgstr "Varsayılan giysi dayanıklılığı"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.FLIMSY.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "FLIMSY.ATTRIBUTE_MODIFIER_NAME"
 msgid "Flimsy Suits (Difficulty Up)"
-msgstr ""
+msgstr "Dayanıksız Giysi (Zorluk Artışı)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.FLIMSY.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "FLIMSY.NAME"
 msgid "Flimsy"
-msgstr ""
+msgstr "Dayanıksız"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.FLIMSY.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "FLIMSY.TOOLTIP"
 msgid "Suits wear out faster than usual"
-msgstr ""
+msgstr "Giysiler normalden daha hızlı yıpranır"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.INDESTRUCTIBLE.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "INDESTRUCTIBLE.ATTRIBUTE_MODIFIER_NAME"
 msgid "Indestructible Suits (No Durability)"
-msgstr ""
+msgstr "Yok Edilemez Giysiler (Dayanıklılık Yok)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.INDESTRUCTIBLE.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "INDESTRUCTIBLE.NAME"
 msgid "Indestructible"
-msgstr ""
+msgstr "Yok Edilemez"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.INDESTRUCTIBLE.TOOLTIP
 msgctxt ""
@@ -63452,41 +63507,43 @@ msgid ""
 "Duplicants have perfected clothes manufacturing and are able to make suits "
 "that last forever"
 msgstr ""
+"Duplicant'lar giysi imalatını mükemmelleştirdiler ve sonsuza kadar dayanan "
+"giysiler üretebiliyorlar."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.REINFORCED.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "REINFORCED.ATTRIBUTE_MODIFIER_NAME"
 msgid "Reinforced Suits (Difficulty Down)"
-msgstr ""
+msgstr "Güçlendirilmiş Giysiler (Zorluk Azalışı)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.REINFORCED.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "REINFORCED.NAME"
 msgid "Reinforced"
-msgstr ""
+msgstr "Güçlendirilmiş"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.REINFORCED.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "REINFORCED.TOOLTIP"
 msgid "Suits are more durable than usual"
-msgstr ""
+msgstr "Giysiler normalden daha dayanıklı"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.THREADBARE.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "THREADBARE.ATTRIBUTE_MODIFIER_NAME"
 msgid "Threadbare Suits (Highest Difficulty)"
-msgstr ""
+msgstr "Eski Püskü Giysiler (En Yüksek Zorluk)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.THREADBARE.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "THREADBARE.NAME"
 msgid "Threadbare"
-msgstr ""
+msgstr "Eski Püskü"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.THREADBARE.TOOLTIP
 msgctxt ""
@@ -63494,24 +63551,25 @@ msgctxt ""
 "THREADBARE.TOOLTIP"
 msgid "These Duplicants are no tailors - suits wear out much faster than usual"
 msgstr ""
+"Bu Duplicant'lar terzi değil - giysileri normalden çok daha hızlı yıpranıyor"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.NAME"
 msgid "Durability"
-msgstr ""
+msgstr "Dayanıklılık"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.TOOLTIP"
 msgid "Affects how quickly equippable suits wear out"
-msgstr ""
+msgstr "Giysilerin ne kadar çabuk yıprandığını etkiler"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.EXPANSION1ACTIVE.LEVELS.DISABLED.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.EXPANSION1ACTIVE."
 "LEVELS.DISABLED.NAME"
 msgid "Disabled"
-msgstr ""
+msgstr "Devre dışı"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.EXPANSION1ACTIVE.LEVELS.DISABLED.TOOLTIP
 msgctxt ""
@@ -63525,7 +63583,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.EXPANSION1ACTIVE."
 "LEVELS.ENABLED.NAME"
 msgid "Enabled"
-msgstr ""
+msgstr "Etkinleştirilmiş"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.EXPANSION1ACTIVE.LEVELS.ENABLED.TOOLTIP
 msgctxt ""
@@ -63553,54 +63611,54 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.FASTWORKERSMODE.LEVELS."
 "DISABLED.NAME"
 msgid "Disabled"
-msgstr ""
+msgstr "Devre dışı"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.FASTWORKERSMODE.LEVELS.DISABLED.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.FASTWORKERSMODE.LEVELS."
 "DISABLED.TOOLTIP"
 msgid "Unchecked: Fast Workers Mode is turned off (Default)"
-msgstr ""
+msgstr "İşaretli değil: Hızlı Çalışan Modu kapalıdır (Varsayılan)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.FASTWORKERSMODE.LEVELS.ENABLED.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.FASTWORKERSMODE.LEVELS."
 "ENABLED.NAME"
 msgid "Enabled"
-msgstr ""
+msgstr "Etkinleştirilmiş"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.FASTWORKERSMODE.LEVELS.ENABLED.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.FASTWORKERSMODE.LEVELS."
 "ENABLED.TOOLTIP"
 msgid "Checked: Fast Workers Mode is turned on"
-msgstr ""
+msgstr "İşaretli: Hızlı Çalışan Modu açık"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.FASTWORKERSMODE.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.FASTWORKERSMODE.NAME"
 msgid "Fast Workers Mode"
-msgstr ""
+msgstr "Hızlı Çalışan Modu"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.FASTWORKERSMODE.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.FASTWORKERSMODE.TOOLTIP"
 msgid "Dupes will finish most work immediately and require little sleep"
-msgstr ""
+msgstr "Dupe çoğu işi hemen bitirir ve az uyku gerektirir"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.COMPROMISED.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "COMPROMISED.ATTRIBUTE_MODIFIER_NAME"
 msgid "Outbreak Prone (Highest Difficulty)"
-msgstr ""
+msgstr "Salgın Eğilimli (En Yüksek Zorluk)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.COMPROMISED.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "COMPROMISED.NAME"
 msgid "Outbreak Prone"
-msgstr ""
+msgstr "Salgın Eğilimli"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.COMPROMISED.TOOLTIP
 msgctxt ""
@@ -63610,34 +63668,36 @@ msgid ""
 "The whole colony will be ravaged by plague if a Duplicant so much as sneezes "
 "funny"
 msgstr ""
+"Bir Duplicant çok komik bir şekilde hapşırırsa, tüm koloni veba tarafından "
+"perişan olur."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.DEFAULT.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "DEFAULT.NAME"
 msgid "Default"
-msgstr ""
+msgstr "Varsayılan"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.DEFAULT.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "DEFAULT.TOOLTIP"
 msgid "Default disease chance"
-msgstr ""
+msgstr "Varsayılan hastalık şansı"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.INVINCIBLE.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "INVINCIBLE.ATTRIBUTE_MODIFIER_NAME"
 msgid "Total Immunity (No Disease)"
-msgstr ""
+msgstr "Tam Bağışıklık (Hastalık Yok)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.INVINCIBLE.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "INVINCIBLE.NAME"
 msgid "Total Immunity"
-msgstr ""
+msgstr "Tam Bağışıklık"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.INVINCIBLE.TOOLTIP
 msgctxt ""
@@ -63647,20 +63707,22 @@ msgid ""
 "Like diplomatic immunity, but without the diplomacy. These Duplicants will "
 "never get sick"
 msgstr ""
+"Diplomatik dokunulmazlık gibi ama diplomasi olmadan. Bu Duplicant'lar asla "
+"hastalanmayacak"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.STRONG.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "STRONG.ATTRIBUTE_MODIFIER_NAME"
 msgid "Germ Resistance (Difficulty Down)"
-msgstr ""
+msgstr "Mikrop Direnci (Zorluk Azalışı)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.STRONG.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "STRONG.NAME"
 msgid "Germ Resistant"
-msgstr ""
+msgstr "Mikrop Direnci"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.STRONG.TOOLTIP
 msgctxt ""
@@ -63670,20 +63732,21 @@ msgid ""
 "These Duplicants have a decreased chance of contracting diseases from germ "
 "exposure"
 msgstr ""
+"Bu Duplicant'ların mikrop maruziyetinden hastalıklara yakalanma şansı azalır"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.WEAK.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "WEAK.ATTRIBUTE_MODIFIER_NAME"
 msgid "Germ Susceptibility (Difficulty Up)"
-msgstr ""
+msgstr "Mikrop Duyarlılığı (Zorluk Artışı)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.WEAK.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "WEAK.NAME"
 msgid "Germ Susceptible"
-msgstr ""
+msgstr "Mikrop Duyarlılığı"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.WEAK.TOOLTIP
 msgctxt ""
@@ -63693,12 +63756,14 @@ msgid ""
 "These Duplicants have an increased chance of contracting diseases from germ "
 "exposure"
 msgstr ""
+"Bu Duplicant'ların mikrop maruziyetinden hastalıklara yakalanma şansı "
+"yüksektir."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.NAME"
 msgid "Disease"
-msgstr ""
+msgstr "Hastalık"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.TOOLTIP
 msgctxt ""
@@ -63706,34 +63771,36 @@ msgctxt ""
 msgid ""
 "Affects Duplicants' chances of contracting a disease after germ exposure"
 msgstr ""
+"Duplicant'ların mikrop maruziyetinden sonra bir hastalığa yakalanma şansını "
+"etkiler"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DEFAULT.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DEFAULT."
 "NAME"
 msgid "Default"
-msgstr ""
+msgstr "Varsayılan"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DEFAULT.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DEFAULT."
 "TOOLTIP"
 msgid "Default morale needs"
-msgstr ""
+msgstr "Varsayılan moral ihtiyaçları"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DISABLED.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DISABLED."
 "ATTRIBUTE_MODIFIER_NAME"
 msgid "Totally Blasé (No Morale)"
-msgstr ""
+msgstr "Tamamen Usanmış (Moral Yok)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DISABLED.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DISABLED."
 "NAME"
 msgid "Totally Blasé"
-msgstr ""
+msgstr "Tamamen Usanmış"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DISABLED.TOOLTIP
 msgctxt ""
@@ -63743,19 +63810,21 @@ msgid ""
 "These Duplicants have zero standards and will never gain stress, regardless "
 "of their morale"
 msgstr ""
+"Bu Duplicant'ların sıfır standartları vardır ve moralleri ne olursa olsun "
+"asla strese girmezler."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.EASY.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.EASY."
 "ATTRIBUTE_MODIFIER_NAME"
 msgid "Chill (Difficulty Down)"
-msgstr ""
+msgstr "Sakin (Zorluk Azalışı)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.EASY.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.EASY.NAME"
 msgid "Chill"
-msgstr ""
+msgstr "Sakin"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.EASY.TOOLTIP
 msgctxt ""
@@ -63763,19 +63832,20 @@ msgctxt ""
 "TOOLTIP"
 msgid "Duplicants require lower morale than usual to fend off stress"
 msgstr ""
+"Duplicant'lar, stresi savuşturmak için normalden daha düşük moral gerektirir"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.HARD.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.HARD."
 "ATTRIBUTE_MODIFIER_NAME"
 msgid "A Bit Persnickety (Difficulty Up)"
-msgstr ""
+msgstr "Biraz Mızmız (Zorluk Artışı)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.HARD.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.HARD.NAME"
 msgid "A Bit Persnickety"
-msgstr ""
+msgstr "Biraz Mızmız"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.HARD.TOOLTIP
 msgctxt ""
@@ -63783,20 +63853,21 @@ msgctxt ""
 "TOOLTIP"
 msgid "Duplicants require higher morale than usual to fend off stress"
 msgstr ""
+"Duplicant'lar, stresi savuşturmak için normalden daha yüksek moral gerektirir"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.VERYHARD.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.VERYHARD."
 "ATTRIBUTE_MODIFIER_NAME"
 msgid "Draconian (Highest Difficulty)"
-msgstr ""
+msgstr "Haşin (En Yüksek Zorluk)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.VERYHARD.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.VERYHARD."
 "NAME"
 msgid "Draconian"
-msgstr ""
+msgstr "Haşin"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.VERYHARD.TOOLTIP
 msgctxt ""
@@ -63806,45 +63877,49 @@ msgid ""
 "The finest of the finest can barely keep up with these Duplicants' stringent "
 "demands"
 msgstr ""
+"En iyilerin en iyisi, bu Duplicant'ların katı taleplerine zar zor "
+"yetişebiliyor."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.NAME"
 msgid "Morale"
-msgstr ""
+msgstr "Moral"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.TOOLTIP"
 msgid ""
 "Adjusts the minimum morale Duplicants must maintain to avoid gaining stress"
 msgstr ""
+"Duplicant'ların stresten kaçınmak için sürdürmesi gereken minimum morali "
+"ayarlar"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.DEFAULT.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS."
 "DEFAULT.NAME"
 msgid "Default"
-msgstr ""
+msgstr "Varsayılan"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.DEFAULT.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS."
 "DEFAULT.TOOLTIP"
 msgid "Default radiation settings"
-msgstr ""
+msgstr "Varsayılan radyasyon ayarları"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIER.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS."
 "EASIER.ATTRIBUTE_MODIFIER_NAME"
 msgid "Radiation Shielded (Difficulty Down)"
-msgstr ""
+msgstr "Radyasyon Korumalı (Zorluk Azalışı)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIER.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS."
 "EASIER.NAME"
 msgid "Easier"
-msgstr ""
+msgstr "Daha kolay"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIER.TOOLTIP
 msgctxt ""
@@ -63854,20 +63929,22 @@ msgid ""
 "Duplicants can be exposed to much more radiation before they get sick and "
 "recover from radiation exposure much faster"
 msgstr ""
+"Duplicant hastalanmadan önce çok daha fazla radyasyona maruz kalabilir ve "
+"radyasyona maruz kalmaktan çok daha hızlı kurtulabilir."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIEST.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS."
 "EASIEST.ATTRIBUTE_MODIFIER_NAME"
 msgid "Radiation Protection (Lowest Difficulty)"
-msgstr ""
+msgstr "Radyasyondan Korunma (En Düşük Zorluk)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIEST.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS."
 "EASIEST.NAME"
 msgid "Easiest"
-msgstr ""
+msgstr "En kolayı"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.EASIEST.TOOLTIP
 msgctxt ""
@@ -63877,20 +63954,22 @@ msgid ""
 "Duplicants are essentially invulnerable to radiation sickness, and recover "
 "from radiation exposure very quickly"
 msgstr ""
+"Kopyalar esasen radyasyon hastalığına karşı savunmasızdır ve radyasyona "
+"maruz kaldıktan sonra çok hızlı bir şekilde iyileşirler."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDER.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS."
 "HARDER.ATTRIBUTE_MODIFIER_NAME"
 msgid "Radiation Vulnerable (Difficulty Up)"
-msgstr ""
+msgstr "Radyasyona Duyarlı (Zorluk Artışı)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDER.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS."
 "HARDER.NAME"
 msgid "Harder"
-msgstr ""
+msgstr "Daha zor"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDER.TOOLTIP
 msgctxt ""
@@ -63898,20 +63977,22 @@ msgctxt ""
 "HARDER.TOOLTIP"
 msgid "Duplicants get sick sooner and recover from radiation exposure slower"
 msgstr ""
+"Duplicant'lar daha erken hastalanır ve radyasyona maruz kalmaktan daha yavaş "
+"kurtulur"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDEST.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS."
 "HARDEST.ATTRIBUTE_MODIFIER_NAME"
 msgid "Super Radiation (Highest Difficulty)"
-msgstr ""
+msgstr "Süper Radyasyon (En Yüksek Zorluk)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDEST.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS."
 "HARDEST.NAME"
 msgid "Hardest"
-msgstr ""
+msgstr "En zoru"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.LEVELS.HARDEST.TOOLTIP
 msgctxt ""
@@ -63921,11 +64002,13 @@ msgid ""
 "Duplicants get sick much sooner and recover from radiation exposure much "
 "slower"
 msgstr ""
+"Duplicant'lar çok daha erken hastalanır ve radyasyona maruz kaldıktan sonra "
+"çok daha yavaş iyileşir"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.NAME"
 msgid "Radiation"
-msgstr ""
+msgstr "Radyasyon"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.RADIATION.TOOLTIP
 msgctxt ""
@@ -63934,40 +64017,42 @@ msgid ""
 "Affects how much radiation a Duplicant can be exposed to before they become "
 "sick, and how quickly a Duplicant can recover from radiation exposure"
 msgstr ""
+"Bir Duplicant'ın hasta olmadan önce ne kadar radyasyona maruz kalabileceğini "
+"ve radyasyona maruz kaldıktan sonra ne kadar çabuk iyileşebileceğini etkiler."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.LEVELS.DISABLED.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.LEVELS."
 "DISABLED.NAME"
 msgid "Disabled"
-msgstr ""
+msgstr "Devre dışı"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.LEVELS.DISABLED.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.LEVELS."
 "DISABLED.TOOLTIP"
 msgid "Unchecked: Sandbox Mode is turned off (Default)"
-msgstr ""
+msgstr "İşaretli değil: Sandbox Modu kapalı (Varsayılan)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.LEVELS.ENABLED.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.LEVELS."
 "ENABLED.NAME"
 msgid "Enabled"
-msgstr ""
+msgstr "Etkinleştirilmiş"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.LEVELS.ENABLED.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.LEVELS."
 "ENABLED.TOOLTIP"
 msgid "Checked: Sandbox Mode is turned on"
-msgstr ""
+msgstr "İşaretli: Sandbox Modu açık"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.NAME"
 msgid "Sandbox Mode"
-msgstr ""
+msgstr "Sandbox Modu"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.TOOLTIP
 msgctxt ""
@@ -63976,40 +64061,42 @@ msgid ""
 "Manipulate and customize the simulation with tools that ignore regular game "
 "constraints"
 msgstr ""
+"Normal oyun kısıtlamalarını göz ardı eden araçlarla simülasyonu yönetin ve "
+"özelleştirin"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SAVETOCLOUD.LEVELS.DISABLED.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SAVETOCLOUD.LEVELS."
 "DISABLED.NAME"
 msgid "Disabled"
-msgstr ""
+msgstr "Devre dışı"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SAVETOCLOUD.LEVELS.DISABLED.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SAVETOCLOUD.LEVELS."
 "DISABLED.TOOLTIP"
 msgid "Unchecked: This colony will be a local save"
-msgstr ""
+msgstr "İşaretli değil: Bu koloni yerel bir kayıt olacak"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SAVETOCLOUD.LEVELS.ENABLED.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SAVETOCLOUD.LEVELS."
 "ENABLED.NAME"
 msgid "Enabled"
-msgstr ""
+msgstr "Etkinleştirilmiş"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SAVETOCLOUD.LEVELS.ENABLED.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SAVETOCLOUD.LEVELS."
 "ENABLED.TOOLTIP"
 msgid "Checked: This colony will be a cloud save (Default)"
-msgstr ""
+msgstr "İşaretli: Bu koloni bir bulut kaydı olacak (Varsayılan)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SAVETOCLOUD.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SAVETOCLOUD.NAME"
 msgid "Save To Cloud"
-msgstr ""
+msgstr "Buluta Kaydet"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SAVETOCLOUD.TOOLTIP
 msgctxt ""
@@ -64018,6 +64105,8 @@ msgid ""
 "This colony will be created in the cloud saves folder, and synced by the "
 "game platform."
 msgstr ""
+"Bu koloni, bulut kaydetme klasöründe oluşturulacak ve oyun platformu "
+"tarafından senkronize edilecektir."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SAVETOCLOUD.TOOLTIP_EXTRA
 msgctxt ""
@@ -64027,6 +64116,8 @@ msgid ""
 "This can be changed later with the colony management options in the load "
 "screen, from the main menu."
 msgstr ""
+"Bu, daha sonra ana menüden yükleme ekranındaki koloni yönetimi seçenekleri "
+"ile değiştirilebilir."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SAVETOCLOUD.TOOLTIP_LOCAL
 msgctxt ""
@@ -64036,34 +64127,36 @@ msgid ""
 "This colony will be created in the local saves folder. It will not be a "
 "cloud save and will not be synced by the game platform."
 msgstr ""
+"Bu koloni, yerel kayıtlar klasöründe oluşturulacaktır. Buluta kaydetme "
+"olmayacak ve oyun platformu tarafından senkronize edilmeyecek."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.DEFAULT.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.DEFAULT."
 "NAME"
 msgid "Default"
-msgstr ""
+msgstr "Varsayılan"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.DEFAULT.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.DEFAULT."
 "TOOLTIP"
 msgid "Default stress change rate"
-msgstr ""
+msgstr "Varsayılan stres değişim oranı"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.DOOMED.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.DOOMED."
 "ATTRIBUTE_MODIFIER_NAME"
 msgid "Frankly Depressing (Highest Difficulty)"
-msgstr ""
+msgstr "Açıkçası Depresif (En Yüksek Zorluk)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.DOOMED.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.DOOMED."
 "NAME"
 msgid "Frankly Depressing"
-msgstr ""
+msgstr "Açıkçası Depresif"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.DOOMED.TOOLTIP
 msgctxt ""
@@ -64073,20 +64166,22 @@ msgid ""
 "These Duplicants were never taught coping mechanisms... they're devastated "
 "by stress as a result"
 msgstr ""
+"Bu Duplicant'lara asla başa çıkma mekanizmaları öğretilmedi... sonuç olarak "
+"stres yüzünden mahvoldular."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.INDOMITABLE.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS."
 "INDOMITABLE.ATTRIBUTE_MODIFIER_NAME"
 msgid "Cloud Nine (No Stress)"
-msgstr ""
+msgstr "Cloud Nine (Stres Yok)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.INDOMITABLE.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS."
 "INDOMITABLE.NAME"
 msgid "Cloud Nine"
-msgstr ""
+msgstr "Cloud Nine"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.INDOMITABLE.TOOLTIP
 msgctxt ""
@@ -64096,20 +64191,22 @@ msgid ""
 "A strong emotional support system makes these Duplicants impervious to all "
 "stress"
 msgstr ""
+"Güçlü bir duygusal destek sistemi, bu Duplicant'ları tüm streslere karşı "
+"dayanıklı hale getirir."
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.OPTIMISTIC.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS."
 "OPTIMISTIC.ATTRIBUTE_MODIFIER_NAME"
 msgid "Chipper (Difficulty Down)"
-msgstr ""
+msgstr "Canlı (Zorluk Azalışı)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.OPTIMISTIC.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS."
 "OPTIMISTIC.NAME"
 msgid "Chipper"
-msgstr ""
+msgstr "Canlı"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.OPTIMISTIC.TOOLTIP
 msgctxt ""
@@ -64123,14 +64220,14 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS."
 "PESSIMISTIC.ATTRIBUTE_MODIFIER_NAME"
 msgid "Glum (Difficulty Up)"
-msgstr ""
+msgstr "Kasvetli (Zorluk Artışı)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.PESSIMISTIC.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS."
 "PESSIMISTIC.NAME"
 msgid "Glum"
-msgstr ""
+msgstr "Kasvetli"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.PESSIMISTIC.TOOLTIP
 msgctxt ""
@@ -64215,7 +64312,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.TELEPORTERS.LEVELS."
 "ENABLED.NAME"
 msgid "Enabled"
-msgstr ""
+msgstr "Etkinleştirilmiş"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.TELEPORTERS.LEVELS.ENABLED.TOOLTIP
 msgctxt ""
@@ -64228,7 +64325,7 @@ msgstr ""
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.TELEPORTERS.NAME"
 msgid "Teleporters"
-msgstr ""
+msgstr "Işınlayıcılar"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.TELEPORTERS.TOOLTIP
 msgctxt ""
